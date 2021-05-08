@@ -1,0 +1,2793 @@
+#AREADATA
+Name Necroptic Desert~
+Pref ~
+Builders Raki~
+VNUMs 31700 31799
+Max_Bastions 0
+Credits (40-50) Raki     Necroptic Desert~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31700
+cactus~
+a withered cactus~
+A dried cactus is here but doesnt look planted in the sand.
+~
+This withered prickley plant doesnt look too dangerous...
+~
+horned beast~
+AGd A D 0 -750 0
+40 45 10d10+1150 0d0+0 5d5+25 thorns
+-18 -18 -18 -1
+CEKU H 0 R
+stand stand none none~
+0
+AGV ABCDEFHJKW medium 0
+#31701
+bleeding paladin wounded~
+a wounded paladin~
+A paladin is here bleeding from his wounds.
+~
+Lying here on the ground is a horribly wounded would be hero.  It appears
+he cannot move anymore and he is bleeding all over turning the sand red.  He
+perks up when you approach as if he wants to say something.  
+~
+elf~
+ABe A JMP 0 750 0
+50 50 1d1+1500 0d0+0 5d5+25 wrath
+-20 -20 -20 -20
+0 AB B Z
+rest rest either none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 31701 100~
+#31702
+Acolyte Aagnor~
+the acolyte of Aagnor~
+A tall dark man in a red robe is chanting something.
+~
+Dressed in a horribly torn red robe, this man chants endlessly. The sand in the wind blows clean through the robe and as he turns to look at you, you notice there are no eyes in his head.
+~
+drow~
+Ae A JP 0 -750 0
+50 45 1d1+2000 0d0+0 5d5+25 faith
+-20 -20 -20 -10
+0 AB B Ya
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+P DEATH 31700 100~
+#31703
+acolyte acumen~
+the acolyte of acumen~
+A short dark dwarf is here chanting madly.
+~
+Before you stands a dark and surly dwarf.  He is a proud member of the
+Acumen and guardian of one of the keys to the tower.  Regrettably he is
+mostly naked due to the sandstorms and he is also quite dead.  Some how his
+body has continued functioning though.  
+~
+duergar~
+ABOe A J 0 -750 0
+50 45 1d1+2000 0d0+0 5d5+25 faith
+-20 -20 -20 -10
+0 AB CL NR
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P DEATH 31703 100~
+#31704
+insane giant~
+an insane giant fanatic~
+A giant is here chanting fanatically.
+~
+Another of the guardians of the keys, this giant was known as overzealous
+by most people.  Never the less he continues his chanting and ranting even
+though his very flesh is being eaten away by the heat and sand.  
+~
+gnome~
+ABFOe A J 0 0 0
+50 45 1d1+2000 0d0+0 5d5+25 fury
+-20 -20 -20 -10
+0 AB 0 BNP
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P DEATH 31704 100~
+#31705
+golem evil~
+a golem of pure evil~
+A golem that seems to be made of pure energy.
+~
+Unlike the other keepers of the keys, this one was never alive.  In fact
+it is hard to believe that this thing is still functioning.  It glows with a
+dark aura and moves without the robotic start-stop that most golems have.  
+~
+golem~
+ABFe A 0 0 -750 0
+50 45 1d1+2000 0d0+0 5d5+25 pound
+-20 -20 -20 -10
+CEFHIJKNX AB 0 0
+stand stand none none~
+0
+HJc ABCHIJK medium 0
+P DEATH 31705 100~
+#31706
+sand beast~
+a sand beast~
+A large beast snarls as sand swirls around its body.
+~
+Not too bad looking, this beast seems rather agreeable.  The long hair
+all over its body traps sand in it giving the look that it is almost made of
+sand.  Though it does have long teeth and claws it seems to have a rather
+light demeanor.  
+~
+troll~
+AGT A 0 0 -350 0
+50 55 10d20+1350 0d0+0 6d6+30 crush
+-12 -12 -12 -10
+CEFHKX 0 0 0
+stand stand none none~
+0
+ABHMV ABCDEFGHIJK large 0
+#31707
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AGT A V 0 -750 0
+58 68 20d20+1550 0d0+0 7d6+35 none
+-12 -12 -12 -10
+CEFHKX 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31796
+forsaken dragon necgon3~
+the mutated Forsaken Dragon~
+A horrible dragon forsaken by the heavens.
+~
+~
+undead~
+ABFGORe AC HJ 0 -1000 0
+60 75 1d1+7999 0d0+0 40d1+50 psbite
+-27 -27 -27 -20
+0 LQ HI N
+stand stand none none~
+0
+0 ABCDEFGHIJK medium 0
+P GRALL 31796 100~
+P DEATH 31796 100~
+#31797
+forsaken wight priest ghost dragon necgon2~
+the mutated Forsaken Wight~
+The ghostly priest of this temple has mutated!
+~
+~
+undead~
+ABFGORe AC JP 0 -1000 0
+60 75 1d1+9999 0d0+0 35d1+45 claw
+-27 -27 -27 -20
+0 LQ I N
+stand stand none none~
+0
+0 ABCDEFGHIJK medium 0
+P DEATH 31798 100~
+#31798
+skelital warrior~
+a skelital warrior~
+A tall skeleton is here wielding a sword.
+~
+~
+undead~
+ABCFOTe A J 0 -750 0
+58 40 10d100+2000 0d0+0 2d15+45 slash
+-20 -20 -20 -10
+0 LQ I N
+stand stand none none~
+0
+0 ABCDEFGHIJK medium 0
+#31799
+forsaken wight priest ghost~
+the Forsaken Wight~
+The ghostly priest of this temple, the Forsaken Wight.
+~
+The master of this tower, this incarnation seems to think he is god.  Of
+all things he seems to be changing shape slowly at first, but increasing in
+speed as time goes by.  You don't really want to know what he is changing
+into that is for sure.  
+~
+undead~
+ABFGORe AC JP 0 -1000 0
+60 75 1d1+7499 100d100+100 30d1+40 corruption
+-2 -2 -2 -2
+CEFHKN LQ I N
+stand stand none none~
+0
+0 ABCDEFGHIJK medium 0
+P DEATH 31799 100~
+#0
+
+
+
+#OBJECTS
+#31700
+torn red robe~
+a torn red robe~
+A pile of red cloth is here with holes all through it.~
+cloth~
+armor Be AKX
+12 12 12 7 0
+50 0 15 P
+F
+A 20 -7 0
+F
+A 22 -8 0
+F
+A 24 -3 0
+#31701
+whip white flame~
+a whip of white flame~
+A handle made of ivory has a long string of white flame.~
+fire~
+weapon ABe ANX
+whip 6 6 flbite A
+50 3 10 P
+#31702
+aura insanity~
+the aura of insanity~
+A ghostly aura that seems to defy logic.~
+spirit~
+treasure MRY AQX
+0 0 0 0 0
+50 1 10 P
+F
+A 18 4 0
+F
+A 19 4 0
+F
+A 24 8 0
+F
+A 17 75 0
+F
+S 232 10 0
+#31703
+tainted earrings~
+a pair of tainted earrings~
+A pair of clip on earrings.~
+evil~
+jewelry ABJ AXZ
+0 0 0 0 0
+50 1 10 P
+F
+A 19 3 0
+F
+A 22 -10 0
+#31789
+mark ring sage~
+the `!mark`` of the `%Sage``~
+A ring commemerating the bravest sages.~
+energy~
+jewelry ABI AB
+0 0 0 0 0
+50 1 1 P
+F
+A 18 3 0
+F
+A 19 3 0
+F
+A 13 25 0
+#31790
+mark ring priest~
+the `!mark`` of the `&Priest``~
+A ring commemerating the holiest priests.~
+energy~
+jewelry R AB
+0 0 0 0 0
+50 1 0 P
+F
+A 18 2 0
+F
+A 19 2 0
+F
+A 24 -2 0
+#31791
+key aagnor~
+the key of Aagnor~
+A small key that is made of sand.~
+sand~
+key 0 A
+0 0 0 0 0
+50 1 0 P
+#31792
+key acumen~
+the key of acumen~
+A small key that is made of sand.~
+sand~
+key 0 A
+0 0 0 0 0
+50 1 0 P
+#31793
+key insanity~
+the key of insanity~
+A small key that is made of sand.~
+sand~
+key 0 A
+0 0 0 0 0
+50 1 0 P
+#31794
+key evil~
+the key of evil~
+A small key that is made of sand.~
+sand~
+key 0 A
+0 0 0 0 0
+50 1 0 P
+#31795
+bone sword~
+a bone sword~
+A long thin sword of sharpened bone is here~
+bone~
+weapon Re ANX
+sword 6 7 slash DH
+55 5 10 P
+F
+A 19 -3 0
+F
+A 18 3 0
+#31796
+mark ring wizard~
+the `!mark`` of the `^Wizard``~
+A ring commemerating the wisest wizards.~
+energy~
+jewelry ABR AB
+0 0 0 0 0
+60 1 2 P
+F
+A 21 -5 0
+F
+A 22 -5 0
+#31797
+ring mark rogue~
+the `!mark`` of the `@Rogue``~
+A ring commemerating the craftiest rogues.~
+energy~
+jewelry HY AB
+0 0 0 0 0
+60 1 0 P
+F
+A 18 6 0
+F
+A 2 4 0
+#31798
+ring warrior~
+the `!mark`` of the `$Warrior``~
+A ring commemerating the bravest warriors.~
+gold~
+jewelry AB AB
+0 0 0 0 0
+60 2 0 P
+F
+A 18 3 0
+F
+A 19 3 0
+F
+A 17 -25 0
+#31799
+altar forsaken~
+The Altar of the Forsaken~
+A large clean altar is here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+1 10001 0 P
+#0
+
+
+
+#ROOMS
+#31744
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31742
+D1
+~
+~
+0 0 31748
+D2
+~
+~
+0 0 31746
+D3
+~
+~
+0 0 31745
+S
+#31745
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31744
+S
+#31746
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31744
+D3
+~
+~
+0 0 31747
+S
+#31747
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31746
+D3
+~
+~
+0 0 31709
+S
+#31748
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31749
+D3
+~
+~
+0 0 31744
+S
+#31749
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31750
+D1
+~
+~
+0 0 31751
+D2
+~
+~
+0 0 31752
+D3
+~
+~
+0 0 31748
+S
+#31750
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31749
+S
+#31751
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D3
+~
+~
+0 0 31749
+S
+#31752
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31749
+D3
+~
+~
+0 0 31753
+S
+#31753
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31752
+S
+#31754
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31735
+D1
+~
+~
+0 0 31760
+D3
+~
+~
+0 0 31755
+S
+#31755
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31754
+D2
+~
+~
+0 0 31756
+S
+#31756
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31755
+D1
+~
+~
+0 0 31758
+D3
+~
+~
+0 0 31757
+S
+#31757
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31756
+S
+#31758
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31759
+D2
+~
+~
+0 0 31766
+D3
+~
+~
+0 0 31756
+S
+#31759
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31760
+D1
+~
+~
+0 0 31761
+D3
+~
+~
+0 0 31758
+S
+#31760
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31759
+D3
+~
+~
+0 0 31754
+S
+#31761
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31762
+D3
+~
+~
+0 0 31759
+S
+#31762
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31761
+D2
+~
+~
+0 0 31763
+S
+#31763
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31762
+D1
+~
+~
+0 0 31774
+D3
+~
+~
+0 0 31764
+S
+#31764
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31765
+D1
+~
+~
+0 0 31763
+D3
+~
+~
+0 0 31767
+S
+#31765
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31764
+D3
+~
+~
+0 0 31766
+S
+#31766
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31758
+D1
+~
+~
+0 0 31765
+S
+#31767
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31768
+D1
+~
+~
+0 0 31764
+D2
+~
+~
+0 0 31771
+D3
+~
+~
+0 0 31770
+S
+#31768
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 31770
+D1
+~
+~
+0 0 31772
+D2
+~
+~
+0 0 31767
+D3
+~
+~
+0 0 31769
+S
+#31769
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 31772
+D1
+~
+~
+0 0 31768
+D2
+~
+~
+0 0 31772
+D3
+~
+~
+0 0 31771
+S
+#31770
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 31768
+D1
+~
+~
+0 0 31767
+D2
+~
+~
+0 0 31768
+D3
+~
+~
+0 0 31773
+S
+#31771
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31767
+D1
+~
+~
+0 0 31769
+D2
+~
+~
+0 0 31773
+D3
+~
+~
+0 0 31772
+S
+#31772
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31769
+D1
+~
+~
+0 0 31771
+D2
+~
+~
+0 0 31769
+D3
+~
+~
+0 0 31768
+S
+#31773
+`#A glistening mirage``~
+Water at last!  Life!  Trees!  Everything you could ever need in life is
+here!  The grass on the ground feels great, like the sand that this desert
+is so famous for!  Wait, grass that feels like sand?  The trees, lakes, and
+everything you want fade from view and gets replaced by sand as you realize
+that it was nothing more than an illusion.  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31771
+D1
+~
+~
+0 0 31770
+D2
+~
+~
+0 0 31713
+S
+#31774
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31775
+D3
+~
+~
+0 0 31763
+S
+#31775
+`8Before an Unholy Temple``~
+Almost on command the sand stops.  There is no wind here, no sand, no
+water, this place is warm and cozy compared to the rest of the desert. 
+Unfortunately you now know where that foul wind was coming from and this
+place is still devoid of life.  
+~
+~
+0 13 0 0
+D3
+~
+~
+0 0 31774
+D4
+~
+~
+ABC 31794 31776
+S
+#31776
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31777
+D5
+~
+~
+ABC 0 31775
+S
+#31777
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31778
+D3
+~
+~
+0 0 31776
+S
+#31778
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D2
+~
+~
+0 0 31777
+D3
+~
+~
+0 0 31779
+S
+#31779
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31778
+D4
+~
+~
+ABC 31793 31780
+S
+#31780
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31781
+D5
+~
+~
+ABC 0 31779
+S
+#31781
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D2
+~
+~
+0 0 31782
+D3
+~
+~
+0 0 31780
+S
+#31782
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31781
+D3
+~
+~
+0 0 31783
+S
+#31783
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31782
+D4
+~
+~
+ABC 31792 31784
+S
+#31784
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31785
+D5
+~
+~
+ABC 0 31783
+S
+#31785
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31786
+D3
+~
+~
+0 0 31784
+S
+#31786
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D2
+~
+~
+0 0 31785
+D3
+~
+~
+0 0 31787
+S
+#31787
+`8The Temple of the Forsaken``~
+This tower stands erected at least four stories tall, and has a very
+large crown on top.  There are bones scattered everywhere, and the air is
+thick with dust.  No doubt you are breathing the remains of these tormented
+adventurers.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31786
+D4
+~
+~
+ABC 31791 31788
+S
+#31788
+`8The Altar of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31791
+D1
+~
+~
+0 0 31789
+D2
+~
+~
+0 0 31792
+D3
+~
+~
+0 0 31790
+D5
+~
+~
+ABC 0 31787
+S
+#31789
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31793
+D2
+~
+~
+0 0 31796
+D3
+~
+~
+0 0 31788
+S
+#31790
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31794
+D1
+~
+~
+0 0 31788
+D2
+~
+~
+0 0 31795
+S
+#31791
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31793
+D2
+~
+~
+0 0 31788
+D3
+~
+~
+0 0 31794
+S
+#31792
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31788
+D1
+~
+~
+0 0 31796
+D3
+~
+~
+0 0 31795
+S
+#31793
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D2
+~
+~
+0 0 31789
+D3
+~
+~
+0 0 31791
+S
+#31794
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D1
+~
+~
+0 0 31791
+D2
+~
+~
+0 0 31790
+S
+#31795
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31790
+D1
+~
+~
+0 0 31792
+S
+#31796
+`8The Top of the Temple of the Forsaken``~
+Finally at the top of the tower, you stand at a large open space.  You
+are above the wind, above the smell.  It is in fact a long way down should
+you fall off an edge.  The up side is the floor is very clean, and there are
+no bones or severed limbs to trip over.  As a matter of fact there is
+nothing here except a large table set dead center of the tower.  
+~
+~
+0 574881801 0 0
+D0
+~
+~
+0 0 31789
+D3
+~
+~
+0 0 31792
+S
+#31797
+`3Grains of sand``~
+After leaving the city you find yourself staring across many dunes of
+sand.  There is really nothing else to it.  It looks hot and dry and believe
+it or not there are things moving in there.  The sun beats down really hard
+and has obviously bleached some of the sand.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31798
+D2
+~
+~
+0 0 31700
+S
+#31798
+`7Outside the South Gate``~
+The grand city of Menasette lies to the north.  There are many people
+gathered here but all of them seem to stay back away from the desert to the
+south.  There are bits of fine grain sand scattered all over the paving
+stones that seem to become more and more buried as you look south.  
+ 
+There is a sign stuck in the ground.
+~
+~
+0 0 0 1
+E
+sign~
+WARNING!!!
+TO THE SOUTH IS A DANGEROUS DESSERT! 
+DO NOT GO WITHOUT PLENTY OF FOOD AND WATER!!!
+~
+D0
+~
+~
+0 0 32620
+D2
+~
+~
+0 0 31797
+S
+#31799
+`8No Man's Land``~
+~
+~
+0 278933001 0 0
+S
+#31700
+`#The Sand Before the Necroptic Desert``~
+You stand at the entrance to the fabled Necroptic sands.  Bad things are
+rumored to happen here and given the foul wind that blows from the south,
+they are likely not just rumors.  Bones from uncollected remains litter the
+ground, most half way decomposed, or ground away by sandstorm after
+sandstorm.  
+~
+~
+0 574881797 0 10
+D0
+~
+~
+0 0 31797
+D2
+~
+~
+0 0 31701
+S
+#31701
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31700
+D1
+~
+~
+0 0 31721
+D3
+~
+~
+0 0 31702
+S
+#31702
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31701
+D2
+~
+~
+0 0 31729
+D3
+~
+~
+0 0 31703
+S
+#31703
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31702
+D2
+~
+~
+0 0 31704
+D3
+~
+~
+0 0 31703
+S
+#31704
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31703
+D1
+~
+~
+0 0 31729
+D2
+~
+~
+0 0 31705
+D3
+~
+~
+0 0 31704
+S
+#31705
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31704
+D2
+~
+~
+0 0 31706
+D3
+~
+~
+0 0 31705
+S
+#31706
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31705
+S
+#31707
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31743
+D2
+~
+~
+0 0 31708
+D3
+~
+~
+0 0 31707
+S
+#31708
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31707
+D2
+~
+~
+0 0 31709
+S
+#31709
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31708
+D1
+~
+~
+0 0 31747
+D2
+~
+~
+0 0 31710
+D3
+~
+~
+0 0 31709
+S
+#31710
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31709
+D3
+~
+~
+0 0 31710
+S
+#31711
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31712
+S
+#31712
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31711
+D1
+~
+~
+0 0 31713
+D2
+~
+~
+0 0 31712
+D3
+~
+~
+0 0 31712
+S
+#31713
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31773
+D2
+~
+~
+0 0 31713
+D3
+~
+~
+0 0 31712
+S
+#31714
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31715
+S
+#31715
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 31717
+D2
+~
+~
+0 0 31716
+D3
+~
+~
+0 0 31714
+S
+#31716
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 0 0 10
+D3
+~
+~
+0 0 31715
+S
+#31717
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31718
+D2
+~
+~
+0 0 31717
+D3
+~
+~
+0 0 31715
+S
+#31718
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  Congratulations!  You managed to get
+yourself lost in this horrible place.  The wind is picking up and sand is
+striking you on all sides.  You cant believe that there is nothing around,
+no trees, rocks, stones nothing, most depressingly there is no water...  
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 31719
+D2
+~
+~
+0 0 31718
+D3
+~
+~
+0 0 31717
+S
+#31719
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31720
+D2
+~
+~
+0 0 31719
+D3
+~
+~
+0 0 31718
+S
+#31720
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31722
+D2
+~
+~
+0 0 31720
+D3
+~
+~
+0 0 31719
+S
+#31721
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31723
+D3
+~
+~
+0 0 31701
+S
+#31722
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31722
+D3
+~
+~
+0 0 31720
+S
+#31723
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31721
+D1
+~
+~
+0 0 31724
+S
+#31724
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31725
+D3
+~
+~
+0 0 31723
+S
+#31725
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31724
+D1
+~
+~
+0 0 31730
+D2
+~
+~
+0 0 31739
+D3
+~
+~
+0 0 31726
+S
+#31726
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31725
+D3
+~
+~
+0 0 31727
+S
+#31727
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31728
+D1
+~
+~
+0 0 31726
+D2
+~
+~
+0 0 31736
+S
+#31728
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31727
+D3
+~
+~
+0 0 31729
+S
+#31729
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31702
+D1
+~
+~
+0 0 31728
+D3
+~
+~
+0 0 31704
+S
+#31730
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31731
+D3
+~
+~
+0 0 31725
+S
+#31731
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31730
+D1
+~
+~
+0 0 31732
+D2
+~
+~
+0 0 31733
+S
+#31732
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31734
+D3
+~
+~
+0 0 31731
+S
+#31733
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31731
+D1
+~
+~
+0 0 31734
+S
+#31734
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31732
+D1
+~
+~
+0 0 31735
+D3
+~
+~
+0 0 31733
+S
+#31735
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31754
+D3
+~
+~
+0 0 31734
+S
+#31736
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31727
+D3
+~
+~
+0 0 31737
+S
+#31737
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31738
+D1
+~
+~
+0 0 31736
+S
+#31738
+`#A Small Shelter From the Sand``~
+You are in a small alcove; somehow this rock is shielding the winds from
+blowing on you.  Still the ground is nothing but sand and the large rock is
+very hot to the touch.  There is no life here, nothing, not even here where
+it could be, somehow the sands blight out all life.  
+~
+~
+0 574881793 0 10
+D2
+~
+~
+0 0 31737
+S
+#31739
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31725
+D3
+~
+~
+0 0 31740
+S
+#31740
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31739
+D2
+~
+~
+0 0 31741
+S
+#31741
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D0
+~
+~
+0 0 31740
+D3
+~
+~
+0 0 31742
+S
+#31742
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31741
+D2
+~
+~
+0 0 31744
+D3
+~
+~
+0 0 31743
+S
+#31743
+`#Lost in the Necroptic Desert``~
+Congratulations!  You managed to get yourself lost in this horrible
+place.  The wind is picking up and sand is striking you on all sides.  You
+cant believe that there is nothing around, no trees, rocks, stones nothing,
+most depressingly there is no water...  
+~
+~
+0 574881793 0 10
+D1
+~
+~
+0 0 31742
+D3
+~
+~
+0 0 31707
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31700 20 31745 1
+M 0 31706 20 31746 1
+M 0 31700 20 31749 1
+M 0 31700 20 31751 1
+M 0 31700 20 31753 1
+M 0 31706 20 31754 1
+M 0 31700 20 31755 1
+M 0 31706 20 31756 1
+M 0 31700 20 31757 1
+M 0 31706 20 31759 1
+M 0 31706 20 31763 1
+M 0 31700 20 31766 1
+M 0 31706 20 31767 1
+M 0 31706 20 31768 1
+M 0 31706 20 31769 1
+M 0 31706 20 31770 1
+M 0 31706 20 31771 1
+M 0 31706 20 31772 1
+M 0 31706 20 31773 1
+M 0 31798 12 31776 1
+E 0 31795 0 17
+M 0 31798 12 31777 1
+E 0 31795 0 17
+M 0 31798 12 31778 1
+E 0 31795 0 17
+M 0 31798 12 31779 1
+E 0 31795 0 17
+M 0 31798 12 31780 1
+E 0 31795 0 17
+M 0 31798 12 31781 1
+E 0 31795 0 17
+M 0 31798 12 31782 1
+E 0 31795 0 17
+M 0 31798 12 31783 1
+E 0 31795 0 17
+M 0 31798 12 31784 1
+E 0 31795 0 17
+M 0 31798 12 31785 1
+E 0 31795 0 17
+M 0 31798 12 31786 1
+E 0 31795 0 17
+M 0 31798 12 31787 1
+E 0 31795 0 17
+O 0 31799 0 31788
+M 0 31799 1 31788 1
+M 0 31701 1 31700 1
+M 0 31700 20 31701 1
+M 0 31700 20 31703 1
+M 0 31700 20 31705 1
+M 0 31702 1 31706 1
+E 0 31700 0 13
+G 0 31791 0
+M 0 31703 1 31708 1
+E 0 31701 0 17
+G 0 31792 0
+M 0 31706 20 31709 1
+M 0 31704 1 31711 1
+E 0 31702 0 19
+G 0 31793 0
+M 0 31700 20 31712 1
+M 0 31705 1 31714 1
+E 0 31703 0 23
+G 0 31794 0
+M 0 31700 20 31717 1
+M 0 31700 20 31719 1
+M 0 31700 20 31723 1
+M 0 31700 20 31724 1
+M 0 31706 20 31725 1
+M 0 31706 20 31727 1
+M 0 31700 20 31729 1
+M 0 31706 20 31732 1
+M 0 31706 20 31733 1
+M 0 31700 20 31735 1
+M 0 31706 20 31738 1
+M 0 31700 20 31738 2
+M 0 31700 20 31738 2
+M 0 31700 20 31740 1
+M 0 31706 20 31743 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#31700
+If hasquest $n 'To find the keys to the tower.'
+Mob echo `4You have found the key of Aagnor.``
+Tempquest $n found the key of Aagnor.
+Endif
+If hasquest $n 'found the key of Aagnor.'
+If hasquest $n 'found the key of acumen.'
+If hasquest $n 'found the key of insanity.'
+If hasquest $n 'found the key of evil.'
+Remquest $n Found the key of acumen.
+Remquest $n Found the key of Aagnor.
+Remquest $n Found the key of insanity.
+Remquest $n Found the key of evil.
+Permquest $n Found the keys to the tower
+Else 
+break
+Endif
+Endif
+Endif
+Endif
+~
+#31701
+If hasquest $n 'stopped the revival of the Aagnor'
+Say Thank you, $n. I could not do what you have done.
+Say do not worry about me, I will be fine as soon as
+Say I recover a little bit.
+Break
+Else
+If hasquest $n 'To find the keys to the tower.'
+Say Please $n help me! Destroy that ghost!
+Say Do not give up hope!
+Break
+else
+Say $n thank the gods you have come! There are... things.
+say I tried to purge... I failed and the priest is trying
+say to...  the Aagnor! You must stop him! I warn you he...
+say like a ghost! The tower is sealed and the keys have
+say been scattered by his henchmen. Please you must... 
+say where I have failed!
+Mob echo `4You have been granted a quest!``
+tempquest $n to find the keys to the tower.
+Tempquest $n to defeat the tower's master.
+Endif
+Endif
+~
+#31703
+If hasquest $n 'To find the keys to the tower.'
+Mob echo `4You have found the key of acumen.``
+Tempquest $n found the key of acumen.
+Endif
+If hasquest $n 'found the key of Aagnor.'
+If hasquest $n 'found the key of acumen.'
+If hasquest $n 'found the key of insanity.'
+If hasquest $n 'found the key of evil.'
+Remquest $n Found the key of acumen.
+Remquest $n Found the key of Aagnor.
+Remquest $n Found the key of insanity.
+Remquest $n Found the key of evil.
+Permquest $n Found the keys to the tower
+Else 
+break
+Endif
+Endif
+Endif
+Endif
+~
+#31704
+If hasquest $n 'To find the keys to the tower.'
+Mob echo `4You have found the key of insanity.``
+Tempquest $n found the key of insanity.
+Endif
+If hasquest $n 'found the key of Aagnor.'
+If hasquest $n 'found the key of acumen.'
+If hasquest $n 'found the key of insanity.'
+If hasquest $n 'found the key of evil.'
+Remquest $n Found the key of acumen.
+Remquest $n Found the key of Aagnor.
+Remquest $n Found the key of insanity.
+Remquest $n Found the key of evil.
+Permquest $n Found the keys to the tower
+Else 
+break
+Endif
+Endif
+Endif
+Endif
+~
+#31705
+If hasquest $n 'To find the keys to the tower.'
+Mob echo `4You have found the key of evil.``
+Tempquest $n found the key of evil.
+Endif
+If hasquest $n 'found the key of Aagnor.'
+If hasquest $n 'found the key of acumen.'
+If hasquest $n 'found the key of insanity.'
+If hasquest $n 'found the key of evil.'
+Remquest $n Found the key of acumen.
+Remquest $n Found the key of Aagnor.
+Remquest $n Found the key of insanity.
+Remquest $n Found the key of evil.
+Permquest $n Found the keys to the tower
+Else 
+break
+Endif
+Endif
+Endif
+Endif
+~
+#31796
+if hasquest 'To defeat the tower's master.'
+if class $n Warrior
+load obj 31798
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Ranger
+load obj 31798
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Berserker
+load obj 31798
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Blademaster
+load obj 31798
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n crusader
+load obj 31798
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Thief
+load obj 31797
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Bard
+load obj 31797
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Ninja
+load obj 31797
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Monk
+load obj 31797
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Battlemage
+load obj 31796
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Invoker
+load obj 31796
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Necromancer
+load obj 31796
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n psionicist
+load obj 31796
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Cleric
+load obj 31790
+oowner $n
+give mark $n
+else
+break
+endif 
+if class $n Healer 
+load obj 31790
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Shaman 
+load obj 31790
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Druid
+load obj 31790
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Dark-Knight 
+load obj 31789
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Paladin 
+load obj 31789
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Vampire 
+load obj 31789
+oowner $n
+give mark $n
+else
+break
+endif
+if class $n Lich
+load obj 31789
+oowner $n
+give mark $n
+else
+break
+endif
+endif
+remquest $n To defeat the tower's master.
+permquest $n defeated the lord of the tower.
+mob echo `1You have defeated the lord of the tower.``
+~
+#31797
+~
+#31798
+Emote utters the words 'nakrku'.
+Mob echo `!Suddenly the Priest begins to mutate even more!``
+qtrans self 31799
+Load mob 31796
+qtrans Necgon3 31788
+Force necgon3 murder $n
+~
+#31799
+Emote utters the words 'nakrku'.
+Mob echo `!Suddenly the Priest begins to mutate into something!``
+qtrans self 31799
+Load mob 31797
+qtrans Necgon2 31788
+Force necgon2 murder $n
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

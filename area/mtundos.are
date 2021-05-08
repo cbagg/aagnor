@@ -1,0 +1,1776 @@
+#AREADATA
+Name Mt. Undos~
+Pref ~
+Builders Raki~
+VNUMs 30700 30799
+Max_Bastions 0
+Credits ( ALL ) Raki     Mt. Undos~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#30700
+bandit~
+a mountain bandit~
+A rugged looking man is here looking for someone to rob.
+~
+Ugly as sin and just as greedy perhaps you should watch your purse.  
+~
+human~
+AGe A 0 0 0 0
+15 15 10d2+200 0d0+0 2d3+10 punch
+5 5 5 10
+0 0 0 0
+stand stand male none~
+10
+AHMV ABCDEFGHIJK medium 0
+#30701
+antilope~
+an antilope~
+A strange looking animal with long horns grazes here.
+~
+~
+deer~
+AG A 0 0 0 0
+15 10 10d10+100 0d0+0 2d3+4 pound
+5 5 5 10
+0 0 0 0
+stand stand none none~
+0
+AGV ACDEFJKQ medium 0
+#30702
+mountian fox small~
+a fox~
+A small mountain fox is here.
+~
+~
+fox~
+AG A 0 0 0 0
+10 5 10d10+100 0d0+0 2d3+4 bite
+6 6 6 10
+N 0 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30703
+thunder master~
+the thunder master~
+A gigantic hermit is here mastering control over thunder and lightning.
+~
+~
+giant~
+AGTe A H 0 0 0
+30 35 10d10+900 0d0+0 3d10+20 shbite
+-3 -3 -3 -10
+CJKN A D P
+stand stand male none~
+30
+AHMV ABCDEFGHIJK medium 0
+#30704
+fire master~
+the fire master~
+A gigantic hermit is here mastering control over smoke and fire.
+~
+~
+giant~
+AGTe A H 0 0 0
+30 35 10d10+900 0d0+0 3d10+20 flbite
+-3 -3 -3 -10
+CEJKN A D P
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30705
+ice master~
+the ice master~
+A gigantic hermit is here mastering control over ice and cold.
+~
+~
+giant~
+AGTe A H 0 0 0
+30 35 10d10+900 0d0+0 3d10+20 frbite
+-3 -3 -3 -10
+0 A D P
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30706
+air master~
+the air master~
+A gigantic hermit is here mastering control over air and wind.
+~
+~
+giant~
+AGTe A H 0 0 0
+30 35 10d10+900 0d0+0 3d10+20 airblast
+-3 -3 -3 -10
+CEJN A D P
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#30700
+steel dagger~
+a steel dagger~
+A short knife is here sheathed in something.~
+steel~
+weapon 0 AN
+dagger 4 4 pierce 0
+15 2 45 P
+F
+A 19 1 0
+F
+A 18 1 0
+#30701
+faerie wing cloak~
+a faerie wing cloak~
+A long cloak that appears to be many tiny wings sewn together.~
+wings~
+armor 0 AK
+5 5 5 5 0
+15 5 45 P
+F
+A 14 20 0
+F
+A 2 2 0
+#30702
+antilope horns~
+some antilope horns~
+A pair of long pointed horns still has the bone attached.~
+horn~
+armor 0 AE
+5 5 5 1 0
+15 15 45 P
+F
+A 3 1 0
+F
+A 4 1 0
+#30703
+the thunder staff~
+the thunder staff~
+A long staff crackeling with thunderous energy.~
+energy~
+weapon ABHe AN
+staff 9 3 shock 0
+20 20 250 P
+F
+A 13 -5 0
+F
+A 5 -1 0
+F
+A 2 2 0
+F
+A 19 4 0
+F
+A 18 2 0
+#30704
+fireball flail~
+the fireball flail~
+A small stick with two balls of fire floating around it.~
+fire~
+weapon 0 AN
+flail 9 3 flame 0
+20 5 350 P
+F
+A 13 -5 0
+F
+A 1 -1 0
+F
+A 5 2 0
+F
+A 18 4 0
+F
+A 19 2 0
+#30705
+frostbitten Axe~
+the frostbitten axe~
+A large axe is here frosting the air around it.~
+ice~
+weapon 0 AN
+exotic 9 3 chill 0
+20 15 350 P
+F
+A 13 -5 0
+F
+A 3 -1 0
+F
+A 1 2 0
+F
+A 19 3 0
+F
+A 18 3 0
+#30706
+wind etched dagger~
+the wind etched dagger~
+A rather large knife has the wind swirling around it.~
+air~
+weapon 0 AN
+dagger 9 3 airblast 0
+20 1 350 P
+F
+A 18 5 0
+F
+A 19 1 0
+F
+A 3 2 0
+F
+A 4 -1 0
+F
+A 13 -5 0
+#0
+
+
+
+#ROOMS
+#30720
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30719
+D3
+~
+~
+0 0 30721
+S
+#30721
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30722
+D1
+~
+~
+0 0 30720
+S
+#30722
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30723
+D2
+~
+~
+0 0 30721
+S
+#30723
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30724
+D2
+~
+~
+0 0 30722
+S
+#30724
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30723
+D3
+~
+~
+0 0 30725
+S
+#30725
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30724
+D2
+~
+~
+0 0 30726
+S
+#30726
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30725
+D2
+~
+~
+0 0 30727
+S
+#30727
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30726
+D2
+~
+~
+0 0 30728
+S
+#30728
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30727
+D2
+~
+~
+0 0 30729
+S
+#30729
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30728
+D3
+~
+~
+0 0 30730
+S
+#30730
+`3Before a huge flight of stairs``~
+You stare at a huge flight of stairs.  Obviously this is not a natural
+part of the mountain, however the stairs are still quite old and beaten by
+the weather.  It is amazing that they have not smoothed over yet.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30729
+D4
+~
+~
+0 0 30731
+S
+#30731
+`3A huge flight of stairs``~
+So many stairs, they seem to go on forever.  Though they are not
+individually very tall the combination of thousands of stones used to pave
+the hundreds of stairs makes for quite the work out.  Who in their right
+mind would have made this?  
+~
+~
+0 0 0 5
+D4
+~
+~
+0 0 30732
+D5
+~
+~
+0 0 30730
+S
+#30732
+`3A huge flight of stairs``~
+So many stairs, they seem to go on forever.  Though they are not
+individually very tall the combination of thousands of stones used to pave
+the hundreds of stairs makes for quite the work out.  Who in their right
+mind would have made this?  
+~
+~
+0 0 0 5
+D4
+~
+~
+0 0 30733
+D5
+~
+~
+0 0 30731
+S
+#30733
+`3The top of the stairs``~
+Having conquered the massive staircase you cant help but feel a bit
+relieved.  There is a huge monastery here with several people in plain brown
+robes meditating and chanting.  The air here is thinner but somehow easier
+to breath.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 32730
+D5
+~
+~
+0 0 30732
+S
+#30734
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30735
+D2
+~
+~
+0 0 30737
+D4
+~
+~
+0 0 30717
+S
+#30735
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30736
+D3
+~
+~
+0 0 30734
+S
+#30736
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D3
+~
+~
+0 0 30735
+S
+#30737
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30734
+D2
+~
+~
+0 0 30738
+S
+#30738
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30737
+D1
+~
+~
+0 0 30739
+S
+#30739
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30740
+D3
+~
+~
+0 0 30738
+S
+#30740
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30742
+D2
+~
+~
+ABM 0 30741
+D3
+~
+~
+0 0 30739
+S
+#30741
+`8The cabin of an old hermit``~
+A simple cabin, there is not much here.  A table and a single chair are
+centered in the room as well as a small fireplace in the back.  A small
+cabinet hangs open showing that there is a bit of preserved food inside.  
+~
+~
+0 9 0 0
+D0
+~
+~
+ABM 0 30740
+S
+#30742
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30743
+D3
+~
+~
+0 0 30740
+S
+#30743
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30744
+D3
+~
+~
+0 0 30742
+S
+#30744
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30745
+D3
+~
+~
+0 0 30743
+S
+#30745
+`3Up into Mt. Undos``~
+The air is getting thinner slowly but surly and the plants are becoming
+more and more sparse.  The trail is covered in loose stones, almost gravel
+like.  The view down the mountain side is horrific and you feel almost dizzy
+looking at it.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30744
+D5
+~
+~
+0 0 30746
+S
+#30746
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30747
+D4
+~
+~
+0 0 30745
+S
+#30747
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30748
+D1
+~
+~
+0 0 30751
+D2
+~
+~
+0 0 30746
+S
+#30748
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30747
+D3
+~
+~
+0 0 30749
+S
+#30749
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30748
+D3
+~
+~
+0 0 30750
+S
+#30750
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30749
+D5
+~
+~
+0 0 30758
+S
+#30751
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30752
+D3
+~
+~
+0 0 30747
+S
+#30752
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30753
+D3
+~
+~
+0 0 30751
+S
+#30753
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30752
+D5
+~
+~
+0 0 30754
+S
+#30754
+`3The foot of Mt. Undos``~
+At the base of Mt.  Undos there is a large pile of rocks.  Once upon a
+time these rocks were used as a trap and barrier to Menasette.  Now they are
+weathered and mostly smooth.  Looking at the mountain you cant even see its
+top, rumor has it the gods themselves reside there, other rumors say that
+the weather there is so extreme that even the sunlight can kill.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30755
+D4
+~
+~
+0 0 30753
+S
+#30755
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30756
+D3
+~
+~
+0 0 30754
+S
+#30756
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30757
+D3
+~
+~
+0 0 30755
+S
+#30757
+`3Landslide!``~
+The rocks have some down and there is no passing this point.  Dust fills
+the air as rocks still come down one at a time onto the giant pile that
+blocks the path.  Looks like you need to find another way around.  
+~
+~
+0 0 0 2
+D3
+~
+~
+0 0 30756
+S
+#30758
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30759
+D4
+~
+~
+0 0 30750
+S
+#30759
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30760
+D2
+~
+~
+0 0 30758
+S
+#30760
+`3The eastern trail``~
+The trail here is quite well defined and there is not much about to
+obscure your vision.  The plant life here is quite brittle and sometimes it
+pokes through your clothing and armor.  At least the walking is relatively
+easy though.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30759
+D4
+~
+~
+0 0 30769
+D5
+~
+~
+0 0 30761
+S
+#30761
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30762
+D4
+~
+~
+0 0 30760
+S
+#30762
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D3
+~
+~
+0 0 30761
+D5
+~
+~
+0 0 30763
+S
+#30763
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+ABM 0 30764
+D2
+~
+~
+0 0 30765
+D4
+~
+~
+0 0 30762
+S
+#30764
+`8Cabin of an old Hermit``~
+A simple cabin, there is not much here.  A table and a single chair are
+centered in the room as well as a small fireplace in the back.  A small
+cabinet hangs open showing that there is a bit of preserved food inside.  
+~
+~
+0 0 0 0
+D3
+~
+~
+ABM 0 30763
+S
+#30765
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30763
+D5
+~
+~
+0 0 30766
+S
+#30766
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30767
+D4
+~
+~
+0 0 30765
+S
+#30767
+`3A gap in the mountain``~
+The downward slope is steep and the rocks underfoot are unsteady.  This
+is clearly the marked trail, isn't it?  There are tons of footprints leading
+down into the gap and just as many coming out, this has to be it.  
+~
+~
+0 0 0 5
+D3
+~
+~
+0 0 30766
+D5
+~
+~
+0 0 30768
+S
+#30768
+`8Deep into Mt. Undos``~
+You stand before a large cave.  There are sounds of clanking metals and
+cheers of drunken joy coming from the cave.  Obviously this must have been
+taken by a sect of dwarven miners.  There is a slight glow coming from not
+to far into the cave.  
+~
+~
+0 0 0 0
+D4
+~
+~
+0 0 30767
+S
+#30769
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30770
+D5
+~
+~
+0 0 30760
+S
+#30770
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30769
+D4
+~
+~
+0 0 30771
+S
+#30771
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30772
+D5
+~
+~
+0 0 30770
+S
+#30772
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30771
+D4
+~
+~
+0 0 30773
+S
+#30773
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30774
+D5
+~
+~
+0 0 30772
+S
+#30774
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30773
+D4
+~
+~
+0 0 30775
+S
+#30775
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D3
+~
+~
+0 0 30776
+D5
+~
+~
+0 0 30774
+S
+#30776
+`3The ascent of Mt. Undos``~
+The climb is tough and at times strait up.  Why people put them selves
+through this is beyond your understanding.  The air is very thin making it
+very hard to breath.  There is now no plant life all around and only the
+bones of past climbers decorate the ground.  
+~
+~
+0 0 0 5
+D0
+~
+~
+ABM 0 30777
+D1
+~
+~
+0 0 30775
+D4
+~
+~
+0 0 30778
+S
+#30777
+`8The cabin of an old hermit``~
+A simple cabin, there is not much here.  A table and a single chair are
+centered in the room as well as a small fireplace in the back.  A small
+cabinet hangs open showing that there is a bit of preserved food inside.  
+~
+~
+0 0 0 0
+D2
+~
+~
+ABM 0 30776
+S
+#30778
+`3Approaching the peak of Mt. Undos``~
+The trail here is almost strait up.  This cant be the path you were
+looking for as it leads all the way to the top of the mountain.  Rumor has
+it this is where the gods dwell and they don't take kindly to mortals
+intruding.  Then again, if this is where they truly resided it would be much
+less accessible to mortals.  Perhaps there is something nice in there after
+all.  
+ 
+There is a very important sign here you should read!!!
+~
+~
+0 0 0 5
+E
+sign~
+Above is a dangerous area for full parties of the most experienced
+heroes.  If you are at all under level 50 and do not have a friend or two
+with you turn back now.  Should you die in there you will not be able to get
+back in to your corpse.  
+~
+D5
+~
+~
+0 0 30776
+S
+#30700
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30701
+S
+#30701
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 30702
+D3
+~
+~
+0 0 30700
+S
+#30702
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30701
+D1
+~
+~
+0 0 30703
+S
+#30703
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30704
+D3
+~
+~
+0 0 30702
+S
+#30704
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30705
+D3
+~
+~
+0 0 30703
+S
+#30705
+`3The trail to Mt. Undos``~
+The trail to Mt.  Undos is a well worn one.  Often used as the main path
+to the Kel-Shin-Ro Supply depot the way around is quite well marked.  Sure
+it is not uncommon to see bandits around, but until you get into the
+mountain there isnt much to worry of.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30706
+D3
+~
+~
+0 0 30704
+S
+#30706
+`3The foot of Mt. Undos``~
+At the base of Mt.  Undos there is a large pile of rocks.  Once upon a
+time these rocks were used as a trap and barrier to Menasette.  Now they are
+weathered and mostly smooth.  Looking at the mountain you cant even see its
+top, rumor has it the gods themselves reside there, other rumors say that
+the weather there is so extreme that even the sunlight can kill.  
+~
+~
+0 0 0 5
+D3
+~
+~
+0 0 30705
+D4
+~
+~
+0 0 30707
+S
+#30707
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30708
+D5
+~
+~
+0 0 30706
+S
+#30708
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30709
+D3
+~
+~
+0 0 30707
+S
+#30709
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30710
+D3
+~
+~
+0 0 30708
+S
+#30710
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30709
+D1
+~
+~
+0 0 30713
+D2
+~
+~
+0 0 30711
+S
+#30711
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30710
+D2
+~
+~
+0 0 30712
+S
+#30712
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30711
+D5
+~
+~
+0 0 30718
+S
+#30713
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D1
+~
+~
+0 0 30714
+D3
+~
+~
+0 0 30710
+S
+#30714
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30715
+D3
+~
+~
+0 0 30713
+S
+#30715
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30714
+D2
+~
+~
+0 0 30717
+D3
+~
+~
+ABM 0 30716
+S
+#30716
+`8The cabin of an old hermit``~
+A simple cabin, there is not much here.  A table and a single chair are
+centered in the room as well as a small fireplace in the back.  A small
+cabinet hangs open showing that there is a bit of preserved food inside.  
+~
+~
+0 9 0 0
+D1
+~
+~
+ABM 0 30715
+S
+#30717
+`3The western trail``~
+The trail is rough and there are many spots for bandits to conceal
+themselves.  Rocks underfoot are unstable and wiggle as balance is shifted
+on them.  The mountain walls extend a good thirteen feet into the air and
+are weather beaten smooth.
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30715
+D5
+~
+~
+0 0 30734
+S
+#30718
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D2
+~
+~
+0 0 30719
+D4
+~
+~
+0 0 30712
+S
+#30719
+`3A long hand chisled trail``~
+This is a very narrow path carved intentionally in the tall rock face. 
+There is no sunlight beating down here as the path is constantly in the
+mountain's shadow.  There are small trickles of water from the walls and
+sporadic plants growing from the walls.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 30718
+D2
+~
+~
+0 0 30720
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 30700 10 30722 1
+E 0 30700 0 17
+E 0 30700 0 13
+M 0 30702 10 30727 1
+E 0 30702 0 6
+M 0 30701 10 30727 1
+M 0 30701 10 30734 1
+E 0 30702 0 6
+M 0 30702 10 30734 1
+M 0 30700 10 30739 1
+E 0 30701 0 13
+E 0 30700 0 20
+E 0 30700 0 17
+M 0 30704 1 30741 1
+E 0 30704 0 17
+M 0 30701 10 30743 1
+E 0 30702 0 6
+M 0 30702 10 30743 1
+M 0 30701 10 30746 1
+E 0 30702 0 6
+M 0 30702 10 30746 1
+M 0 30700 10 30747 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30700 10 30749 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30700 10 30752 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30701 10 30755 1
+E 0 30702 0 6
+M 0 30702 10 30755 1
+M 0 30701 10 30759 1
+E 0 30702 0 6
+M 0 30702 10 30759 1
+M 0 30700 10 30761 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30701 10 30763 1
+E 0 30702 0 6
+M 0 30702 10 30763 1
+M 0 30705 1 30764 1
+E 0 30705 0 17
+M 0 30700 10 30767 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30701 10 30771 1
+E 0 30702 0 6
+M 0 30702 10 30771 1
+M 0 30700 10 30775 1
+E 0 30701 0 13
+E 0 30700 0 17
+E 0 30700 0 20
+M 0 30706 1 30777 1
+E 0 30706 0 17
+M 0 30700 10 30708 1
+E 0 30700 0 17
+E 0 30700 0 20
+E 0 30701 0 13
+M 0 30701 10 30708 1
+E 0 30702 0 6
+M 0 30702 10 30708 1
+M 0 30702 10 30711 1
+E 0 30702 0 6
+M 0 30701 10 30711 1
+M 0 30700 10 30713 1
+E 0 30701 0 13
+E 0 30700 0 20
+E 0 30700 0 17
+M 0 30703 1 30716 1
+E 0 30703 0 17
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

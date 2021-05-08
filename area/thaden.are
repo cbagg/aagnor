@@ -1,0 +1,103 @@
+#AREADATA
+Name thaden~
+Pref ~
+Builders Thae~
+VNUMs 31600 31699
+Max_Bastions 0
+Credits (10-30) Thae     Thaden~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31600
+`7A road into Thaeden``~
+A small dirt path is before you leading into a small village.  The
+outskirts of this town is bussling with livestock and farmers.  On each side
+of you, the fields are nicely plowed.  Crops grow from expertly laid rows. 
+A warm feeling is in the air as you c 
+~
+The road continues on to the small village of Thaeden.  You start to see
+buildings in the distance.  The smell of food engulfs your nostrils as your
+mouth starts to salivate.  
+~
+0 0 0 1
+D0
+~
+~
+0 0 31601
+S
+#31601
+`7A road into Thaeden``~
+The buildings start to get bigger as the smell of food makes you more and
+more hungry.  The road starts to get a bit more beaten.  Townfolk walk
+around smiling at you and welcoming you to their village /\.  F 
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 31600
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

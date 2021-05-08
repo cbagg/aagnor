@@ -1,0 +1,1154 @@
+#AREADATA
+Name Presep's mithril mine~
+Pref ~
+Builders Raki~
+VNUMs 30400 30499
+Max_Bastions 0
+Credits ( All ) Raki     Presep's mithril mine~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#30400
+sturdy pick~
+a sturdy pick~
+A pick is here branded with the logo of the mithril mine.~
+steel~
+trash X AN
+0 0 0 0 0
+30 2 0 P
+P USE 30400 100~
+#30401
+gold ore~
+gold ore~
+A chunk of gold ore is here.~
+gold~
+treasure 0 AO
+0 0 0 0 0
+30 10 550 P
+#30402
+small mithril ore~
+a small piece of mithril ore~
+A small piece of mithril ore shines here.~
+mithril~
+treasure 0 AO
+0 0 0 0 0
+30 5 750 P
+#30403
+medium mithril ore~
+a medium chunk of mithril ore~
+A mid sized chunk of mithril ore glistens here.~
+mithril~
+treasure 0 AO
+0 0 0 0 0
+30 10 1500 P
+#30404
+large mithril ore~
+a large chunk of mithril ore~
+A large chunk of mithril ore shines brilliantly.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+30 15 2250 P
+#0
+
+
+
+#ROOMS
+#30400
+~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30401
+S
+#30401
+~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30402
+D2
+~
+~
+0 0 30400
+D3
+~
+~
+0 0 30415
+S
+#30402
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30434
+D1
+~
+~
+0 0 30403
+D2
+~
+~
+0 0 30401
+S
+#30403
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30404
+D3
+~
+~
+0 0 30402
+S
+#30404
+~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30405
+D3
+~
+~
+0 0 30403
+S
+#30405
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30406
+D2
+~
+~
+0 0 30404
+S
+#30406
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30407
+D2
+~
+~
+0 0 30405
+S
+#30407
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30408
+D3
+~
+~
+0 0 30406
+S
+#30408
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30422
+D1
+~
+~
+0 0 30409
+D3
+~
+~
+0 0 30407
+S
+#30409
+`8Somewhere in the east mineshaft``~
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 30410
+D3
+~
+~
+0 0 30408
+S
+#30410
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30409
+D2
+~
+~
+0 0 30411
+S
+#30411
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30410
+D1
+~
+~
+0 0 30418
+D2
+~
+~
+0 0 30412
+S
+#30412
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30411
+D2
+~
+~
+0 0 30413
+S
+#30413
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30412
+D1
+~
+~
+0 0 30416
+D2
+~
+~
+0 0 30414
+S
+#30414
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30413
+P SPEECH 30414 dig~
+S
+#30415
+`8Miner's supplies``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30401
+S
+#30416
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30417
+D3
+~
+~
+0 0 30413
+S
+#30417
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D3
+~
+~
+0 0 30416
+S
+#30418
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30419
+D3
+~
+~
+0 0 30411
+S
+#30419
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30420
+D3
+~
+~
+0 0 30418
+S
+#30420
+`8Somewhere in the south-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30421
+D2
+~
+~
+0 0 30419
+S
+#30421
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D3
+~
+~
+0 0 30420
+S
+#30422
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30423
+D2
+~
+~
+0 0 30408
+S
+#30423
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30424
+D2
+~
+~
+0 0 30422
+S
+#30424
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30425
+D2
+~
+~
+0 0 30423
+S
+#30425
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30426
+D3
+~
+~
+0 0 30424
+S
+#30426
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30428
+D2
+~
+~
+0 0 30427
+D3
+~
+~
+0 0 30425
+S
+#30427
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30426
+S
+#30428
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30429
+D2
+~
+~
+0 0 30426
+S
+#30429
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30430
+D2
+~
+~
+0 0 30428
+S
+#30430
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30431
+D3
+~
+~
+0 0 30429
+S
+#30431
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30432
+D3
+~
+~
+0 0 30430
+S
+#30432
+`8Somewhere in the north-east mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30433
+D2
+~
+~
+0 0 30431
+S
+#30433
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D3
+~
+~
+0 0 30432
+S
+#30434
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30435
+D2
+~
+~
+0 0 30402
+D3
+~
+~
+0 0 30463
+S
+#30435
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30436
+D2
+~
+~
+0 0 30434
+S
+#30436
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30437
+D2
+~
+~
+0 0 30435
+S
+#30437
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30438
+D2
+~
+~
+0 0 30436
+S
+#30438
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30439
+D3
+~
+~
+0 0 30437
+S
+#30439
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30440
+D2
+~
+~
+0 0 30438
+S
+#30440
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30441
+D1
+~
+boulder~
+AB 0 30444
+D2
+~
+~
+0 0 30439
+S
+#30441
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30442
+D2
+~
+~
+0 0 30440
+S
+#30442
+`8Somewhere in the central mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30443
+D2
+~
+~
+0 0 30441
+D3
+~
+~
+0 0 30452
+S
+#30443
+`8A small mining alcove ``~
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 30442
+S
+#30444
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30445
+D3
+~
+~
+AB 0 30440
+S
+#30445
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30446
+D3
+~
+~
+0 0 30444
+S
+#30446
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30447
+D2
+~
+~
+0 0 30445
+S
+#30447
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30448
+D1
+~
+~
+0 0 30450
+D2
+~
+~
+0 0 30446
+S
+#30448
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30449
+D2
+~
+~
+0 0 30447
+S
+#30449
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 30448
+S
+#30450
+`8The collapsing shaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30451
+D3
+~
+~
+0 0 30447
+S
+#30451
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D3
+~
+~
+0 0 30450
+S
+#30452
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30442
+D3
+~
+~
+0 0 30453
+S
+#30453
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30452
+D3
+~
+~
+0 0 30454
+S
+#30454
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30458
+D1
+~
+~
+0 0 30453
+D3
+~
+~
+0 0 30455
+S
+#30455
+`8Somewhere in darkness``~
+~
+~
+0 134742025 0 0
+D1
+~
+~
+0 0 30454
+D3
+~
+~
+0 0 30456
+S
+#30456
+`8Somewhere in darkness``~
+~
+~
+0 134742025 0 0
+D1
+~
+~
+0 0 30455
+D3
+~
+~
+0 0 30457
+S
+#30457
+`8Mining in total darkness``~
+~
+~
+0 134742025 0 0
+D1
+~
+~
+0 0 30456
+S
+#30458
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30459
+D2
+~
+~
+0 0 30454
+S
+#30459
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30460
+D2
+~
+~
+0 0 30458
+S
+#30460
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30461
+D2
+~
+~
+0 0 30459
+S
+#30461
+`8Somewhere in the northern mineshaft``~
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 30462
+D3
+~
+~
+0 0 30460
+S
+#30462
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 30461
+S
+#30463
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30434
+D3
+~
+~
+0 0 30464
+S
+#30464
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30463
+D3
+~
+~
+0 0 30465
+S
+#30465
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30464
+D3
+~
+~
+0 0 30466
+S
+#30466
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30465
+D3
+~
+~
+0 0 30467
+S
+#30467
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30466
+D3
+~
+~
+0 0 30468
+S
+#30468
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30467
+D3
+~
+~
+0 0 30469
+S
+#30469
+~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30468
+D3
+~
+~
+0 0 30470
+S
+#30470
+`8A small mining alcove``~
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 30469
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#30400
+if rand 30
+room echoat $n 'You swing the pick at the rock diging something out.'
+room echoaround $n '$n swings the pick at the rock diging something out.'
+if rand 10
+room load obj <large mithril vnum>
+break
+else
+if rand 20
+room load obj <medium mithril vnum>
+break 
+else
+if rand 30
+room load obj <small mithril vnum>
+break
+else
+room load obj <gold ore vnum>
+break
+endif
+endif
+endif
+else
+room echo With the force of the swing the pick breaks!
+room junk <pick vnum>
+~
+#0
+
+#ROOMPROGS
+#30414
+if wears $n 30400
+if rand 70
+room echoat $n 'You swing the pick at the rock diging something out.'
+room echoaround $n '$n swings the pick at the rock diging something out.'
+if rand 30
+room load obj 30404
+break
+else
+if rand 60
+room load obj 30403
+break 
+else
+if rand 90
+room load obj 30402
+break
+else
+room load obj 30401
+break
+endif
+endif
+endif
+else
+room echo With the force of the swing the pick breaks!
+endif
+room junk 30400
+endif
+~
+#0
+
+#$

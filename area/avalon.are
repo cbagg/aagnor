@@ -1,0 +1,1774 @@
+#AREADATA
+Name The Holy Crusade~
+Pref ~
+Builders Raki~
+VNUMs 30900 30999
+Max_Bastions 0
+Credits (40-50) Raki     The Holy Crusade~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#30900
+humble squire~
+a humble squire~
+A short halfling squire is here running errands.
+~
+This short and hairy fellow runs about doing things the knights and lords
+don't have time to.  Really he shouldn't be bothered or even have attention
+paid to him.  
+~
+halfling~
+Ad A 0 0 350 0
+35 35 500d2+100 0d0+0 2d5+35 slice
+-1 -1 -1 0
+FIJKN 0 C 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK small 0
+#30901
+warrior knight~
+a Warrior Knight~
+A huge warrior is training here in the ways of combat.
+~
+A huge giant, this knight is all about weapons and armor.  All of his
+stuff is in perfect condition and polished to a very nice shine to boot.  
+~
+storm~
+Ad A 0 0 350 0
+50 60 900d2+50 0d0+0 4d5+55 punch
+-2 -2 -2 0
+CFHIJKNX 0 DJ PX
+stand stand none none~
+0
+AHMV ABCDEFGHIJK giant 0
+#30902
+grisnald master warrior knight~
+Sir Grisnald~
+Grisnald Indomitable Titan of the Order is here.
+~
+The largest giant in this area and a renowned crusader, Sir Grisnald
+trains all the young warriors and knights around him in the ways of armed
+combat.  His reputation is the stuff of legends and is only dwarfed by the
+massive glaive he wields with one hand.  
+~
+storm~
+ABGe A 0 0 750 0
+57 75 500d4+200 0d0+0 5d5+65 jab
+-12 -12 -12 -5
+DEHX 0 DJ PX
+stand stand male none~
+0
+AHMV ABCDEFGHIJK giant 0
+#30903
+priest knight~
+a priest knight~
+A tall elf is here praying to her god.
+~
+She is a peaceful elf, dressed plainly in clerical robes.  There really
+isn't much to her physically, as most of her limbs are all but muscleless. 
+Her faith however is unmatched by any other.  
+~
+elf~
+AQd A JP 0 350 0
+45 45 500d2+200 0d0+0 2d5+45 wrath
+-5 -5 -5 -15
+HIK 0 B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+P FIGHT 30900 50~
+#30904
+Llerigina priest knight~
+Lady Llerigina~
+Llerigina the Righteous Eye of God is here.
+~
+Easily the most pious person in the camp, she commands absolute respect
+among the other priests and squires.  Her dress is almost as plain as the
+other priests save a small adornment at the shoulder to simply show rank.  
+~
+elf~
+ABQe A HJP 0 750 0
+57 60 700d3+200 0d0+0 0d0+0 faith
+-15 -15 -15 -15
+CEFHIKX 0 B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+P FIGHT 30900 50~
+#30905
+knight archer~
+a archer knight~
+A knight is here practicing his archery.
+~
+The archers of the order wear very light armor made for mobility and
+ranged combat.  Never the less they keep it shiny and in brand new shape. 
+Their bows and arrows are far from the stuff of legends, but the archers are
+so skilled they more than make up for it.  
+~
+half-elf~
+Ad A J 0 350 0
+40 45 200d6+100 0d0+0 2d5+30 punch
+-10 -10 -10 -4
+JKN 0 B 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30906
+Gerrigard archer order exicutioner~
+Sir Gerrigard~
+Gerrigard the Executioner of the Order is here.
+~
+A human, the only one in the camp it seems.  He sealed his place in order
+of the crusades early in his life with his uncanny accuracy with a sling
+over extreme distances.  Capable of killing a foe at a range of five hundred
+feet with a cast stone, his talents are not limited to just that simple
+weapon.  Now he teaches the usefulness of all ranged weapons to recruits to
+the order.  
+~
+human~
+ABe A 0 0 750 0
+57 75 900d2+400 100d100+1000 2d5+65 slash
+-20 -20 -20 -10
+HIKNX 0 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30907
+soldier order~
+a soldier of the order~
+A soldier is here patrolling the streets.
+~
+A smallish soldier is here, fully human in origin.  He seems to be taking
+care to take everything in and look almost everywhere at once.  He stands to
+protect the training camp of the Order of the Crusades.  
+~
+human~
+ATd A 0 0 350 0
+55 60 900d3+400 0d0+0 4d5+60 slice
+-20 -20 -20 -20
+CDFHIJKX 0 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30908
+Kilrad general order~
+Sir Kilrad~
+Kilrad the General of the Holy Order is here.
+~
+The leader of this camp, he stands proudly in the center of the fray
+directing food and supply carts to the trainees and instructors.  His
+reputation as a hard case is also well known, and everyone seems to want to
+avoid him where possible.  
+~
+half-elf~
+ABe A J 0 750 0
+57 75 1000d3+100 100d100+1000 5d5+60 crush
+-20 -20 -20 -20
+DFHIKX 0 B 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#30900
+holy glaive grisnald~
+the Holy Glaive of Grisnald~
+A huge glaive is here glowing with its own light.~
+holy~
+weapon ABHIM ANS
+polearm 20 2 wrath D
+50 45 1 P
+F
+A 18 6 0
+F
+A 19 6 0
+#30901
+Llerigina robe pious~
+the holy robe of Llerigina~
+A robe is here sure to make the wearer look pious.~
+holy~
+armor GY AS
+16 16 16 16 0
+50 10 1 P
+F
+A 23 -15 0
+F
+A 18 2 0
+F
+A 24 -10 0
+#30902
+Bow order~
+the crossbow of the order~
+A large crossbow is here with the seal of the order of the crusades on it.~
+wood~
+ranged U Ae
+B 100 1 0 A
+35 4 300 P
+#30903
+bolts order~
+some armor piercing bolts~
+A few bolts used by the order of the crusades.~
+wood~
+projectile U Aa
+B 6 6 pierce 0 35 1 300 P
+#30904
+Gerrigard's dart gun~
+Gerrigard's dart gun~
+A simple dark gun once used by a great hero.~
+reed~
+ranged PU ASe
+E 100 10 30905 A
+50 2 1 P
+F
+A 18 4 0
+#30905
+blessed darts~
+blessed darts~
+A set of darts blessed by the order of crusades.~
+reed~
+projectile 0 AXa
+E 5 2 wrath 0 50 2 100 P
+#30906
+Kilrad mace club~
+the Mace of Sir Kilrad~
+A huge club is here once belonging to Sir Kilrad.~
+unknown~
+weapon 0 ANS
+mace 2 24 crush FK
+50 45 1 P
+F
+A 18 3 0
+F
+A 19 7 0
+#30998
+holy fountain~
+the holy fountain~
+A tall ornate fountain is here providing everyone with water.~
+unknown~
+fountain OT 0
+-1 -1 'water' 0 0
+50 10001 0 P
+#30999
+prison key~
+a prison key~
+A small key is here.~
+titanium~
+key 0 A
+0 0 0 0 0
+50 1 0 P
+#0
+
+
+
+#ROOMS
+#30900
+`7Distant war cries``~
+You are approaching the training ground of the order of the crusades. 
+There are many sounds coming from the encampment, to include livestock, war
+calls, and the clashing of weapons.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 25058
+D2
+~
+~
+0 0 30901
+S
+#30901
+`7Approaching the camp``~
+As you make your way closer to the camp you notice several new things. 
+The first of which is this place is more like a city than a training camp. 
+Merchants and farmers all have come together to make this place possible.  
+~
+~
+0 4 0 1
+D0
+~
+~
+0 0 30900
+D2
+~
+~
+0 0 30902
+S
+#30902
+`7North main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30901
+D1
+~
+~
+0 0 30954
+D2
+~
+~
+0 0 30903
+D3
+~
+~
+0 0 30969
+S
+#30903
+`7North main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30902
+D2
+~
+~
+0 0 30904
+S
+#30904
+`7North main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30903
+D2
+~
+~
+0 0 30905
+S
+#30905
+`7The center of the camp``~
+Dead center of the training camp is easily the busiest place.  There are
+merchants, soldiers, archers and even a minstrel or two.  The general area
+is still exceptionally clean and the fountain brings forth only the purest
+of water.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30904
+D1
+~
+~
+0 0 30913
+D2
+~
+~
+0 0 30906
+D3
+~
+~
+0 0 30919
+D5
+~
+~
+ABCFG 30999 30925
+S
+#30906
+`7South main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30905
+D2
+~
+~
+0 0 30907
+S
+#30907
+`7South main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30906
+D2
+~
+~
+0 0 30908
+S
+#30908
+`7South main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30907
+D1
+~
+~
+0 0 30961
+D2
+~
+~
+0 0 30909
+D3
+~
+~
+0 0 30962
+S
+#30909
+`8Approaching the archery range``~
+The path here is well traveled but there are caution signs all over. 
+Apparently stray arrows are not uncommon even amongst the archers of the
+order.  Though the path is clear of arrows now, it is still best to tread
+carefully.  
+~
+~
+0 4 0 0
+D0
+~
+~
+0 0 30908
+D2
+~
+~
+0 0 30910
+S
+#30910
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30909
+D1
+~
+~
+0 0 30948
+D2
+~
+~
+0 0 30911
+D3
+~
+~
+0 0 30949
+S
+#30911
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30910
+D1
+~
+~
+0 0 30950
+D2
+~
+~
+0 0 30912
+D3
+~
+~
+0 0 30951
+S
+#30912
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30911
+D1
+~
+~
+0 0 30952
+D3
+~
+~
+0 0 30953
+S
+#30913
+`7East main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30914
+D3
+~
+~
+0 0 30905
+S
+#30914
+`7East main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30957
+D1
+~
+~
+0 0 30915
+D2
+~
+~
+0 0 30958
+D3
+~
+~
+0 0 30913
+S
+#30915
+`3Entering combat training``~
+The ground here is stomped flat and quite hard.  There is very little
+grass growing in this worn path nor are there any rocks.  All around the
+path there are boxes and cots, probably first aid supplies and such.  
+~
+~
+0 4 0 2
+D1
+~
+~
+0 0 30916
+D3
+~
+~
+0 0 30914
+S
+#30916
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 1 0 2
+D0
+~
+~
+0 0 30936
+D1
+~
+~
+0 0 30917
+D2
+~
+~
+0 0 30937
+D3
+~
+~
+0 0 30915
+S
+#30917
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 1 0 2
+D0
+~
+~
+0 0 30938
+D1
+~
+~
+0 0 30918
+D2
+~
+~
+0 0 30939
+D3
+~
+~
+0 0 30916
+S
+#30918
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 1 0 2
+D0
+~
+~
+0 0 30940
+D2
+~
+~
+0 0 30941
+D3
+~
+~
+0 0 30917
+S
+#30919
+`7West main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30905
+D3
+~
+~
+0 0 30920
+S
+#30920
+`7West main road``~
+The main road is one of epic proportions.  It is incredibly wide, wide
+enough for several carts to pass with ease.  There is a good mix of humans,
+elves and giants here on the streets.  Most are warriors but farmers and
+craftsman are not absent either.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30966
+D1
+~
+~
+0 0 30919
+D2
+~
+~
+0 0 30965
+D3
+~
+~
+0 0 30921
+S
+#30921
+`2Entering the prayer circle``~
+The path is almost invisable here.  It is over grown and the plants are
+very healthy.  Chanting can be heard from ahead and as you walk forward a
+feeling of calm seems to overtake you.  
+~
+~
+0 4 0 3
+D1
+~
+~
+0 0 30920
+D3
+~
+~
+0 0 30922
+S
+#30922
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30942
+D1
+~
+~
+0 0 30921
+D2
+~
+~
+0 0 30943
+D3
+~
+~
+0 0 30923
+S
+#30923
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30944
+D1
+~
+~
+0 0 30922
+D2
+~
+~
+0 0 30945
+D3
+~
+~
+0 0 30924
+S
+#30924
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30946
+D1
+~
+~
+0 0 30923
+D2
+~
+~
+0 0 30947
+S
+#30925
+`8The prison ward``~
+The prison ward is actually very well lit for being below ground.  There
+are balls of light suspended in a line down the hallway and the floor is
+shiny clean.  There is however an conspicuous lack of guards, but only
+having one way in and out, that is not a problem.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 30926
+D4
+~
+~
+ABCFG 30999 30905
+S
+#30926
+`8The prison ward``~
+The prison ward is actually very well lit for being below ground.  There
+are balls of light suspended in a line down the hallway and the floor is
+shiny clean.  There is however an conspicuous lack of guards, but only
+having one way in and out, that is not a problem.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30925
+D1
+~
+~
+ABC 30999 30934
+D2
+~
+~
+0 0 30927
+D3
+~
+~
+ABC 30999 30935
+S
+#30927
+`8The prison ward``~
+The prison ward is actually very well lit for being below ground.  There
+are balls of light suspended in a line down the hallway and the floor is
+shiny clean.  There is however an conspicuous lack of guards, but only
+having one way in and out, that is not a problem.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30926
+D1
+~
+~
+ABC 30999 30932
+D2
+~
+~
+0 0 30928
+D3
+~
+~
+ABC 30999 30933
+S
+#30928
+`8The prison ward``~
+The prison ward is actually very well lit for being below ground.  There
+are balls of light suspended in a line down the hallway and the floor is
+shiny clean.  There is however an conspicuous lack of guards, but only
+having one way in and out, that is not a problem.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30927
+D1
+~
+~
+ABC 30999 30930
+D2
+~
+~
+ABC 30999 30929
+D3
+~
+~
+ABC 30999 30931
+S
+#30929
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D0
+~
+~
+ABC 30999 30928
+S
+#30930
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D3
+~
+~
+ABC 0 30928
+S
+#30931
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D1
+~
+~
+ABC 0 30928
+S
+#30932
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D3
+~
+~
+ABC 0 30927
+S
+#30933
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D1
+~
+~
+ABC 0 30927
+S
+#30934
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D3
+~
+~
+ABC 0 30926
+S
+#30935
+`8A prison cell``~
+This is possibly the most miserable sight you have seen in your life. 
+The cell is so horrible, there is but a hole for a toilet, and the floor is
+bumpy and solid.  There is not even a rock for the prisoners to use as a
+pillow.  No windows, no light, just a simple drip from the roof where
+prisoners can get water from.  
+~
+~
+0 9 0 0
+D1
+~
+~
+ABC 0 30926
+S
+#30936
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30938
+D2
+~
+~
+0 0 30916
+S
+#30937
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30916
+D1
+~
+~
+0 0 30939
+S
+#30938
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30940
+D2
+~
+~
+0 0 30917
+D3
+~
+~
+0 0 30936
+S
+#30939
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30917
+D1
+~
+~
+0 0 30941
+D3
+~
+~
+0 0 30937
+S
+#30940
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 30918
+D3
+~
+~
+0 0 30938
+S
+#30941
+`3Close combat training``~
+The ground here is stomped flat and quite hard.  No grass grows here nor
+are there any rocks.  There are spots of blood and slits in the ground from
+pointed weapons.  This must be the area designated for close combat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30918
+D3
+~
+~
+0 0 30939
+S
+#30942
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 30922
+D3
+~
+~
+0 0 30944
+S
+#30943
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30922
+D3
+~
+~
+0 0 30945
+S
+#30944
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 30942
+D2
+~
+~
+0 0 30923
+D3
+~
+~
+0 0 30946
+S
+#30945
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30923
+D1
+~
+~
+0 0 30943
+D3
+~
+~
+0 0 30947
+S
+#30946
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 30944
+D2
+~
+~
+0 0 30924
+S
+#30947
+`2The Priests training``~
+The clearing if covered in grass and that is well trimmed.  There is no
+overgrowth here and the ground is soft and would be nice to rest on.  There
+are trees in spots here, seemingly what the priests use to train their
+prayers on.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 30924
+D1
+~
+~
+0 0 30945
+S
+#30948
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 30950
+D3
+~
+~
+0 0 30910
+S
+#30949
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 30910
+D2
+~
+~
+0 0 30951
+S
+#30950
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30948
+D2
+~
+~
+0 0 30952
+D3
+~
+~
+0 0 30911
+S
+#30951
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30949
+D1
+~
+~
+0 0 30911
+D2
+~
+~
+0 0 30953
+S
+#30952
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30950
+D3
+~
+~
+0 0 30912
+S
+#30953
+`8The archery range``~
+The archery range is rather simplistic.  There are targets surrounding
+the outside and the archers shot at them.  Strangely, some of the targets
+seem to be moving, likely by the power of the priests and their prayers.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30951
+D1
+~
+~
+0 0 30912
+S
+#30954
+`7The north east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30955
+D3
+~
+~
+0 0 30902
+S
+#30955
+`7The north east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 30956
+D3
+~
+~
+0 0 30954
+S
+#30956
+`7The north east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30955
+D2
+~
+~
+0 0 30957
+S
+#30957
+`7The north east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30956
+D2
+~
+~
+0 0 30914
+S
+#30958
+`7The south east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30914
+D2
+~
+~
+0 0 30959
+S
+#30959
+`7The south east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30958
+D2
+~
+~
+0 0 30960
+S
+#30960
+`7The south east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30959
+D3
+~
+~
+0 0 30961
+S
+#30961
+`7The south east road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30960
+D3
+~
+~
+0 0 30908
+S
+#30962
+`7The south west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30908
+D3
+~
+~
+0 0 30963
+S
+#30963
+`7The south west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30964
+D1
+~
+~
+0 0 30962
+S
+#30964
+`7The south west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30965
+D2
+~
+~
+0 0 30963
+S
+#30965
+`7The south west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30920
+D2
+~
+~
+0 0 30964
+S
+#30966
+`7The north west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30967
+D2
+~
+~
+0 0 30920
+S
+#30967
+`7The north west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30968
+D2
+~
+~
+0 0 30966
+S
+#30968
+`7The north west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30969
+D2
+~
+~
+0 0 30967
+S
+#30969
+`7The north west road``~
+The Secondary road around the camp is rather narrow and is made more for
+combat and defense rather than transporting goods and travel.  That does not
+stop merchants and farmers from taking it, but the guards seem to give sour
+looks to them as they pass.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30902
+D3
+~
+~
+0 0 30968
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 30907 14 30902 1
+M 0 30907 14 30904 1
+M 0 30908 1 30905 1
+G 0 30999 0
+E 0 30906 0 17
+O 0 30998 0 30905
+M 0 30907 14 30906 1
+M 0 30907 14 30908 1
+M 0 30905 7 30910 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30906 1 30911 1
+E 0 30904 0 24
+E 0 30905 0 27
+M 0 30905 7 30911 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30905 7 30912 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30907 14 30913 1
+M 0 30901 7 30916 1
+M 0 30902 1 30917 1
+E 0 30900 0 17
+M 0 30901 7 30917 1
+M 0 30901 7 30918 1
+M 0 30907 14 30919 1
+M 0 30903 7 30922 1
+M 0 30904 1 30923 1
+E 0 30901 0 13
+M 0 30903 7 30924 1
+O 0 30999 0 30925
+M 0 30901 7 30936 1
+M 0 30900 6 30937 1
+M 0 30901 7 30939 1
+M 0 30901 7 30940 1
+M 0 30900 6 30940 1
+M 0 30901 7 30941 1
+M 0 30900 6 30942 1
+M 0 30903 7 30943 1
+M 0 30903 7 30944 1
+M 0 30903 7 30945 1
+M 0 30903 7 30946 1
+M 0 30903 7 30947 1
+M 0 30900 6 30947 1
+M 0 30900 6 30948 1
+M 0 30905 7 30949 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30905 7 30950 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30905 7 30951 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30905 7 30952 1
+E 0 30902 0 24
+E 0 30903 0 27
+M 0 30900 6 30953 1
+M 0 30907 14 30957 1
+M 0 30907 14 30958 1
+M 0 30907 14 30960 1
+M 0 30907 14 30963 1
+M 0 30907 14 30965 1
+M 0 30907 14 30966 1
+M 0 30907 14 30968 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#30900
+if rand 20
+mob cast heal
+break
+else
+if rand 40
+mob cast "faerie fire" $n
+break
+else
+if rand 60
+mob cast curse $n
+break
+else
+mob cast calm
+endif
+endif
+endif
+~
+#30901
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

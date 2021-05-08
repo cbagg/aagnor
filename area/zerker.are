@@ -1,0 +1,912 @@
+#AREADATA
+Name Berserker Guild~
+Pref ~
+Builders Furos~
+VNUMs 31969 31999
+Max_Bastions 0
+Credits (guild) Furos    Berserker Guild~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31969
+berserk gate guard guild~
+Crazed berserker guard~
+A crazed berserker guild guard sits here, staring coldly at you.
+~
+~
+ogre~
+ABU ACG DHVa 0 0 0
+35 20 100d5+200 0d0+0 10d10+5 none
+0 0 0 0
+V ABELQ ABCEQ 0
+stand stand male none~
+1000
+AHMV ABCDEFGHIJK medium 0
+F vul C
+P EXALL 31969 north~
+#31970
+berserker combatant~
+A berserked combatant~
+A berserked combatant is here, attempting to smash anything in it's path.
+~
+~
+human~
+ACGTUd AG 0 0 0 0
+20 100 100d10+100 0d0+0 1d1+10 none
+-5 -5 -5 -5
+DP 0 0 G
+stand stand none none~
+1000
+AHMV ABCDEFGHIJK large 0
+#31971
+Abrik~
+Abrik~
+Abrik stands here, showing off his weapons with a big cheesy grin.
+~
+~
+human~
+ABe AI 0 0 0 0
+55 0 100d1+10 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31972
+Ook~
+Ook~
+Ook is tinkering with various armors. He seems like a stand-up Ogre.
+~
+~
+ogre~
+ABe AI 0 0 0 0
+55 0 100d10+100 0d0+0 0d0+0 none
+0 0 0 0
+0 ABCD 0 C
+stand stand none none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#31973
+Gogran human berserker priest~
+Gogran~
+Gogran, the Priest of Anger rests here.
+~
+~
+human~
+A A HJa 0 0 0
+60 30 100d20+250 100d10+5 10d5+10 none
+-40 -40 -40 -40
+0 ABC D 0
+rest rest none none~
+100
+AHMV ABCDEFGHIJK large 0
+#31974
+Scorch Harbinger Devastation~
+Scorch~
+Scorch, the Harbinger of Devastation glares at you through fogged eyes.
+~
+~
+fire~
+ALYe AI H 0 0 0
+60 0 1000d20+10 0d0+0 0d0+0 none
+-10 -10 -10 -10
+0 AB DH IP
+stand stand male none~
+0
+AHMV ABCDEFGHIJK huge 0
+#31975
+Bbalik~
+Bbalik~
+Bbalik, the Chieftain of Furies is here.
+~
+~
+human~
+AL AI H 0 0 0
+60 0 100d100+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#31969
+blood mask~
+`!Blood`` Mask~
+A blood mask is sitting here.~
+Silk~
+armor ST Ad
+4 6 10 2 0
+15 5 1000 P
+L
+1
+#31970
+Spiked Pauldrons~
+spiked pauldrons~
+A pair of spiked pauldrons are sitting here.~
+unknown~
+armor BI AI
+8 8 8 2 0
+15 20 2000 P
+L
+1
+F
+S 476 3 0
+F
+S 235 3 0
+#31971
+pink too too~
+`9Pink`` Too-too~
+Squirrel~
+Cloth~
+armor 0 AL
+25 25 25 25 0
+1 1 10000 P
+F
+A 24 10 0
+F
+A 21 10 0
+F
+A 2 2 0
+#31972
+headstompers~
+a pair of headstompers~
+A pair of boots lies here.~
+unknown~
+armor 0 AG
+10 10 10 10 0
+45 0 5000 P
+L
+1
+F
+A 19 3 0
+#31973
+Spiked Bracers~
+spiked bracer~
+A circular piece of leather sits here.~
+Leather~
+armor 0 AM
+12 14 13 12 0
+48 5 10000 P
+L
+1
+F
+A 18 2 0
+F
+A 19 2 0
+F
+A 1 1 0
+F
+A 2 -1 0
+#31974
+Hammer raging bull~
+hammer of the Raging Bull~
+A large hammer sits here.~
+unknown~
+weapon 0 AN
+mace 6 4 beating FG
+15 40 1500 P
+L
+1
+#31975
+Godforged Spear~
+the `&Godforged`` Spear~
+A glowing spear rests here emitting strong energies.~
+Energy~
+weapon ATY NY
+spear 7 8 fury K
+50 0 0 P
+F
+A 19 -1 0
+F
+A 18 8 0
+F
+A 2 -1 0
+#31976
+lion shield~
+the Lion's Shield~
+A shield lies here, it resembles a roaring lion.~
+unknown~
+armor ABe AJ
+10 10 10 5 0
+20 25 2000 P
+F
+A 17 -2 0
+F
+A 18 2 0
+F
+S 282 3 0
+#31977
+razor gauntlets~
+a pair of razor-edge gauntlets~
+A pair of gauntlets sits here, razor-sharp pieces of metal lining their knuckles.~
+Steel~
+armor B AH
+8 8 8 3 0
+30 25 8000 P
+F
+A 19 1 0
+F
+A 19 2 0
+F
+A 21 -2 0
+#31981
+A black loincloth~
+a black loincloth~
+A crumpled up loincloth is here.~
+unknown~
+armor 0 AF
+9 9 9 4 0
+20 30 2500 P
+L
+1
+F
+A 19 2 0
+F
+A 18 2 0
+#0
+
+
+
+#ROOMS
+#31969
+`3Approaching the arena``~
+Ahead you can see numerous creatures of all races, shapes, and sizes
+duking it own in the arena.  It is beautiful in it's own way, a large scale
+brawl such as this.  As you near the open gate to the arena you see a sign. 
+~
+~
+0 0 0 4
+E
+sign~
+By entering the arena you are accepting responsibility for the
+unfortunate chance that you might lose life or limb within these walls.  
+~
+D0
+~
+~
+0 0 31970
+D1
+~
+~
+0 0 31996
+S
+#31970
+`3Overlooking the Arena``~
+As you look down into the arena, there is a mass amount of confusion,
+creatures of all shapes and sizes brawl, smashing chairs, wooden weapons,
+and anything else they can get their hands on against each other's heads. 
+It is quite comical from this vanta As you look down into the arena, there
+is a mass amount of confusion, creatures of all shapes and sizes brawl,
+smashing chairs, wooden weapons, and anything else they can get their hands
+on against each other's heads.  It is quite comical from this vantage, but
+you know they are all dead serious.  
+~
+~
+0 0 0 4
+D0
+~
+~
+0 0 31971
+D2
+~
+~
+0 0 31969
+S
+#31971
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything.  Everything
+is a blur.  The berserkers of larger races are tossing the smaller creatures
+past you.  As you duck and dodge your way through the arena, you notice the
+sounds of metalworking to the east and west.  To the north you see a
+cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31974
+D1
+~
+~
+0 0 31972
+D2
+~
+~
+0 0 31970
+D3
+~
+~
+0 0 31976
+S
+#31972
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31973
+D1
+~
+~
+0 0 31990
+D3
+~
+~
+0 0 31971
+S
+#31973
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31994
+D2
+~
+~
+0 0 31972
+D3
+~
+~
+0 0 31974
+S
+#31974
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  There is a
+grate in the ground at your feet.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31977
+D1
+~
+~
+0 0 31973
+D2
+~
+~
+0 0 31971
+D3
+~
+~
+0 0 31975
+D5
+~
+~
+BM 0 31999
+S
+#31975
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31995
+D1
+~
+~
+0 0 31974
+D2
+~
+~
+0 0 31976
+D3
+~
+~
+0 0 31992
+S
+#31976
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31975
+D1
+~
+~
+0 0 31971
+S
+#31977
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31978
+D1
+~
+~
+0 0 31994
+D2
+~
+~
+0 0 31974
+D3
+~
+~
+0 0 31995
+S
+#31978
+`3A worn path``~
+You have left the grounds of battle and you see a few bloodied and
+bruised creatures lying on the side of the path recuperating.  As you walk
+up the path, there seems to be a steady stream of people screaming warcries
+as they sprint past you and dive straight into the chaos.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31982
+D1
+~
+~
+0 0 31979
+D2
+~
+~
+0 0 31977
+S
+#31979
+`8The Hall of Apocalypse``~
+Various barbed and wickedly shaped weapons and armors line the walls of
+this hallway.  The environment is dark and forboding, and few seem to travel
+here.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31980
+D3
+~
+~
+0 0 31978
+S
+#31980
+`8The Hall of Apocalypse``~
+Various barbed and wickedly shaped weapons and armors line the walls of
+this hallway.  The environment is dark and forboding, and few seme to travel
+here.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31981
+D3
+~
+~
+0 0 31979
+S
+#31981
+`8The Shrine of Devastation``~
+There is an altar here composed of bone and steel.  The sounds of the
+arena seem to echo here even after being absent through the hallways.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31980
+S
+#31982
+`3A worn path``~
+You have left the grounds of battle and you see a few bloodied and
+bruised creatures lying on the side of the path recuperating.  As you walk
+up the path, there seems to be a steady stream of people screaming warcries
+as they sprint past you and dive straight into the chaos.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31983
+D2
+~
+~
+0 0 31978
+D3
+~
+~
+0 0 31985
+S
+#31983
+`8The Hall of Rage``~
+This area is nearly silent compared to the other two halls, there is no
+shouting, no screaming, no sounds of battle.  Just a reverberating hum.  The
+hall is bleak and scarcely decorated.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31984
+D2
+~
+~
+0 0 31982
+S
+#31984
+`8The Hall of Rage``~
+This area is nearly silent compared to the other two halls, there is no
+shouting, no screaming, no sounds of battle.  Just a reverberating hum.  The
+hall is bleak and scarcely decorated.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31989
+D2
+~
+~
+0 0 31983
+S
+#31985
+`8The Hall of Sirens``~
+This hallway is a bit more tranquil than the first one, if by tranquil
+you mean screams and shouts coming from within.  As you follow the hallway
+it only seems to get louder.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31982
+D3
+~
+~
+0 0 31986
+S
+#31986
+`8The Hall of Sirens``~
+This hallway is a bit more tranquil than the first one, if by tranquil
+you mean screams and shouts coming from within.  As you follow the hallway
+it only seems to get louder.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31987
+D1
+~
+~
+0 0 31985
+S
+#31987
+`8The Shrine of Fury``~
+Standing here behind a shrine of steel and wood, is a man who is trying
+with all his might to rip a metal pole from the ground.  It does not budge
+but he will not release it.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31986
+S
+#31989
+`8The Shrine of Anger``~
+There is a shrine here composed of nothing but wood.  On the ground a
+large human rests here, staring off into oblivion, hatred filling his eyes. 
+He does not seem to notice your entry or little else you do.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31984
+S
+#31990
+`3Nearing the Armory``~
+There is a smaller line here than at the weaponsmith, apparently
+berserkers just don't see armor as important as weapons.  There are a few of
+the smarter ones over here, though, getting ready to have holes in their
+armor repaired.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31991
+D3
+~
+~
+0 0 31972
+S
+#31991
+`8The Armory``~
+The walls are bare and you cannot see behind the counter.  The shopkeeper
+does not seem to show off his wares as the weaponsmith.  You sense that his
+items are of the higher quality, though.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31990
+S
+#31992
+`3Nearing the Weaponsmith``~
+A line of berserkers stands here holding broken weapons.  They all look
+very impatient, but not so much that they are willing to jump back into the
+fray without weaponry.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31975
+D2
+~
+~
+0 0 31993
+S
+#31993
+`8Mass Destruction``~
+There are beautiful weapons of all shapes and sizes.  The greedy man
+behind the counter has marked all the prices up to extremely large sums to
+make the most of the crazed berserkers and their breaking of weapons.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31992
+S
+#31994
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 31973
+D3
+~
+~
+0 0 31977
+S
+#31995
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31977
+D2
+~
+~
+0 0 31975
+S
+#31996
+`8A bend in the corridor``~
+You hear the echoes of roars and steel clashing.  It sounds as if a
+full-scale battle is being fought at the end of this corridor, but you
+cannot yet see as the hall veers of to the west a bit ahead.  A lesser man
+would turn around right now and never return.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31997
+D3
+~
+~
+0 0 31969
+S
+#31997
+`8Sounds of havoc``~
+You hear the echoes of roars and steel clashing.  It sounds as if a
+full-scale battle is being fought at the end of this corridor, but you
+cannot yet see as the hall veers of to the west a bit ahead.  A lesser man
+would turn around right now and never return.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31996
+D2
+~
+~
+0 0 31998
+S
+#31998
+`8A large steel door adorned with spikes``~
+You stand before a forboding door covered in bloody spikes.  The two
+guards before it are wearing little and look as if in enraged by some primal
+force.  They are worn with battlewounds years old, likely fighting each
+other.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31997
+D3
+~
+~
+0 0 31203
+S
+#31999
+`8The Pit``~
+You stand about ankle deep in a pool of blood and hair. Fingers and chunks of skin float amidst the small pool. It looks like this is where they drop the bodies as well, judging by the corpse in the corner.
+~
+~
+0 0 0 0
+D4
+~
+~
+BM 0 31974
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31970 15 31974 5
+M 0 31970 1 31975 1
+M 0 31970 3 31977 10
+M 0 31974 1 31981 1
+M 0 31975 1 31987 1
+M 0 31973 1 31989 1
+M 0 31972 1 31991 1
+G 0 31969 0
+G 0 31970 0
+G 0 31981 0
+G 0 31972 0
+G 0 31973 0
+G 0 31977 0
+M 0 31971 1 31993 1
+G 0 31974 0
+G 0 31976 0
+M 0 31969 1 31998 1
+M 0 31969 1 31998 1
+S
+
+
+
+#SHOPS
+31971 0 0 0 0 0 100 100 0 23
+31972 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#31969
+if isimmort $n
+emote begins to look sheepishly at the ground.
+yell All hail, a True Lord has come!
+else
+if class $n berserker
+say Smash and bash, chop and stab, go with Honor.
+else
+mob stop $n
+say Attempt further entry and you will be the new training dummy.
+emote leaps forward and brandishes a large axe.
+say The weak of body will never step foot here. Be gone, fool!
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

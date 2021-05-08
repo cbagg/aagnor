@@ -1,0 +1,1 @@
+[31949] Raki: a last command on an offline crusader triggers the ended crusade string.

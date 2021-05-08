@@ -1,0 +1,1253 @@
+#AREADATA
+Name The flower garden~
+Pref ~
+Builders Raki~
+VNUMs 200 299
+Max_Bastions 0
+Credits (30-50) Raki     The Flower Guarden~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#200
+teacher~
+a teacher~
+A teacher is here trying to help all the new students.
+~
+This teacher is quite verbose.  It seems to enjoy talking to those who
+will listen.  Perhaps it is best not to get it started.  
+~
+elf~
+ABKLe A JP 0 0 0
+60 30 30d1+30 0d0+0 0d0+0 punch
+0 0 0 0
+0 A B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#201
+Trainer~
+a trainer~
+A trainer is here trying to help all the new students.
+~
+This guy is beefy.  He has muscles upon muscles but his vacant expression
+indicates the candles may not be lit upstairs.  
+~
+giant~
+ABJLbe A 0 0 0 0
+60 30 30d1+30 0d0+0 1d1+1 punch
+0 0 0 0
+0 A D P
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#202
+shopkeeper~
+a shopkeeper~
+A man is here rubbing his hands together waiting for your money.
+~
+A man of no shame, he obviously doesn't mind showing his greed.  
+~
+human~
+ABLe A 0 0 0 0
+60 30 30d1+30 0d0+0 1d1+1 punch
+0 0 0 0
+0 A 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#203
+shopkeeper~
+the shopkeeper~
+An old fat woman is here selling some nice armor.
+~
+~
+human~
+ABLe A 0 0 0 0
+60 30 30d30+30 0d0+0 30d30+30 punch
+0 0 0 0
+0 A 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#204
+healer~
+the school nurse~
+A nurse is here treating the wounded.
+~
+~
+elf~
+ABLae A JP 0 350 0
+60 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 A B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 200 100~
+#205
+pansy flower~
+a pansy~
+A very large flower is here.
+~
+It's a huge flower and it smells funny.  Maybe you should trim it.  
+~
+human~
+AGd A 0 0 0 0
+3 0 1d1+0 0d0+0 1d1+1 scratch
+10 10 10 10
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#206
+rock slug~
+a rock slug~
+A large slug that looks like a rock.
+~
+~
+school monster~
+AGUd A 0 0 0 0
+5 0 3d2+4 0d0+0 0d0+0 slime
+10 10 10 10
+0 AB 0 C
+stand stand none none~
+0
+AMV ABCDEFGHIJKLMNOPQUVWXY medium 0
+#207
+butterfly~
+a butterfly~
+A butterfly is collecting pollen from the flowers.
+~
+~
+school monster~
+AGUd A 0 0 0 0
+7 3 3d5+4 0d0+0 2d3+1 pound
+10 10 10 10
+0 AB 0 C
+stand stand none none~
+0
+AMV ABCDEFGHIJKLMNOPQUVWXY medium 0
+#208
+salamander~
+a salamander~
+A salamander is here trying to hide in the shade.
+~
+~
+school monster~
+AGUd A 0 0 0 0
+10 4 4d5+20 0d0+0 2d3+1 bite
+10 10 10 10
+0 AB 0 C
+stand stand none none~
+0
+AMV ABCDEFGHIJKLMNOPQUVWXY medium 0
+#299
+garden guard gate~
+the garden gate guard~
+A guard is here.
+~
+~
+human~
+ABLe A 0 0 0 0
+60 60 300d10+300 0d0+0 60d60+600 wrath
+0 0 0 0
+0 A 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+P EXALL 299 down~
+#0
+
+
+
+#OBJECTS
+#200
+a sword~
+a sword~
+A beautifully crafted sword is here.~
+steel~
+weapon e AN
+sword 2 3 slash 0
+1 2 400 P
+F
+A 18 1 0
+#201
+a dagger~
+a dagger~
+A beautifully crafted dagger is here.~
+steel~
+weapon e AN
+dagger 2 3 stab 0
+1 2 400 P
+F
+A 18 1 0
+#202
+a mace~
+a mace~
+A beautifully crafted mace is here.~
+steel~
+weapon e AN
+exotic 2 3 pound 0
+1 2 400 P
+F
+A 18 1 0
+#203
+a spear~
+a spear~
+A beautifully crafted spear is here.~
+steel~
+weapon e AN
+spear 2 3 stab 0
+1 2 400 P
+F
+A 18 1 0
+#204
+a flail~
+a flail~
+A beautifully crafted flail is here.~
+steel~
+weapon e AN
+flail 2 3 beating 0
+1 2 400 P
+F
+A 18 1 0
+#205
+a whip~
+a whip~
+A beautifully crafted whip is here.~
+steel~
+weapon e AN
+whip 2 3 none 0
+1 2 400 P
+F
+A 18 1 0
+#206
+a staff~
+a staff~
+A beautifully crafted staff is here.~
+steel~
+weapon e AN
+staff 2 3 pound F
+1 2 400 P
+F
+A 18 1 0
+#207
+polearm glaive~
+a polearm~
+A beautifully crafted polearm is here.~
+steel~
+weapon e AN
+polearm 2 3 slash F
+1 2 400 P
+F
+A 18 1 0
+#208
+axe~
+an axe~
+A beautifully crafted axe is here.~
+steel~
+weapon e AN
+axe 2 3 slash 0
+1 2 400 P
+F
+A 18 1 0
+#209
+armor~
+some paper armor~
+A flimsy set of armor made of paper.~
+paper~
+armor Ue AD
+3 3 3 1 0
+1 1 40 P
+#210
+sleeves paper~
+some paper sleeves~
+A flimsy pair of sleeves made of paper.~
+paper~
+armor Ue AI
+3 3 3 1 0
+1 1 40 P
+#211
+paper shield~
+a paper shield~
+A flimsy shield made of paper.~
+paper~
+armor Ue AJ
+3 3 3 1 0
+1 1 40 P
+#212
+paper helmet~
+a paper helmet~
+A flimsy helmet made of paper.~
+paper~
+armor Ue AE
+3 3 3 1 0
+1 1 40 P
+#213
+gem training~
+a training gem~
+A hard gem used for training.~
+gem~
+socket U A
+A U 0 0 0
+1 1 40 P
+F
+A 17 -3 0
+F
+A 17 -2 0
+#214
+paper gloves~
+some paper gloves~
+A pair of paper gloves is on the floor.~
+paper~
+armor Ue AH
+3 3 3 1 0
+1 1 40 P
+#215
+paper cape~
+a paper cape~
+A paper cape is on the floor.~
+paper~
+armor Ue AC
+3 3 3 1 0
+1 1 40 P
+#216
+paper shin guards~
+some paper shin guards~
+A pair of paper shin guards is on the floor.~
+paper~
+armor Ue AF
+3 3 3 1 0
+1 1 40 P
+#217
+paper boots~
+some paper boots~
+A pair of paper boots is on the floor.~
+paper~
+armor Ue AG
+3 3 3 1 0
+1 1 40 P
+#218
+paper robe~
+a paper robe~
+A paper robe is on the floor~
+paper~
+armor Ue AK
+3 3 3 1 0
+1 1 40 P
+#219
+paper belt~
+a paper belt~
+A paper belt is on the floor.~
+paper~
+armor Ue AL
+3 3 3 1 0
+1 1 40 P
+#220
+paper wrist guard~
+a paper wrist guard~
+A paper wrist guard is on the floor.~
+paper~
+armor Ue AM
+3 3 3 1 0
+1 1 40 P
+#221
+paper face mask~
+a paper face mask~
+A paper face mask is on the floor.~
+paper~
+armor Ue Ad
+3 3 3 1 0
+1 1 40 P
+#222
+fighter spirit~
+the fighter's spirit~
+A strange aura is here.~
+glass~
+armor U AQ
+1 1 1 3 0
+1 1 40 P
+F
+A 18 1 0
+F
+A 19 1 0
+#223
+plain guitar~
+a plain guitar~
+A plain wooden guitar is here.~
+wood~
+instrument 0 AN
+0 0 0 0 F
+1 5 400 P
+#0
+
+
+
+#ROOMS
+#200
+`7Welcome hero``~
+Hero, the time has come for you to make your story known.  You wear
+nothing and have but a few coins to your name.  How you live life is how you
+will be remembered or forgotten.  Make your choices and leave your mark on
+these lands cursed by the Aagnor. 
+~
+~
+0 0 0 1
+D4
+~
+~
+0 0 7708
+D5
+~
+~
+0 0 201
+S
+#201
+`7Before the gate``~
+You stand in a nice peaceful area, the smell of flowers emanates from the
+garden to the north.  From the south you can hear the droning of teachers
+and voice of sales men.  
+ 
+There is a sign here.
+~
+~
+0 4 0 1
+E
+sign~
+To the south there are shops trainers and lessons about how to conduct
+yourself as an adventurer.  If you wish to skip the lessons you may simply
+enter the garden to the north, there you can hone your skills on some simple
+monsters.  
+~
+D0
+~
+~
+AB 0 208
+D2
+~
+~
+0 0 202
+D4
+~
+~
+0 0 230
+S
+#202
+`7The hall of the hero school``~
+Voices all around, some excited, other bored.  There is a bit of snoring
+coming from the south, and the long hall stretches into total darkness
+ahead.  To the east there is a sign with a sword, to the west there is a
+sign with a shield.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 203
+D2
+~
+~
+0 0 205
+D3
+~
+~
+0 0 204
+S
+#203
+`7A weapon shop``~
+This shop is full of new weapons.  All the weapons are very fancy, flashy
+or down right cruel looking but don't really serve much combat purpose.  
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 202
+S
+#204
+`7An Armor shop``~
+This shop is full of new armor.  All the pieces are very fancy, flashy or
+down right shiny looking but don't really serve much combat purpose.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 202
+S
+#205
+`7The hall of the hero school``~
+Voices all around, some excited, other bored.  There is a bit of snoring
+coming from the south, and the long hall stretches into total darkness
+ahead.  To the east there is a sign with a sword, to the west there is a
+sign with a shield.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 202
+D1
+~
+~
+0 0 206
+D3
+~
+~
+0 0 207
+S
+#206
+`7The practice hall``~
+Lots of fresh blood here practicing their new found skills.  The teachers
+seem a bit overwhelmed but they are definitely making due.  One is now
+offering you a chance to learn your skills, spells and songs.  
+ 
+There is a sign here that you should look at.
+~
+~
+0 0 0 1
+E
+sign~
+To practice a skill or spell type "practice <skill>"
+To practice a song type "rehearse <song>"
+To see a list of all skilly you will get type "skill" or "spell" or "song"
+To see how good you are at all skills and spells type "practice"
+To see how good you are at all songs type "rehearse"
+To see how good you are at a specific skill or spell type "prof self <skill>
+You cannot practice a skill, spell or song past 75%
+You cannot train past 80% on any skill, spell or song until your 15th rank.
+~
+D3
+~
+~
+0 0 205
+S
+#207
+`7The workout room``~
+All kinds of good stuff here.  Equipment to train every aspect of your
+body is all over the place.  There are very few trainers here but most of
+them look bored anyway so feel free to take some training lessons.  
+ 
+There is a sign here that you should look at.
+~
+~
+0 0 0 1
+E
+sign~
+To train a stat type "train <stat>"
+To convert 10 practices to 1 train type "gain convert"
+To convert 1 train to 10 practices type "gain study"
+See "help stats" to see what each stat does.
+~
+D1
+~
+~
+0 0 205
+S
+#208
+`2The garden``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 209
+D2
+~
+~
+AB 0 201
+D3
+~
+~
+0 0 212
+D4
+~
+~
+0 0 201
+S
+#209
+`2The south east garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 210
+D3
+~
+~
+0 0 208
+D4
+~
+~
+0 0 201
+S
+#210
+`2The south east garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 211
+D3
+~
+~
+0 0 209
+D4
+~
+~
+0 0 201
+S
+#211
+`2The south east garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 218
+D3
+~
+~
+0 0 210
+D4
+~
+~
+0 0 201
+S
+#212
+`2The south west garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 208
+D3
+~
+~
+0 0 213
+D4
+~
+~
+0 0 201
+S
+#213
+`2The south west garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 220
+D1
+~
+~
+0 0 212
+D3
+~
+~
+0 0 214
+D4
+~
+~
+0 0 201
+S
+#214
+`2The south west garden path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 213
+D4
+~
+~
+0 0 201
+S
+#215
+`2The garden``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 222
+D1
+~
+~
+0 0 216
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 219
+D4
+~
+~
+0 0 201
+S
+#216
+`2The central eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 223
+D1
+~
+~
+0 0 217
+D3
+~
+~
+0 0 215
+D4
+~
+~
+0 0 201
+S
+#217
+`2The central eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 218
+D3
+~
+~
+0 0 216
+D4
+~
+~
+0 0 201
+S
+#218
+`2The central eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 211
+D3
+~
+~
+0 0 217
+D4
+~
+~
+0 0 201
+S
+#219
+`2The central western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 215
+D3
+~
+~
+0 0 220
+D4
+~
+~
+0 0 201
+S
+#220
+`2The central western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 219
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 221
+D4
+~
+~
+0 0 201
+S
+#221
+`2The central western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 220
+D4
+~
+~
+0 0 201
+S
+#222
+`2The garden``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 215
+D3
+~
+~
+0 0 226
+D4
+~
+~
+0 0 201
+S
+#223
+`2The north eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 224
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 222
+D4
+~
+~
+0 0 201
+S
+#224
+`2The north eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 225
+D3
+~
+~
+0 0 223
+D4
+~
+~
+0 0 201
+S
+#225
+`2The north eastern path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 224
+D4
+~
+~
+0 0 201
+S
+#226
+`2The north western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 222
+D3
+~
+~
+0 0 227
+D4
+~
+~
+0 0 201
+S
+#227
+`2The north western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 226
+D3
+~
+~
+0 0 228
+D4
+~
+~
+0 0 201
+S
+#228
+`2The north western path``~
+This garden is beautiful.  There are lots of flowers here many of them
+large enough to take a swing at.  Bugs and other animals are also not
+uncommon here.  This place will be perfect to hunt and gain some valuable
+fighting experience.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 227
+D2
+~
+~
+0 0 221
+D4
+~
+~
+0 0 201
+S
+#229
+`7The gate to the garden``~
+You stand before the gates to the flower garden.  Why a garden is
+surrounded by walls with armed guards and barbed wire is beyond your
+comprehension.  There is a guard stopping people from going where they done
+belong.  
+~
+~
+0 0 0 1
+D4
+~
+~
+0 0 32540
+D5
+~
+~
+0 0 201
+S
+#230
+`7The portal room``~
+This is the gateway to the major cities.  Energy crackles around in all
+directions and the smell of flowers fades from the air.  Portals shimmer in
+every direction, each holding its own destiny for you.  
+ 
+North-Menasette
+South-Ravndhin
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32538
+D2
+~
+~
+0 0 11624
+D5
+~
+~
+0 0 201
+S
+#231
+`7The gate to the garden [Room 229]``~
+You stand before the gates to the flower garden.  Why a garden is
+surrounded by walls with armed guards and barbed wire is beyond your
+comprehension.  There is a guard stopping people from going where they done
+belong.  
+~
+~
+0 0 0 1
+D4
+~
+~
+0 0 11665
+D5
+~
+~
+0 0 201
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 204 1 201 1
+M 0 202 1 203 1
+G 0 223 0
+G 0 208 0
+G 0 207 0
+G 0 206 0
+G 0 205 0
+G 0 204 0
+G 0 203 0
+G 0 202 0
+G 0 201 0
+G 0 200 0
+M 0 203 1 204 1
+G 0 222 0
+G 0 221 0
+G 0 220 0
+G 0 219 0
+G 0 218 0
+G 0 217 0
+G 0 216 0
+G 0 215 0
+G 0 214 0
+G 0 213 0
+G 0 212 0
+G 0 211 0
+G 0 210 0
+G 0 209 0
+M 0 200 1 206 1
+M 0 201 1 207 1
+M 0 207 10 208 2
+M 0 207 10 209 2
+M 0 206 10 210 2
+M 0 208 10 211 2
+M 0 205 10 211 2
+M 0 205 10 211 2
+M 0 207 10 212 2
+M 0 206 10 213 2
+M 0 205 10 213 2
+M 0 205 10 213 2
+M 0 208 10 214 2
+M 0 207 10 214 2
+M 0 206 10 215 2
+M 0 206 10 215 2
+M 0 205 10 216 2
+M 0 205 10 216 2
+M 0 207 10 217 2
+M 0 208 10 218 2
+M 0 207 10 218 2
+M 0 207 10 219 2
+M 0 207 10 220 2
+M 0 208 10 221 2
+M 0 206 10 221 2
+M 0 206 10 221 2
+M 0 205 10 221 2
+M 0 205 10 221 2
+M 0 208 10 222 2
+M 0 207 10 222 2
+M 0 208 10 223 2
+M 0 207 10 223 2
+M 0 208 10 224 2
+M 0 206 10 224 2
+M 0 206 10 224 2
+M 0 208 10 225 2
+M 0 205 10 225 2
+M 0 205 10 225 2
+M 0 208 10 226 2
+M 0 206 10 226 2
+M 0 206 10 226 2
+M 0 208 10 227 2
+M 0 207 10 227 2
+M 0 208 10 228 2
+M 0 207 10 228 2
+M 0 299 8 229 1
+M 0 299 8 231 1
+S
+
+
+
+#SHOPS
+202 0 0 0 0 0 100 100 0 23
+203 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#200
+mob cast "continual light"
+say Take this, It will aid your training.
+~
+#299
+if level $n > 5
+If class $n healer
+say Remember your presence here is limited. Do what you need to and don't dwell around.
+Break
+else
+if isimmort $n
+break
+else
+mob stop $n
+Say don't you think you're a bit old for this place?
+Break
+endif
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

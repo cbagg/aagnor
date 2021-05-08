@@ -1,0 +1,1113 @@
+#AREADATA
+Name The Star Forge~
+Pref ~
+Builders Raki~
+VNUMs 31400 31499
+Max_Bastions 0
+Credits (31-50) Raki     The Star Forge~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31400
+guard star forge~
+the guard of the star forge~
+A tall and buff human man is here.
+~
+This large man is here to keep things in order for the star forge.  Truly
+he should ne be messed with, those muscles make any giant look like a pansy.
+~
+human~
+ABLe A DFHTVZa CEKM 0 0
+60 200 100d100+10000 100d100+10000 10d20+200 icefire
+-10 -10 -10 -10
+ACEFHIJKNXY AB 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+P EXALL 31400 north~
+#31401
+gnome book keeper~
+a gnomish book keeper~
+A small gnome is here scribbeling something down on paper.
+~
+He is a small surly fellow.  The sour look on his face tells it all.  He
+is a man of business and not interested in those who cannot pay.
+~
+gnome~
+ABLe A J 0 0 0
+60 200 100d100+10000 100d100+10000 10d20+200 punch
+0 0 0 0
+0 AB 0 BP
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 31404 weapon~
+P SPEECH 31403 armor~
+P BRIBE 31402 100000~
+P GRALL 31401 100~
+#31402
+forge master~
+the weapon forge master~
+A huge giant is here working the forge and sweating really badly.
+~
+He is a huge giant.  The shear power with which he swings his hammer is
+amazing and he does it with such precision.  He is here to make your weapon.
+~
+stone~
+ABLe A DF K 0 0
+60 200 100d100+10000 100d100+10000 10d20+200 crush
+-20 -20 -20 -20
+0 AB D P
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P EXALL 31418 north~
+P SPEECH 31417 arrow~
+P SPEECH 31416 bow~
+P SPEECH 31415 staff~
+P SPEECH 31414 mace~
+P SPEECH 31413 flail~
+P SPEECH 31412 whip~
+P SPEECH 31411 glaive~
+P SPEECH 31410 axe~
+P SPEECH 31409 spear~
+P SPEECH 31408 sword~
+P SPEECH 31406 dagger~
+P GRALL 31405 100~
+P GIVE 31407 141~
+#31403
+forge master~
+The weapon forge master~
+A huge giant is here working the forge and sweating really badly.
+~
+He is a huge giant.  The shear power with which he swings his hammer is
+amazing and he does it with such precision.  He is here to make your weapon.
+The weapon forge master is in excellent condition.
+~
+stone~
+ABLe A DF K 0 0
+60 200 100d100+10000 100d100+10000 10d20+200 punch
+-20 -20 -20 -20
+0 AB D P
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GIVE 31419 141~
+P GIVE 31420 starforged~
+P SPEECH 31421 done~
+P SPEECH 31423 leave~
+#31404
+forge mage~
+the forge mage~
+A very small mage is here infusing weapons with magic.
+~
+~
+gnome~
+ABLe A J 0 0 0
+60 200 100d100+10000 100d100+10000 10d20+200 magic
+-20 -20 -20 -20
+0 AB 0 BP
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GIVE 31422 141~
+P SPEECH 31423 leave~
+P SPEECH 31421 done~
+P SPEECH 31424 next~
+P SPEECH 31425 skip~
+P SPEECH 31426 fire~
+#0
+
+
+
+#OBJECTS
+#31400
+starforged dagger~
+a starforged dagger~
+A small dagger glittering with starstone.~
+starstone~
+weapon 0 AN
+dagger 0 0 pierce 0
+50 5 0 P
+#31401
+starforged sword~
+A starforged sword~
+A sword is here made from starstone.~
+starstone~
+weapon 0 AN
+sword 0 0 slash 0
+50 7 0 P
+#31402
+starforged spear~
+A starforged spear~
+A spear is here glistening with starstone.~
+starstone~
+weapon 0 AN
+spear 0 0 pierce 0
+50 7 0 P
+#31403
+starforged axe~
+A starforged axe~
+An axe is here glistening with starstone.~
+starstone~
+weapon 0 AN
+axe 0 0 slash 0
+50 10 0 P
+#31404
+starforged glaive~
+A starforged glaive~
+A long glaive is here glistening with starstone.~
+starstone~
+weapon 0 AN
+polearm 0 0 slash 0
+50 35 0 P
+#31405
+starforged whip~
+A starforged whip~
+A long whip is here glistening with starstone.~
+starstone~
+weapon 0 AN
+whip 0 0 beating 0
+50 5 0 P
+#31406
+starforged flail~
+A starforged flail~
+A short flail is here glistening with starstone.~
+starstone~
+weapon 0 AN
+flail 0 0 crush 0
+50 5 0 P
+#31407
+starforged mace~
+A starforged mace~
+A mace is here glistening with starstone.~
+starstone~
+weapon 0 AN
+mace 0 0 crush 0
+50 7 0 P
+#31408
+starforged staff~
+A starforged staff~
+A staff is here glistening with starstone.~
+starstone~
+weapon 0 AN
+staff 0 0 pound 0
+50 10 0 P
+#31409
+starforged bow~
+A starforged bow~
+A bow is here glistening with starstone.~
+starstone~
+ranged 0 Ae
+A 0 0 0 0
+50 10 0 P
+#31410
+starforged arrow~
+some starforged arrows~
+A bundle of arrows with starstone tips are here.~
+starstone~
+projectile 0 Aa
+A 0 0 pierce 0 50 3 0 P
+#31498
+key east~
+the east key~
+A small key is here.~
+steel~
+key 0 0
+0 0 0 0 0
+60 1 0 P
+#31499
+key west~
+the west key~
+A small key is here.~
+steel~
+key 0 0
+0 0 0 0 0
+60 1 100 P
+#0
+
+
+
+#ROOMS
+#31400
+`7The Gate to the Star Forge``~
+You stand before a small building with several smoking chimneys.  The
+smell around this place is intense and smells almost like wet dogs and
+cabbage.  There is but one gate around the building and it is very heavily
+guarded.
+~
+~
+0 870319368 1024 1
+D0
+~
+~
+0 0 31401
+S
+#31401
+`7The lobby of the Star Forge``~
+Inside the Star Forge is a room of much comfort.  There is a large couch
+sitting in the waiting room and even a table for you to put your feet up on.
+The room is perfectly kept; no dust, dirt, blood or other things that are oh
+so common all around outside.  At the far end is a desk with some gnome
+penning something in a book.
+
+There is a sign here labled weapons and another labled armor.
+~
+~
+0 870319368 1024 1
+E
+weapon~
+The star forge can make the following weapons. Each is accompanied by the base number of starstone needed to START the process. You will need more than this to make your weapon.
+Dagger - 5
+Sword - 7
+Spear - 7
+Axe - 10
+Polearm - 10
+Whip - 5
+Flail - 5
+Mace - 7
+Staff - 10
+Arrows - 3
+Bow - 10
+~
+D1
+~
+~
+ABCFG 31498 31402
+D2
+~
+~
+0 0 31400
+D3
+~
+~
+ABCFG 31499 31403
+S
+#31402
+~
+~
+~
+0 0 0 0
+D3
+~
+~
+ABCFG 0 31401
+S
+#31403
+`7The Weapon Forge``~
+This room is incredibly hot.  The air is dry though and there is some
+sort of ventilation in the ceiling.  In the corner there is a searing pit of
+white flame.  All kinds of tools hang on the walls, hammers tongs and bags
+of some fine white powder.
+~
+~
+0 870319368 0 1
+E
+weapon 1~
+The star forge can make the following weapons. Each is accompanied by
+the base number of starstone needed to START the process. You will
+need more than this to make your weapon.
+Dagger - 5
+Sword - 7
+Spear - 7
+Axe - 10
+Polearm - 10
+Whip - 5
+Flail - 5
+Mace - 7
+Staff - 10
+Arrows - 3
+Bow - 10
+~
+D0
+~
+~
+0 0 31405
+D1
+~
+~
+ABCFG 31499 31401
+T 105
+S
+#31404
+`7A cool magical aura``~
+~
+~
+0 870319368 1024 1
+D1
+~
+~
+0 0 31405
+S
+#31405
+`7The Weapon Forge``~
+This room is incredibly hot.  The air is dry though and there is some
+sort of ventilation in the ceiling.  In the corner there is a searing pit of
+white flame.  All kinds of tools hang on the walls, hammers tongs and bags
+of some fine white powder.
+~
+~
+0 870319368 1024 1
+D2
+~
+~
+0 0 31403
+D3
+~
+~
+0 0 31404
+T 105
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31400 1 31400 1
+M 0 31401 1 31401 1
+G 0 31498 0
+G 0 31499 0
+M 0 31402 1 31403 1
+M 0 31404 1 31404 1
+M 0 31403 1 31405 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#31400
+If isbloody $n
+mob stop $n
+say Hold on there pal! The whole process can get fouled up
+say by a single drop of blood. Respect those around you and
+say come back later.
+Break
+else
+echoat $n The guard of the star forge looks you over nods as you walk by.
+~
+#31401
+say Welcome to the starforge workshop!
+say There is an upfront fee of 100000 coins
+say to get started. If you are unsure of you
+say decision please look at the sign and
+say Think it over some more.
+~
+#31402
+say All right now that we are doing business,
+say what kind of forging are we talking about?
+Pmote looks at $n for the answer.
+Inviquest $n armor or weapon
+~
+#31403
+if hasquest $n 'Armor or weapon'
+remquest $n Armor or weapon
+say Ok then the forge is to the east.
+say Go ahead and make yourself comfortable
+say and I will be there shortly.
+Emote scribbles something down in a book.
+unlock east
+open east
+break
+else
+say What? Ya Gotta pay first!
+slap $n
+endif
+~
+#31404
+if hasquest $n 'Armor or weapon'
+remquest $n Armor or weapon
+say Ok then the forge is to the west.
+say Go ahead and make yourself comfortable
+say and I will be there shortly.
+Emote scribbles something down in a book.
+unlock west
+open west
+break
+else
+say What? Ya Gotta pay first!
+slap $n
+endif
+~
+#31405
+close east
+lock east
+say Ok now that the money stuff is done,
+say what type of weapon will I be making?
+Pmote looks at $n for the answer.
+inviquest $n Start weapon
+~
+#31406
+if hasquest $n 'Start weapon'
+say I need five slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make dagger
+endif
+~
+#31407
+if hasquest $n 'start weapon'
+inviquest $n 1 slab
+remquest $n start weapon
+break
+endif
+if hasquest $n '1 slab'
+inviquest $n 2 slabs
+remquest $n 1 slab
+break
+endif
+if hasquest $n '2 slabs'
+inviquest $n 3 slabs
+remquest $n 2 slabs
+if hasquest $n 'Make arrow'
+mob oload 31410
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged arrow!
+mob junk all.slab
+remquest $n 3 slabs
+remquest $n Make arrow
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+endif
+break
+endif
+if hasquest $n '3 slabs'
+inviquest $n 4 slabs
+remquest $n 3 slabs
+break
+endif
+if hasquest $n '4 slabs'
+inviquest $n 5 slabs
+remquest $n 4 slabs
+if hasquest $n 'Make dagger'
+mob oload 31400
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged dagger!
+mob junk all.slab
+remquest $n 5 slabs
+remquest $n Make dagger
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make whip'
+mob oload 31405
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged whip!
+mob junk all.slab
+remquest $n 5 slabs
+remquest $n Make whip
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make flail'
+mob oload 31406
+emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged flail!
+mob junk all.slab
+remquest $n 5 slabs
+remquest $n Make flail
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+say 5
+break
+endif
+endif
+endif
+endif
+if hasquest $n '5 slabs'
+inviquest $n 6 slabs
+remquest $n 5 slabs
+break
+endif
+if hasquest $n '6 slabs'
+inviquest $n 7 slabs
+remquest $n 6 slabs
+if hasquest $n 'Make sword'
+mob oload 31401
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged sword!
+mob junk all.slab
+remquest $n 7 slabs
+remquest $n Make sword
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make spear'
+mob oload 31402
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged spear!
+mob junk all.slab
+remquest $n 7 slabs
+remquest $n Make spear
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make mace'
+mob oload 31407
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged mace!
+mob junk all.slab
+remquest $n 7 slabs
+remquest $n Make mace
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+endif
+endif
+endif
+break
+endif
+if hasquest $n '7 slabs'
+inviquest $n 8 slabs
+remquest $n 7 slabs
+break
+endif
+if hasquest $n '8 slabs'
+inviquest $n 9 slabs
+remquest $n 8 slabs
+break
+endif
+if hasquest $n '9 slabs'
+inviquest $n 10 slabs
+remquest $n 9 slabs
+if hasquest $n 'Make axe'
+mob oload 31403
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged axe!
+mob junk all.slab
+remquest $n 10 slabs
+remquest $n Make axe
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make glaive'
+mob oload 31404
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged glaive!
+mob junk all.slab
+remquest $n 10 slabs
+remquest $n Make glaive
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make staff'
+mob oload 31408
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged staff!
+mob junk all.slab
+remquest $n 10 slabs
+remquest $n Make staff
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+else
+if hasquest $n 'Make bow'
+mob oload 31409
+Emote grabs a hammer and begins hammering away at the slabs.
+Emote has made a starforged bow!
+mob junk all.slab
+remquest $n 10 slabs
+remquest $n Make bow
+inviquest $n Step 2
+Emote nods his head to the north.
+give starforged $n
+break
+endif
+endif
+endif
+endif
+endif
+~
+#31408
+if hasquest $n 'Start weapon'
+say I need seven slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make sword
+endif
+~
+#31409
+if hasquest $n 'Start weapon'
+say I need seven slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make spear
+endif
+~
+#31410
+if hasquest $n 'Start weapon'
+say I need ten slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make axe
+endif
+~
+#31411
+if hasquest $n 'Start weapon'
+say I need ten slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make glaive
+endif
+~
+#31412
+if hasquest $n 'Start weapon'
+say I need five slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make whip
+endif
+~
+#31413
+if hasquest $n 'Start weapon'
+say I need five slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make flail
+endif
+~
+#31414
+if hasquest $n 'Start weapon'
+say I need seven slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make mace
+endif
+~
+#31415
+if hasquest $n 'Start weapon'
+say I need ten slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make staff
+endif
+~
+#31416
+if hasquest $n 'Start weapon'
+say I need ten slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make bow
+endif
+~
+#31417
+if hasquest $n 'Start weapon'
+say I need three slabs.
+say Hand me the slabs one at a time.
+say If you loose count say "start over"
+inviquest $n make arrow
+endif
+~
+#31418
+if isimmort $n
+emote begins to drift off as his eyes lose their focus.
+emote mutters in a zombie-like voice "True Lord of Power, you may pass."
+break
+else
+if hasquest $n 'Step 2'
+say Right this way.
+break
+else
+mob stop $n
+say Hang on a moment there pall.
+say I have to make you a weapon first.
+emote pushes you back into the room.
+~
+#31419
+if hasquest $n 'Step 2'
+inviquest $n 1 slab
+remquest $n Step 2
+break
+endif
+if hasquest $n '1 slab'
+inviquest $n 2 slabs
+remquest $n 1 slab
+break
+endif
+if hasquest $n '2 slabs'
+inviquest $n 3 slabs
+remquest $n 2 slabs
+set obj starforged v1 1
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '3 slabs'
+inviquest $n 4 slabs
+remquest $n 3 slabs
+break
+endif
+if hasquest $n '4 slabs'
+inviquest $n 5 slabs
+remquest $n 4 slabs
+say 5
+set obj starforged v2 1
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '5 slabs'
+inviquest $n 6 slabs
+remquest $n 5 slabs
+set obj starforged v1 2
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '6 slabs'
+inviquest $n 7 slabs
+remquest $n 6 slabs
+break
+endif
+if hasquest $n '7 slabs'
+inviquest $n 8 slabs
+remquest $n 7 slabs
+break
+endif
+if hasquest $n '8 slabs'
+inviquest $n 9 slabs
+remquest $n 8 slabs
+set obj starforged v1 3
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '9 slabs'
+inviquest $n 10 slabs
+remquest $n 9 slabs
+say Excelent! Ten!
+set obj starforged v2 2
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '10 slabs'
+inviquest $n 11 slabs
+remquest $n 10 slabs
+break
+endif
+if hasquest $n '11 slabs'
+inviquest $n 12 slabs
+remquest $n 11 slabs
+set obj starforged v1 4
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '12 slabs'
+inviquest $n 13 slabs
+remquest $n 12 slabs
+break
+endif
+if hasquest $n '13 slabs'
+inviquest $n 14 slabs
+remquest $n 13 slabs
+break
+endif
+if hasquest $n '14 slabs'
+inviquest $n 15 slabs
+remquest $n 14 slabs
+set obj starforged v1 5
+set obj starforged v2 3
+mob echo The weapon looks a lot better.
+say 15
+break
+endif
+if hasquest $n '15 slabs'
+inviquest $n 16 slabs
+remquest $n 15 slabs
+break
+endif
+if hasquest $n '16 slabs'
+inviquest $n 17 slabs
+remquest $n 16 slabs
+break
+endif
+if hasquest $n '17 slabs'
+inviquest $n 18 slabs
+remquest $n 17 slabs
+set obj starforged v1 6
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '18 slabs'
+inviquest $n 19 slabs
+remquest $n 18 slabs
+break
+endif
+if hasquest $n '19 slabs'
+inviquest $n 20 slabs
+remquest $n 19 slabs
+say 20
+set obj starforged v2 4
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '20 slabs'
+inviquest $n 21 slabs
+remquest $n 20 slabs
+set obj starforged v1 7
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '21 slabs'
+inviquest $n 22 slabs
+remquest $n 21 slabs
+break
+endif
+if hasquest $n '22 slabs'
+inviquest $n 23 slabs
+remquest $n 22 slabs
+break
+endif
+if hasquest $n '23 slabs'
+inviquest $n 24 slabs
+remquest $n 23 slabs
+set obj starforged v1 8
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '24 slabs'
+inviquest $n 25 slabs
+remquest $n 24 slabs
+say 25
+set obj starforged v2 5
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '25 slabs'
+inviquest $n 26 slabs
+remquest $n 25 slabs
+break
+endif
+if hasquest $n '26 slabs'
+inviquest $n 27 slabs
+remquest $n 26 slabs
+set obj starforged v1 9
+mob echo The weapon looks a bit better.
+break
+endif
+if hasquest $n '27 slabs'
+inviquest $n 28 slabs
+remquest $n 27 slabs
+break
+endif
+if hasquest $n '28 slabs'
+inviquest $n 29 slabs
+remquest $n 28 slabs
+break
+endif
+if hasquest $n '29 slabs'
+inviquest $n step 3
+remquest $n 29 slabs
+say That's it! Done! No more!
+set obj starforged v1 10
+set obj starforged v2 6
+mob echo The weapon looks about as good as it is going to get.
+give starforged $n
+emote nods to the west.
+break
+endif
+mob junk slab
+~
+#31420
+say Listen carefully to what I have to say.
+say Time to get started on the weapon.
+say Give me slabs one at a time and I will
+say use them to improve the weapon. If you
+say run out, simply say "done" and I will
+say return your weapon. If you want to
+say leave, say "leave" and you will be
+say escorted back to the gate. To the west
+say is an mage who can alter the physical
+say properties of your weapon. Once you are
+say "done" you cannot restart the process
+say and we will not be held responsible for
+say lost or damaged weapons. Lets get started.
+say I estimate this weapon will not withstand
+say more than thirty starstones to modify to
+say its best.
+~
+#31421
+if ispc $n
+say Ok here is your weapon. As a
+say jesture of good business I will
+say identify it for you.
+identify starforged
+give starforged $n
+break
+endif
+~
+#31422
+if hasquest $n 'Step 3'
+if hasquest $n 'Magic'
+remquest $n Magic
+set obj starforged v3 magic
+break
+endif
+if hasquest $n 'Lightning'
+remquest $n Lignting
+set obj starforged v3 shock
+break
+endif
+if hasquest $n 'Fire'
+remquest $n Fire
+set obj starforged v3 Flame
+break
+endif
+if hasquest $n 'Ice'
+remquest $n Ice
+set obj starforged v3 chill
+break
+endif
+if hasquest $n 'Water'
+remquest $n Water
+set obj starforged v3 torrent
+break
+endif
+say alright! Now I can improve it further,
+say if you look at the second sign and say
+say what improvement you would like. I can
+say Improve up to twice.
+remquest $n Step 3
+inviquest $n Element
+break
+endif
+~
+#31423
+if ismob $n
+break
+else
+say Very well I will escort you out.
+Pmote leads $n to the gate.
+transfer $n 31400
+endif
+~
+#31424
+if ispc $n
+if hasquest $n 'step 3'
+Say Ok the first magic I place in
+say the weapon is that of the elements.
+say I can grant the following elemental
+say attacks: Magic, Fire, Ice, Water, and
+say Ligtning.
+break
+else
+If hasquest $n Element1
+say I can add the following extra attacks
+say to a weapon: Sharp Flaming, Frost,
+say Vampiric, Vorpal, Shocking, Poison,
+say Paralyze and Wounds. Only two however,
+say more than that will ruin the weapon.
+break
+else
+If hasquest $n Element2
+say Ok I can add the following enhancements
+say to the weapon: nodrop, noremove, burnproof,
+say and socketable.
+break
+else
+If hasquest $n 2hands
+say Ok If this weapon will be two-handed I will
+say need five slabs. If not simply say skip.
+break
+else
+If hasquest $n 'owner'
+say Last thing, will you have me put your name
+say on the weapon? This will take ten slabs.
+break
+else
+say I am sorry I can do no more to the weapon.
+say Take care and use it well.
+break
+endif
+endif
+~
+#31425
+if ispc $n
+if hasquest $n 'Step 3'
+remquest $n Step 3
+inviquest $n Element1
+break
+else
+if hasquest $n 'Element1'
+remquest $n Element1
+inviquest $n Element2
+break
+else
+if hasquest $n 'Element2'
+remquest $n Element2
+inviquest $n 2hands
+break
+else
+if hasquest $n '2hands'
+remquest $n 2hands
+inviquest $n owner
+break
+else
+say There is nothing else to skip. Go home.
+endif
+endif
+~
+#31426
+if ispc $n
+inviquest $n fire
+say ok now give me a slab
+say and I will do it.
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,553 @@
+#AREADATA
+Name Druid Guild~
+Pref ~
+Builders Raki~
+VNUMs 31949 31968
+Max_Bastions 0
+Credits (Guild) Raki     Druid Guild~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31949
+Kaszar Druid guildmaster guild~
+Kaszar the grand master of druids~
+A old hunchbacked man is here brewing potions.
+~
+~
+werebeast~
+ABJKLQbe A D K 0 0
+60 100 100d100+10000 30d30+300 10d10+50 fury
+-4 -4 -4 -4
+0 AB 0 Y
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31950
+Druid herb master~
+the herbal master~
+A short druid is here gathering herbs.
+~
+~
+human~
+ACGLd A 0 K 0 0
+60 60 100d100+10000 0d0+0 10d10+100 grep
+-12 -12 -12 -4
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31951
+Druid Supply Master~
+the druid supply master~
+A large werebeast is here watching the shop.
+~
+~
+werebeast~
+ABe A D K 0 0
+60 100 100d100+10000 0d0+0 5d10+50 none
+-14 -14 -14 -14
+0 AB 0 Y
+stand stand male none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#31952
+druid guild Gunther~
+the Druid Gunther~
+A large, deformed beast is trying to hide here.
+~
+~
+werebeast~
+ABe A DFZ JK 0 0
+35 40 200d5+0 100d100+10000 4d10+40 claw
+-4 -4 -4 -1
+FIJKX ABX 0 Y
+stand stand none none~
+0
+AHMV ABCDEFGHIJK large 0
+P EXALL 31952 down~
+#0
+
+
+
+#OBJECTS
+#31949
+dried blue grass~
+some dried blue grass~
+A patch of blue grass appears to be drying out.~
+plant~
+herb 0 A
+300 'reserved' 'reserved' 'shield' 'reserved'
+30 1 1000 P
+#31950
+lush green grass~
+some lush green grass~
+A patch of lush green grass is growing.~
+plant~
+herb 0 A
+300 'reserved' 'reserved' 'cure serious' 'reserved'
+30 1 1000 P
+#31951
+stiff red leaves~
+some stiff red leaves~
+A pile of sharp looking red leaves is here.~
+plant~
+herb 0 A
+0 'reserved' 'reserved' 'flesh armor' 'reserved'
+30 1 1000 P
+#31952
+rose buds~
+some rose buds~
+A few buds of roses are here.~
+plant~
+herb 0 A
+300 'reserved' 'reserved' 'word of recall' 'reserved'
+45 1 0 P
+#31953
+slimy lilly pads~
+slimy lilly pads~
+A lilly pad slides around in its own slime.~
+plant~
+herb 0 A
+150 'reserved' 'reserved' 'turn undead' 'reserved'
+45 1 4500 P
+#31954
+mark nature~
+the mark of nature~
+A small piece of cloth with the mark of the lands.~
+cloth~
+clothing 0 AI
+0 0 0 0 0
+30 3 10000 P
+L
+17
+F
+A 21 -8 0
+F
+S 263 10 0
+#31955
+thick tree branch~
+a thick tree branch~
+A short branch of a tree is here.~
+wood~
+weapon 0 AN
+mace 9 3 grep 0
+20 14 3500 P
+L
+17
+F
+A 18 2 0
+F
+A 19 2 0
+#31956
+bark shield~
+a thick bark shield~
+A Large and sturdy shield is here made of bark.~
+wood~
+armor M AJ
+17 5 11 5 0
+40 20 7000 P
+L
+17
+F
+S 97 5 0
+F
+A 18 5 0
+#31962
+potion druid~
+a druids best friend~
+A potion is here crawling with forest moss.~
+potion~
+potion ABHTY AO
+60 'druid gate' '' '' ''
+50 2 30000 P
+L
+17
+#0
+
+
+
+#ROOMS
+#31949
+`2Inside some very dense folliage``~
+How this place got to be the way it is might be a bit beyond your 
+imagination. Having passed through the plant life you have stumbled 
+across a large open space and the home of the druids. There seems to 
+be some sort of a hole in the ground just big enough to fit through.
+~
+~
+0 0 0 3
+D5
+~
+~
+0 0 31950
+S
+#31950
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921220 0 3
+D0
+~
+~
+0 0 31951
+D1
+~
+~
+0 0 31953
+D2
+~
+~
+0 0 31955
+D3
+~
+~
+0 0 31957
+D4
+~
+~
+0 0 31949
+S
+#31951
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D1
+~
+~
+0 0 31952
+D2
+~
+~
+0 0 31950
+D3
+~
+~
+0 0 31958
+S
+#31952
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31959
+D1
+~
+~
+0 0 31960
+D2
+~
+~
+0 0 31953
+D3
+~
+~
+0 0 31951
+S
+#31953
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31952
+D2
+~
+~
+0 0 31954
+D3
+~
+~
+0 0 31950
+S
+#31954
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31953
+D3
+~
+~
+0 0 31955
+S
+#31955
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31950
+D1
+~
+~
+0 0 31954
+D3
+~
+~
+0 0 31956
+S
+#31956
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31957
+D1
+~
+~
+0 0 31955
+D2
+~
+~
+0 0 31962
+D3
+~
+~
+0 0 31961
+S
+#31957
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31958
+D1
+~
+~
+0 0 31950
+D2
+~
+~
+0 0 31956
+S
+#31958
+`2The druids den``~
+Thick vegetation surrounds this place making an impenetrable barrier 
+of wood and leaf. The walls floors ceiling and even some support 
+barriers are all natural growing anomalies. The floor is covered by 
+some thick layers of soft grass and light filters thinly down through 
+the floral canopy.
+~
+~
+0 278921216 0 3
+D1
+~
+~
+0 0 31951
+D2
+~
+~
+0 0 31957
+S
+#31959
+`2Guildmasters grove``~
+This small grove is the home of the guild master. It is obvious he 
+takes great care of it, and in fact all the plants are perfectly 
+trimmed here. There seems to be a small spot in the very back that 
+is set up for brewing potions and another spot with thick leaves 
+that have been matted down.
+~
+~
+0 278921216 0 3
+D2
+~
+~
+0 0 31952
+S
+#31960
+`2A warm glow``~
+You are at peace. All your worries, cares, inhibition seem to melt 
+away. There is a warm feeling coming from the plants, and the smell 
+of the flowers calms your senses.
+~
+~
+0 278922244 0 3
+D3
+~
+~
+0 0 31952
+M 100 H 300
+T 85
+S
+#31961
+`2The herbal brew``~
+Perfection, everything here is perfect. The smell of the flowers, 
+grind of the dirt under foot even the view of the sky is amazing. 
+There is a table in the corner, the wood of which is well warped and 
+faded. The surface is semi-sticky and so is the ground around it. This
+must be used for brewing specialized potions.
+~
+~
+0 278921216 0 3
+D1
+~
+~
+0 0 31956
+M 300 H 100
+S
+#31962
+`2Nature's Reilef``~
+You stand in a small crowded shop. Things lay all around, on the 
+ground, on the table and even on some over grown tree leaves. 
+Everything here is all natural and scavenged from only the best of 
+parts.
+~
+~
+0 278921216 0 3
+D0
+~
+~
+0 0 31956
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31952 1 31949 1
+M 0 31950 1 31950 1
+G 0 31950 0
+G 0 31949 0
+G 0 31951 0
+O 0 31952 0 31951
+O 0 31953 0 31954
+O 0 31952 0 31955
+O 0 31953 0 31957
+M 0 31949 1 31959 1
+M 0 31951 1 31962 1
+G 0 31962 0
+G 0 31956 0
+G 0 31955 0
+G 0 31954 0
+S
+
+
+
+#SHOPS
+31950 16 0 0 0 0 150 25 0 23
+31951 9 5 10 33 0 100 25 0 23
+0
+
+
+
+#MOBPROGS
+#31952
+if isimmort $n
+emote begins to drift off as his eyes lose their focus.
+emote mutters in a zombie-like voice "True Lord of Power, may you enter my humble abode..."
+camouflage
+break
+else
+if isbloody $n
+mob stop $n
+say Sorry, but I cant have you getting blood on the grass.
+say Why dont you clean up a bit and come back.
+camouflage
+break
+else
+if class $n druid
+say The Blessings of Truth are upon you. You may pass.
+Camouflage
+else
+mob stop $n
+say Heathen! You may not pass!.
+Pmote pushes $n to the ground.
+Camoflage
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

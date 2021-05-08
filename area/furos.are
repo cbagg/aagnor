@@ -1,0 +1,570 @@
+#AREADATA
+Name Berserker Guild~
+Pref ~
+Builders Furos~
+VNUMs 31969 31999
+Max_Bastions 0
+Credits { All }~
+Security 1
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 0 0 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#31969
+`3Approaching the arena``~
+Ahead you can see numerous creatures of all races, shapes, and sizes
+duking it own in the arena.  It is beautiful in it's own way, a large scale
+brawl such as this.  As you near the open gate to the arena you see a sign. 
+~
+~
+0 0 0 4
+E
+sign~
+ By entering the arena you are accepting responsibility for the
+unfortunate chance that you might lose life or limb within these walls.  
+~
+D0
+~
+~
+0 0 31970
+D1
+~
+~
+0 0 31996
+S
+#31970
+`3Overlooking the Arena``~
+As you look down into the arena, there is a mass amount of confusion,
+creatures of all shapes and sizes brawl, smashing chairs, wooden weapons,
+and anything else they can get their hands on against each other's heads. 
+It is quite comical from this vanta As you look down into the arena, there
+is a mass amount of confusion, creatures of all shapes and sizes brawl,
+smashing chairs, wooden weapons, and anything else they can get their hands
+on against each other's heads.  It is quite comical from this vantage, but
+you know they are all dead serious.  
+~
+~
+0 0 0 4
+D0
+~
+~
+0 0 31971
+D2
+~
+~
+0 0 31969
+S
+#31971
+`3Amidst the Chaos``~
+Amidst the chaotic environment, you cannot make out anything.  Everything
+is a blur.  The berserkers of larger races are tossing the smaller creatures
+past you.  As you duck and dodge your way through the arena, you notice the
+sounds of metalworking to the east and west.  To the north you see a
+cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31974
+D1
+~
+~
+0 0 31972
+D2
+~
+~
+0 0 31970
+D3
+~
+~
+0 0 31976
+S
+#31972
+`3Amidst the Chaos``~
+ Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31973
+D1
+~
+~
+0 0 31990
+D3
+~
+~
+0 0 31971
+S
+#31973
+`3Amidst the Chaos``~
+ Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31994
+D2
+~
+~
+0 0 31972
+D3
+~
+~
+0 0 31974
+S
+#31974
+`3Amidst the Chaos``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31977
+D1
+~
+~
+0 0 31973
+D2
+~
+~
+0 0 31971
+D3
+~
+~
+0 0 31975
+D5
+~
+~
+BM 0 31999
+S
+#31975
+`3Amidst the Chaos``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31995
+D1
+~
+~
+0 0 31974
+D2
+~
+~
+0 0 31976
+D3
+~
+~
+0 0 31992
+S
+#31976
+`3Amidst the Chaos``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31975
+D1
+~
+~
+0 0 31971
+S
+#31977
+`3Amidst the Chaos``~
+ Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31978
+D1
+~
+~
+0 0 31994
+D2
+~
+~
+0 0 31974
+D3
+~
+~
+0 0 31995
+S
+#31978
+`3A worn path``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31982
+D1
+~
+~
+0 0 31979
+D2
+~
+~
+0 0 31977
+S
+#31979
+`8The Hall of Apocalypse``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31980
+D3
+~
+~
+0 0 31978
+S
+#31980
+`8The Hall of Apocalypse``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31981
+D3
+~
+~
+0 0 31979
+S
+#31981
+`8The Shrine of Devastation``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31980
+S
+#31982
+`3A worn path``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31983
+D2
+~
+~
+0 0 31978
+D3
+~
+~
+0 0 31985
+S
+#31983
+`8The Hall of Rage``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31984
+D2
+~
+~
+0 0 31982
+S
+#31984
+`8The Hall of Rage``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31989
+D2
+~
+~
+0 0 31983
+S
+#31985
+`8The Hall of Sirens``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31982
+D3
+~
+~
+0 0 31986
+S
+#31986
+`8The Hall of Sirens``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31987
+D1
+~
+~
+0 0 31985
+S
+#31987
+`8The Shrine of Fury``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31986
+S
+#31989
+`8The Shrine of Anger``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31984
+S
+#31990
+`3Nearing the Armory``~
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31991
+D3
+~
+~
+0 0 31972
+S
+#31991
+`8The Armory``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31990
+S
+#31992
+`3Nearing the Weaponsmith``~
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31975
+D2
+~
+~
+0 0 31993
+S
+#31993
+`8Mass Destruction``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31992
+S
+#31994
+`3Amidst the Chaos``~
+ Amidst the chaotic environment, you cannot make out anything. 
+Everything is a blur.  The berserkers of larger races are tossing the
+smaller creatures past you.  As you duck and dodge your way through the
+arena, you notice the sounds of metalworking to the east and west.  To the
+north you see a cavernous opening in the side of the mountain.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 31973
+D3
+~
+~
+0 0 31977
+S
+#31995
+`3Amidst the Chaos``~
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31977
+D2
+~
+~
+0 0 31975
+S
+#31996
+`8A bend in the corridor``~
+You hear the echoes of roars and steel clashing.  It sounds as if a
+full-scale battle is being fought at the end of this corridor, but you
+cannot yet see as the hall veers of to the west a bit ahead.  A lesser man
+would turn around right now and never return.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31997
+D3
+~
+~
+0 0 31969
+S
+#31997
+`8Sounds of havoc``~
+You hear the echoes of roars and steel clashing.  It sounds as if a
+full-scale battle is being fought at the end of this corridor, but you
+cannot yet see as the hall veers of to the west a bit ahead.  A lesser man
+would turn around right now and never return.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31996
+D2
+~
+~
+0 0 31998
+S
+#31998
+`8A large steel door adorned with spikes``~
+You stand before a forboding door covered in bloody spikes.  The two
+guards before it are wearing little and look as if in enraged by some primal
+force.  They are worn with battlewounds years old, likely fighting each
+other.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31997
+S
+#31999
+`8The Pit``~
+~
+~
+0 0 0 0
+D4
+~
+~
+BM 0 31974
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

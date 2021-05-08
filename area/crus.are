@@ -1,0 +1,686 @@
+#AREADATA
+Name crusader guild~
+Pref ~
+Builders Raki~
+VNUMs 24000 24020
+Max_Bastions 0
+Credits (Guild) Raki     Crusader Guild~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#24000
+quartermaster~
+the quartermaster~
+A short man is here tending the Crusaders supplies
+~
+The quartermaster is no cute man.  He is missing an arm and his right eye
+is scarred shut.  Missing half his hair his head shines like a brand new
+shield.  Even though he is almost crippled he carries out his assigned
+duties with as much passion as ever.
+~
+human~
+ABe A 0 0 750 0
+60 0 100d100+10000 0d0+0 10d5+25 divine
+-40 -40 -40 -30
+0 A 0 0
+stand stand male none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#24001
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P GRALL 24001 100~
+P SPEECH 24000 yes~
+#24002
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 24002 yes~
+P GRALL 24003 100~
+#24003
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P GRALL 24004 100~
+P SPEECH 24005 yes~
+#24004
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P GRALL 24006 100~
+P SPEECH 24007 yes~
+#24005
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 24009 yes~
+P GRALL 24008 100~
+#24006
+praying crusader~
+a praying crusader~
+A man is here praying fervently.
+~
+~
+human~
+ABe A 0 0 750 0
+30 30 3d100+600 0d0+0 10d5+10 wrath
+-9 -9 -9 -4
+EFK A 0 0
+stand stand male none~
+100
+AHMV ABCDEFGHIJK medium 0
+P GRALL 24010 100~
+P SPEECH 24011 yes~
+#24007
+priest guildmaster crusader ~
+the crusader guildmaster~
+A tall elven priest is here preaching about the six virtues.
+~
+This is a plainly dressed elfish female priest.  Long silver hair crowns
+her head and blue eyes shimmer in her holy radiance.  Though she may be
+dressed like a simpleton, she is master of the guild for a reason.
+~
+elf~
+ABGJKLTbe A JP 0 750 0
+60 50 1d1+10000 0d0+0 10d10+30 divine
+-40 -40 -40 -40
+0 AB B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#24000
+standard crusader order emblem~
+the standard of the order~
+A beautiful banner with the emblem of the crusaders.~
+light~
+light A A
+0 0 999 0 0
+10 5 2000 P
+L
+18
+F
+S 545 1 0
+F
+A 19 2 0
+F
+A 18 2 0
+#24001
+crusader guildring~
+a crusader guildring~
+A bronze ring with the sigil of the order.~
+bronze~
+jewelry Y AB
+0 0 0 0 0
+20 2 5000 P
+L
+18
+F
+A 17 -10 0
+F
+S 439 3 0
+#24002
+holy gauntlets~
+a pair of holy gauntlets~
+A pair of gauntlets gleems with holy light.~
+steel~
+armor B AH
+6 6 6 6 0
+15 15 4000 P
+L
+18
+F
+A 24 -3 0
+F
+S 109 1 0
+F
+S 96 1 0
+#24003
+consecrated pike~
+a consecrated pike~
+A long polearm that has been consecrated for combat.~
+holy~
+weapon ABYe AN
+polearm 3 13 divine F
+50 30 500000 P
+L
+18
+F
+A 19 3 0
+F
+A 18 3 0
+#24004
+holy potion purge~
+a potion of holy purge~
+A potion overflowing with holy power.~
+potion~
+potion 0 AO
+50 'purge unlife' 'esuna' 'heal' 'bless'
+40 2 250000 P
+L
+18
+#24005
+healing helmet~
+a glowing helmet~
+A helmet is here glowing to itself.~
+holy~
+armor A AE
+3 3 3 3 0
+30 10 100000 P
+L
+18
+P FIGHT 24005 10~
+#24006
+holy altar~
+a holy altar~
+A holy altar is here.~
+unknown~
+container 0 0
+2 AC 0 1 0
+0 0 0 P
+#24007
+vial blood~
+the blood of the first vampire~
+A vial of blood is here and should not be disturbed.~
+blood~
+potion P AO
+0 '' '' '' ''
+30 1 0 P
+#0
+
+
+
+#ROOMS
+#24000
+`3The path to the church``~
+The path to the old church is one overgrown with weeds.  Even the weeds
+are so thick they choke themselves into a nasty brown tangle brush.  As you
+pass by you get your boot caught on something and it almost comes off.
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 24001
+D3
+~
+~
+0 0 32578
+S
+#24001
+`3The Church Doors``~
+You stand in front of a large old church.  The structure is made entirely
+from wood and is in a sad state of repair.  Some of the side panels are
+coming off and the door doesn't close all the way.  There is a young man
+sitting on the steps leading up to it.
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 24002
+D3
+~
+~
+0 0 24000
+S
+#24002
+`8The church foyer``~
+Inside the church is a great foyer.  As you look around you realize that
+the inside of the building is in much better shape than the outside.  Still
+there are no decorations or ornamental pieces, except the alter a few paces
+to the north.
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 24005
+D1
+~
+~
+0 0 24003
+D2
+~
+~
+0 0 24001
+D3
+~
+~
+0 0 24004
+S
+#24003
+`8The Chapel of Modesty``~
+The chapel of modesty is exactly what it claims to be.  There are no
+decorations, no carpets and even for floor has been torn up exposing the
+dried ground underneath.  There is a lone priest here dressed in the
+simplest of robes.
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 24002
+S
+#24004
+`8The Chapel of Kindness``~
+The chapel of kindness is the warmest place in the church.  Even the
+chill of the dead of winter would not touch this room.  This is supposed to
+represent the warming of the heart.
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 24002
+S
+#24005
+`8The Isle to the Altar``~
+As you walk through the church and all the old seating in it, the
+floorboards begin to creek under your footsteps.  Perhaps the building is
+not as stable as you once thought.
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 24008
+D1
+~
+~
+0 0 24006
+D2
+~
+~
+0 0 24002
+D3
+~
+~
+0 0 24007
+S
+#24006
+`8The Chapel of Honor``~
+The chapel of honor is filled with paintings of people, there are so many
+that they don't all fit on the walls.  Supposedly these paintings are the
+members of the order who, until their last breath, fought the darkness with
+enough fervor to be remembered here.
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 24005
+S
+#24007
+`8The Chapel of Sacrifice``~
+The chapel of sacrifice is one of the simple ones.  The walls are lined
+with bookshelves and tomes all dedicated to the heroic acts of self
+sacrifice that sometimes even lead to the demise of a member of the order.
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 24005
+S
+#24008
+`8The Church Altar``~
+This simple room is elevated slightly above the rest of the church and at
+the height of that elevation there is a simple wooden table.  The wooden
+wall in the back of the church has a few pieces missing and looks as if it
+could give way at any moment.
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 24009
+D2
+~
+~
+0 0 24005
+D3
+~
+~
+0 0 24010
+S
+#24009
+`8The Altar of Vengance``~
+This altar is seemingly out of place as the principal of vengeance seems
+to go against everything the order stands for.  It is really nothing more
+than a glass case with a red vial in it.  Supposedly this is the last
+remaining blood of the vampire Paelthius and is kept here for eternity.
+~
+~
+0 0 0 0
+E
+altar~
+As a crusader you are expected to be the shining light of the world and
+at the same time the darkest thought in a shadowhearts dreams.  You are
+expected to know when to avenge the fallen, for a crusader without right
+judgment is no better than anyone else with a weapon.
+~
+D0
+~
+~
+0 0 24011
+D1
+~
+~
+0 0 24013
+D3
+~
+~
+0 0 24008
+S
+#24010
+`8The Altar of Forgiveness``~
+The altar of forgiveness embodies one of the two actions a crusader is
+required to take.  The ability to decide the fate of another is in the hands
+of any who hold a weapon but members of the order are bound by the
+principals of forgiveness to do no harm unless it is deserved.
+~
+~
+0 0 0 0
+E
+altar~
+As a crusader you are expected to be the shining light of the world and
+at the same time the darkest thought in a shadowhearts dreams.  You are
+expected to know when forgive one's misdeeds, for a crusader without right
+judgment is no better than anyone else with a weapon.
+~
+D0
+~
+~
+0 0 24012
+D1
+~
+~
+0 0 24008
+D3
+~
+~
+0 0 24014
+S
+#24011
+`8The Quartermaster``~
+The quartermaster's room is the most cramped place in the church,
+weapons, armors, all kings of stuff is here waiting to be checked out.  Some
+of the pieces of equipment look pretty badly damaged and the forge here is
+fired up ready to go.
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 24009
+S
+#24012
+`8The Guildmasters Chapel``~
+The guild master's chapel is more of an office than a chapel.  There is a
+large desk with lots of papers, scrolls and notes on it.  A simple chair is
+pushed under the desk and there is a small time worn statue sitting on a
+table in the corner.
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 24010
+S
+#24013
+`8The Chapel of Integrity``~
+The chapel of integrity is another simple room in the church.  There is
+but a single chair in the room and no altar to speak of.  The walls are some
+of the best kept in the church though and are nice and shiny smooth wood.
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 24009
+S
+#24014
+`8The Chapel of Loyalty``~
+This is the first time you have seen more than one person in a room.
+Here groups of comrades have gathered to pray around the altar of Loyalty.
+There is a small sign on the wall that reads: Loyalty to your god, to the
+order, and to your family and friends.
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 24010
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 24005 1 24003 1
+M 0 24006 1 24004 1
+M 0 24003 1 24006 1
+M 0 24004 1 24007 1
+O 0 24006 0 24009
+P 0 24007 1 24006 1
+O 0 24006 0 24010
+M 0 24000 1 24011 1
+G 0 24005 0
+G 0 24004 0
+G 0 24003 0
+G 0 24002 0
+G 0 24001 0
+G 0 24000 0
+M 0 24007 1 24012 1
+M 0 24001 1 24013 1
+M 0 24002 1 24014 1
+S
+
+
+
+#SHOPS
+24000 5 9 39 11 33 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#24000
+say Integrity is the most important virtue to a crusader.
+Say Integrity is your trustworthiness. It is a sad day,
+Say When one of our Order cannot keep his word,
+Say speaks falsely of another or betrays the confidence
+Say that others have placed in them. Do your best to
+Say follow the ways of integrity and bring light to the
+say darkness.'
+~
+#24001
+say Welcome to the chapel of Integrity, $n.
+say Have you come seeking answers about the principals of
+say integrity?
+pmote looks at $n waiting for a response.
+~
+#24002
+Say Loyalty is the most important virtue to a crusader.
+Say Your friends have made you what you are today and if
+Say you are to be here tomorrow you will need them then
+Say too. Your friends are who you are. Do your best to
+say follow the ways of loyalty and bring light to the
+say darkness.
+~
+#24003
+say Welcome to the chapel of loyalty, $n.
+say Have you come seeking answers about the principals of
+say integrity?
+pmote looks at $n waiting for a response.
+~
+#24004
+say Welcome to the chapel of Honor, $n.
+say Have you come seeking answers about the principals of
+say Honor?
+pmote looks at $n waiting for a response.
+~
+#24005
+Say Honor is the most important virtue to a crusader. Your
+say reputation, how you are received and the way people
+say treat you in combat all are reflections of your honor.
+Say To defeat the evils you must defeat what they stand
+Say for and your honor will do this. Do your best to
+Say follow the ways of honor and bring light to the
+Say darkness.
+~
+#24006
+say Welcome to the chapel of Sacrifice, $n.
+say Have you come seeking answers about the principals of
+say self sacrifice?
+pmote looks at $n waiting for a response.
+~
+#24007
+Say Self sacrifice is the most important virtue to a
+Say crusader. Crusaders must be the people that the masses
+say come to for aid. The best way to do so is to lead by
+Say example. Never shall a request be turned down as long
+say as your body is able to grant it. Do your best to
+say follow the ways of self sacrifice and bring light to
+say the darkness.
+~
+#24008
+say Welcome to the chapel of Modesty, $n.
+say Have you come seeking answers about the principals of
+say Modesty?
+pmote looks at $n waiting for a response.
+~
+#24009
+Say Modesty is the most important virtue to crusader. You
+Say must keep your life simple and focus on what is
+say important. By shedding of worldly temptations you can
+say spend your time helping others and avenging the
+say fallen. Do your best to follow the ways of modesty and
+say bring light to the darkness.
+~
+#24010
+say Welcome to the chapel of Kindness, $n.
+say Have you come seeking answers about the principals of
+say kindness?
+pmote looks at $n waiting for a response.
+~
+#24011
+Say Kindness is the most important virtue to a crusader.
+Say You must be kind to others and show understanding when
+say others cannot be. The shining beckon that is this
+say order depends on the actions of those after us and we
+say have to show them the way else all fall to the shadow.
+say Do your best to follow the ways of modesty and bring
+say light to the darkness.
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#24005
+OBJ echo The light around a glowing helmet flairs briefly.
+OBJ cast "cure serious"
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

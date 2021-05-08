@@ -1,0 +1,2273 @@
+#AREADATA
+Name Belasrads area~
+Pref ~
+Builders Belasrad~
+VNUMs 32400 32499
+Max_Bastions 0
+Credits ( All ) Belasrad The open sea~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#32400
+human child~
+a human child~
+A human child is here building a sand castle.
+~
+~
+human~
+Ae A 0 0 0 0
+5 42 2d10+3 0d0+0 3d3+3 none
+7 7 7 8
+0 0 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK small 0
+#32401
+gnome child~
+a gnome child~
+A gnome child is here smashing sandcastles and pretending to be a giant.
+~
+~
+gnome~
+Ae A J 0 0 0
+5 24 3d3+3 0d0+0 3d3+3 none
+7 7 7 8
+0 0 0 BP
+stand stand male none~
+0
+AHMV ABCDEFGHIJK small 0
+#32402
+Crab~
+a small crab~
+A small crab scuttles along sideways.
+~
+~
+unique~
+A A 0 0 0 0
+15 125 5d5+50 0d0+0 5d5+10 claw
+0 0 0 5
+0 0 0 O
+stand stand none none~
+0
+0 0 small 0
+#32403
+Roderan~
+Roderan~
+A short burly dwarf is leaning on the bar.
+~
+~
+dwarf~
+ABe A J 0 0 0
+60 60 100d100+1000 0d0+0 10d5+25 punch
+-27 -27 -27 -9
+0 0 CL R
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32404
+olenep~
+Olenep~
+A lusty barkeep with curves in all the wrong places is here
+~
+~
+dwarf~
+ABe A J 0 0 0
+60 60 100d100+1000 0d0+0 10d5+25 punch
+0 0 0 0
+0 0 CL R
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32405
+a scurvy rat~
+a scurvy rat~
+A sickly rat is here gnawing on a bone
+~
+~
+unique~
+A A 0 0 -350 0
+20 25 100d4+0 0d0+0 2d3+19 bite
+-5 -5 -5 2
+0 0 0 0
+stand stand none none~
+0
+0 0 medium 0
+#32406
+Nahtanoj Zciwofezoj dwarf~
+Nahtanoj Zciwofezoj~
+A Burley dwarf is here picking through the wreckage 
+~
+~
+dwarf~
+ABe A J 0 350 0
+35 45 199d10+10 0d0+0 3d4+48 punch
+-12 -12 -12 -1
+0 0 CL R
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#32400
+seaweed~
+some seaweed~
+Some long thin seaweed is here floating just below the surface.~
+plant~
+herb N A
+0 'reserved' 'reserved' 'slow' 'detect invis'
+10 1 0 P
+#32401
+message in a bottle~
+a message in a bottle.~
+A note that has been stuffed into a bottle has washed ashore here.~
+unknown~
+scroll 0 0
+0 '' '' '' ''
+0 0 0 P
+E
+note~
+To whomever finds this note, this is the last of the first Royal Dwarven
+Flotilla.  On our maiden voyage upon the goodship Driftwood we ran aground
+on the shores of an island not on our charts.  A few of us have survived and
+are attempting to create a life for ourselves.  Morale remains high even as
+hope of rescue dwindles.  We await eagerly the day when rescue comes and we
+can set sail again and put this place firmly in our wake.  
+~
+E
+note~
+To whomever finds this note, this is the last of the first Royal Dwarven
+Flotilla.  On our maiden voyage upon the goodship Driftwood we ran aground
+on the shores of an island not on our charts.  
+asave changed
+ 
+~
+#32402
+Driftwood~
+some driftwood~
+A smooth piece of wood floats here drifting in the open water.~
+wood~
+trash 0 A
+0 0 0 0 0
+1 5 0 P
+#32403
+Tide Pool~
+a tide pool~
+A small tide pool is here brimming with life.~
+stone~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#32404
+bamboo jug~
+a bamboo jug~
+A water jug made of hollow bamboo is gathering condensation.~
+bamboo~
+drink N A
+200 200 'water' 0 0
+10 3 300 P
+#32405
+cloth knapsack~
+a cloth knapsack~
+A light-green knapsack made of thick sturdy cloth is here~
+cloth~
+container 0 A
+200 A 0 200 50
+10 1 150 P
+#32406
+tiki torch~
+a tiki torch~
+A tall bamboo torch perfect for tropical themed parties is here~
+bamboo~
+light 0 A
+0 0 999 0 0
+10 5 107 P
+#32407
+coconut~
+a large coconut~
+(no description)~
+glass~
+drink 0 A
+36 36 'milk' 0 0
+15 5 10 P
+#32408
+survival hatchet~
+(no short description)~
+(no description)~
+iron~
+weapon 0 0
+axe 4 5 chop 0
+6 5 498 P
+#32409
+Pint of rum~
+a pint of rum~
+A pint of chilled rum~
+glass~
+drink 0 A
+10 10 'rum' 0 0
+21 3 300 P
+#32410
+Jug of Rum~
+a large jug of rum~
+A large jug of rum ideal for long hikes, babysitting, or a hard day at work is here~
+glass~
+drink 0 A
+20 20 'rum' 0 0
+21 5 550 P
+#32411
+coconut rum~
+a glass of coconut rum~
+A glass of coconut rum is here~
+glass~
+drink 0 A
+10 10 'rum' 0 0
+21 3 350 P
+#32412
+Dwarven Elixer~
+a dwarven elixer~
+A glass of the legendary Dwarven Elixer is here~
+glass~
+drink 0 A
+60 60 'everclear' 0 0
+42 2 1000 P
+#32413
+Roast Fish~
+a roast fish~
+A mouth watering roasted fish with yellow and blue stripes is here~
+fish~
+food 0 A
+48 36 0 0 48
+1 5 462 P
+#32414
+a bar~
+the bar~
+A long sturdy bar made of bamboo has been set up here~
+bamboo~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#32415
+Faceplate of the Dwarven Guard~
+the Faceplate of the Dwarven Guard~
+An ornate steel faceplate glows softly.~
+steel~
+armor AK ASd
+8 12 12 7 0
+30 7 10 P
+F
+A 18 2 0
+F
+A 13 30 0
+#32416
+Dwarven Fullplate~
+a set of Dwarven Fullplate~
+A set of ornately carved dwarven fullplate lies here~
+steel~
+armor AKe ADS
+13 13 13 13 0
+30 10 7 P
+R
+4
+F
+A 13 10 0
+F
+A 19 3 0
+#32417
+Dwarven Armguards~
+a pair of Dwarven Armguards~
+A pair of Dwarven Armguards carved with a simple design lies here~
+steel~
+armor AK AMS
+11 13 13 12 0
+30 5 8 P
+R
+4
+F
+A 13 20 0
+F
+A 17 -15 0
+#32418
+Dwarven Battleaxe of Limb Removal~
+the Dwarven Battleaxe of Limb Removal~
+A wickedly curved battleaxe lies here~
+unknown~
+weapon ABK ANS
+axe 9 4 chop K
+30 35 5 P
+R
+4
+F
+A 18 3 0
+F
+A 19 3 0
+#32419
+sword katana kotetsu~
+kotetsu~
+A katana named kotetsu lies here~
+unknown~
+weapon Ye ANS
+sword 5 15 slice D
+60 3 1 P
+R
+19
+L
+6
+#0
+
+
+
+#ROOMS
+#32400
+`#Sandy Shoreline``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32406
+D1
+~
+~
+0 0 32401
+S
+#32401
+`#Sandy Shoreline``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32407
+D1
+~
+~
+0 0 32402
+D3
+~
+~
+0 0 32400
+S
+#32402
+`#Southern Docks``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32408
+D1
+~
+~
+0 0 32403
+D3
+~
+~
+0 0 32401
+S
+#32403
+`#Sandy Shoreline``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32409
+D1
+~
+~
+0 0 32404
+D3
+~
+~
+0 0 32402
+S
+#32404
+`#Sandy Shoreline``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32410
+D3
+~
+~
+0 0 32403
+S
+#32405
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32413
+D1
+~
+~
+0 0 32406
+S
+#32406
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32414
+D1
+~
+~
+0 0 32407
+D2
+~
+~
+0 0 32400
+D3
+~
+~
+0 0 32405
+S
+#32407
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32415
+D1
+~
+~
+0 0 32408
+D2
+~
+~
+0 0 32401
+D3
+~
+~
+0 0 32406
+S
+#32408
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32416
+D1
+~
+~
+0 0 32409
+D2
+~
+~
+0 0 32402
+D3
+~
+~
+0 0 32407
+S
+#32409
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32417
+D1
+~
+~
+0 0 32410
+D2
+~
+~
+0 0 32403
+D3
+~
+~
+0 0 32408
+S
+#32410
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32418
+D1
+~
+~
+0 0 32411
+D2
+~
+~
+0 0 32404
+D3
+~
+~
+0 0 32409
+S
+#32411
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32419
+D3
+~
+~
+0 0 32410
+S
+#32412
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32421
+D1
+~
+~
+0 0 32413
+S
+#32413
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32422
+D1
+~
+~
+0 0 32414
+D2
+~
+~
+0 0 32405
+D3
+~
+~
+0 0 32412
+S
+#32414
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32423
+D1
+~
+~
+0 0 32415
+D2
+~
+~
+0 0 32406
+D3
+~
+~
+0 0 32413
+S
+#32415
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32424
+D1
+~
+~
+0 0 32416
+D2
+~
+~
+0 0 32407
+D3
+~
+~
+0 0 32414
+S
+#32416
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32425
+D1
+~
+~
+0 0 32417
+D2
+~
+~
+0 0 32408
+D3
+~
+~
+0 0 32415
+S
+#32417
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32426
+D1
+~
+~
+0 0 32418
+D2
+~
+~
+0 0 32409
+D3
+~
+~
+0 0 32416
+S
+#32418
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32427
+D1
+~
+~
+0 0 32419
+D2
+~
+~
+0 0 32410
+D3
+~
+~
+0 0 32417
+S
+#32419
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32428
+D1
+~
+~
+0 0 32420
+D2
+~
+~
+0 0 32411
+D3
+~
+~
+0 0 32418
+S
+#32420
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32429
+D3
+~
+~
+0 0 32419
+S
+#32421
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32430
+D1
+~
+~
+0 0 32422
+D2
+~
+~
+0 0 32412
+S
+#32422
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32423
+D2
+~
+~
+0 0 32413
+D3
+~
+~
+0 0 32421
+S
+#32423
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32432
+D1
+~
+~
+0 0 32424
+D2
+~
+~
+0 0 32414
+D3
+~
+~
+0 0 32422
+S
+#32424
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32433
+D1
+~
+~
+0 0 32425
+D2
+~
+~
+0 0 32415
+D3
+~
+~
+0 0 32423
+S
+#32425
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32434
+D1
+~
+~
+0 0 32426
+D2
+~
+~
+0 0 32416
+D3
+~
+~
+0 0 32424
+S
+#32426
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32435
+D1
+~
+~
+0 0 32427
+D2
+~
+~
+0 0 32417
+D3
+~
+~
+0 0 32425
+S
+#32427
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32436
+D1
+~
+~
+0 0 32428
+D2
+~
+~
+0 0 32418
+D3
+~
+~
+0 0 32426
+S
+#32428
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32437
+D1
+~
+~
+0 0 32429
+D2
+~
+~
+0 0 32419
+D3
+~
+~
+0 0 32427
+S
+#32429
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32438
+D2
+~
+~
+0 0 32420
+D3
+~
+~
+0 0 32428
+S
+#32430
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 32431
+D2
+~
+~
+0 0 32421
+S
+#32431
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32439
+D1
+~
+~
+0 0 32432
+D2
+~
+~
+0 0 32422
+D3
+~
+~
+0 0 32430
+S
+#32432
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32440
+D1
+~
+~
+0 0 32433
+D2
+~
+~
+0 0 32423
+D3
+~
+~
+0 0 32431
+S
+#32433
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32441
+D1
+~
+~
+0 0 32434
+D2
+~
+~
+0 0 32424
+D3
+~
+~
+0 0 32432
+S
+#32434
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32442
+D1
+~
+~
+0 0 32435
+D2
+~
+~
+0 0 32425
+D3
+~
+~
+0 0 32433
+S
+#32435
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32443
+D1
+~
+~
+0 0 32436
+D2
+~
+~
+0 0 32426
+D3
+~
+~
+0 0 32434
+S
+#32436
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32444
+D1
+~
+~
+0 0 32437
+D2
+~
+~
+0 0 32427
+D3
+~
+~
+0 0 32435
+S
+#32437
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32445
+D1
+~
+~
+0 0 32438
+D2
+~
+~
+0 0 32428
+D3
+~
+~
+0 0 32436
+S
+#32438
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 32429
+D3
+~
+~
+0 0 32437
+S
+#32439
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 32440
+D2
+~
+~
+0 0 32431
+S
+#32440
+`^Western Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32446
+D1
+~
+~
+0 0 32441
+D2
+~
+~
+0 0 32432
+D3
+~
+~
+0 0 32439
+S
+#32441
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32447
+D1
+~
+~
+0 0 32442
+D2
+~
+~
+0 0 32433
+D3
+~
+~
+0 0 32440
+S
+#32442
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32448
+D1
+~
+~
+0 0 32443
+D2
+~
+~
+0 0 32434
+D3
+~
+~
+0 0 32441
+S
+#32443
+`^Rasil Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32449
+D1
+~
+~
+0 0 32444
+D2
+~
+~
+0 0 32435
+D3
+~
+~
+0 0 32442
+S
+#32444
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32450
+D1
+~
+~
+0 0 32445
+D2
+~
+~
+0 0 32436
+D3
+~
+~
+0 0 32443
+S
+#32445
+`^Eastern Rasil sea``~
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 32437
+D3
+~
+~
+0 0 32444
+S
+#32446
+`#North Shores``~
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 32447
+D2
+~
+~
+0 0 32440
+S
+#32447
+`#North Shores``~
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 32448
+D2
+~
+~
+0 0 32441
+D3
+~
+~
+0 0 32446
+S
+#32448
+`#Northern Docks``~
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 32449
+D2
+~
+~
+0 0 32442
+D3
+~
+~
+0 0 32447
+S
+#32449
+`#North Shores``~
+~
+~
+0 0 0 10
+D1
+~
+~
+0 0 32450
+D2
+~
+~
+0 0 32443
+D3
+~
+~
+0 0 32448
+S
+#32450
+`#North Shores``~
+~
+~
+0 0 0 10
+D2
+~
+~
+0 0 32444
+D3
+~
+~
+0 0 32449
+S
+#32451
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32452
+D1
+~
+~
+0 0 32451
+D2
+~
+~
+0 0 32422
+D3
+~
+~
+0 0 32451
+S
+#32452
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32453
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32451
+S
+#32453
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32454
+D1
+~
+~
+0 0 32451
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32452
+S
+#32454
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32451
+D2
+~
+~
+0 0 32453
+D3
+~
+~
+0 0 32455
+S
+#32455
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32454
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32456
+S
+#32456
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32455
+D2
+~
+~
+0 0 32457
+D3
+~
+~
+0 0 32451
+S
+#32457
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32456
+D1
+~
+~
+0 0 32451
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32458
+S
+#32458
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32451
+D1
+~
+~
+0 0 32457
+D2
+~
+~
+0 0 32459
+D3
+~
+~
+0 0 32451
+S
+#32459
+`^Lost At Sea``~
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32458
+D1
+~
+~
+0 0 32451
+D2
+~
+~
+0 0 32451
+D3
+~
+~
+0 0 32460
+S
+#32460
+`^An island cove``~
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 32459
+D3
+~
+~
+0 0 32461
+S
+#32461
+`#a sandy beach``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32469
+D1
+~
+~
+0 0 32460
+D2
+~
+~
+0 0 32462
+D3
+~
+~
+0 0 32467
+S
+#32462
+`#a sandy beach``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32461
+D2
+~
+~
+0 0 32463
+D3
+~
+~
+0 0 32466
+S
+#32463
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32462
+D1
+~
+~
+0 0 32464
+D2
+~
+~
+0 0 32488
+D3
+~
+~
+0 0 32465
+S
+#32464
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32492
+D2
+~
+~
+0 0 32489
+D3
+~
+~
+0 0 32463
+S
+#32465
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32466
+D1
+~
+~
+0 0 32463
+D2
+~
+~
+0 0 32487
+S
+#32466
+`8Dwarven Emergency Shelter``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32467
+D1
+~
+~
+0 0 32462
+D2
+~
+~
+0 0 32465
+D3
+~
+~
+0 0 32482
+S
+#32467
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32468
+D1
+~
+~
+0 0 32461
+D2
+~
+~
+0 0 32466
+D3
+~
+~
+0 0 32481
+S
+#32468
+`8Tropical Supply Shop``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32470
+D1
+~
+~
+0 0 32469
+D2
+~
+~
+0 0 32467
+D3
+~
+~
+0 0 32480
+S
+#32469
+`#a sandy beach``~
+~
+~
+0 0 0 10
+D0
+~
+~
+0 0 32470
+D2
+~
+~
+0 0 32461
+D3
+~
+~
+0 0 32468
+S
+#32470
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32478
+D1
+~
+~
+0 0 32471
+D2
+~
+~
+0 0 32469
+D3
+~
+~
+0 0 32479
+S
+#32471
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32477
+D1
+~
+~
+0 0 32472
+D3
+~
+~
+0 0 32470
+S
+#32472
+`#A Wrecked Ship``~
+~
+~
+0 4 0 10
+D0
+~
+~
+0 0 32476
+D3
+~
+~
+0 0 32471
+D5
+~
+~
+0 0 32493
+S
+#32473
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32475
+D2
+~
+~
+0 0 32474
+D3
+~
+~
+0 0 32472
+S
+#32474
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32473
+S
+#32475
+~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32473
+D3
+~
+~
+0 0 32476
+S
+#32476
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32475
+D2
+~
+~
+0 0 32472
+D3
+~
+~
+0 0 32477
+S
+#32477
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32476
+D2
+~
+~
+0 0 32471
+D3
+~
+~
+0 0 32478
+S
+#32478
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32477
+D2
+~
+~
+0 0 32470
+S
+#32479
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32470
+D2
+~
+~
+0 0 32480
+S
+#32480
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32479
+D1
+~
+~
+0 0 32468
+D2
+~
+~
+0 0 32481
+D3
+~
+~
+0 0 32486
+S
+#32481
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32480
+D1
+~
+~
+0 0 32467
+D2
+~
+~
+0 0 32482
+D3
+~
+~
+0 0 32485
+S
+#32482
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32481
+D1
+~
+~
+0 0 32466
+D2
+~
+~
+0 0 32483
+D3
+~
+~
+0 0 32484
+S
+#32483
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32482
+D1
+~
+~
+0 0 32465
+S
+#32484
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32485
+D1
+~
+~
+0 0 32482
+S
+#32485
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32486
+D1
+~
+~
+0 0 32481
+D2
+~
+~
+0 0 32484
+D5
+~
+~
+0 0 32496
+S
+#32486
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32480
+D2
+~
+~
+0 0 32485
+S
+#32487
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32465
+D1
+~
+~
+0 0 32488
+S
+#32488
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32463
+D1
+~
+~
+0 0 32489
+D3
+~
+~
+0 0 32487
+S
+#32489
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32464
+D1
+~
+~
+0 0 32490
+D3
+~
+~
+0 0 32488
+S
+#32490
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32491
+D3
+~
+~
+0 0 32489
+S
+#32491
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32492
+D2
+~
+~
+0 0 32490
+S
+#32492
+~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32491
+D3
+~
+~
+0 0 32464
+S
+#32493
+`8The cargo hold``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32494
+D4
+~
+~
+0 0 32472
+S
+#32494
+`8The cargo hold``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32493
+D2
+~
+~
+0 0 32495
+S
+#32495
+`8The cargo hold``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32494
+S
+#32496
+~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32497
+D4
+~
+~
+0 0 32485
+S
+#32497
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32496
+D5
+~
+~
+0 0 32498
+S
+#32498
+~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32499
+D4
+~
+~
+0 0 32497
+S
+#32499
+~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32498
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 32400 1 32400 1
+M 0 32402 1 32401 10
+O 0 32401 0 32404
+M 0 32402 2 32404 10
+O 0 32400 0 32405
+O 0 32402 0 32422
+O 0 32400 0 32426
+O 0 32400 0 32430
+O 0 32400 0 32437
+O 0 32400 0 32440
+M 0 32402 3 32446 10
+O 0 32403 0 32446
+M 0 32401 1 32449 1
+M 0 32404 1 32466 1
+G 0 32409 0
+G 0 32410 0
+G 0 32411 0
+G 0 32412 0
+G 0 32413 0
+O 0 32414 0 32466
+M 0 32403 1 32468 1
+G 0 32404 0
+G 0 32405 0
+G 0 32406 0
+G 0 32407 0
+M 0 32405 10 32493 5
+M 0 32405 10 32494 5
+M 0 32406 1 32495 1
+E 0 32415 0 7
+E 0 32416 0 5
+E 0 32417 0 16
+E 0 32417 0 15
+E 0 32418 0 17
+S
+
+
+
+#SHOPS
+32403 0 0 0 0 0 100 100 7 19
+32404 0 0 0 0 0 100 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

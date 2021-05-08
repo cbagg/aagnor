@@ -1,0 +1,2264 @@
+#AREADATA
+Name The Gauntlet of Hero's Bane~
+Pref ~
+Builders Raki~
+VNUMs 32300 32399
+Max_Bastions 0
+Credits ( 50+ ) Raki     Gauntlet of Hero's Bane~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#32300
+arena master~
+the arena master~
+The arena master is here looking for a brave volenteer.
+~
+~
+human~
+ALe A DF K 0 0
+60 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 32301 yes~
+P GRALL 32300 100~
+#32301
+troll warrior~
+an elite troll warrior~
+A huge troll is here drooling at the thought of combat.
+~
+~
+troll~
+ABFe A 0 0 -350 0
+48 45 90d10+400 0d0+0 12d3+20 punch
+-9 -9 -9 -5
+CEFKY A H J
+stand stand female none~
+0
+ABHMV ABCDEFGHIJK large 0
+#32302
+madman~
+a madman~
+A muscular man that seems to have no self controll.
+~
+~
+human~
+ABTe A a I 0 0
+50 45 90d10+400 0d0+0 12d3+20 punch
+-5 -5 -5 -1
+CFJKNX A 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32303
+a slith combatant~
+a slith combatant~
+A large slith warrior is here ready ro fight.
+~
+~
+slith~
+ABT A JV 0 0 0
+50 40 90d10+500 0d0+0 7d6+20 claw
+-9 -9 -9 -8
+CDF E G F
+stand stand male none~
+0
+0 ABCDEFGHIJKLQXc medium 0
+#32304
+champion hall first galika~
+Galika the Champion of the First Hall~
+Galika is here, stopping the weak from progressing.
+~
+~
+minotaur~
+ABFe A Va 0 0 0
+53 50 1d1+1350 0d0+0 8d7+25 charge
+-15 -15 -15 -20
+ACFHIJKNXY AB 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJKWY medium 0
+#32305
+arena master~
+the arena master~
+The arena master is here over seeing your progress
+~
+~
+human~
+AL A 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 32315 retire~
+P GIVE 32304 32397~
+P GIVE 32302 32398~
+P GIVE 32303 32304~
+P GIVE 32325 32396~
+P GIVE 32326 32395~
+#32306
+the Gauntlet Nurse~
+the Gauntlet Nurse~
+A sexy woman wearing a nurses uniform.
+~
+~
+human~
+ALa A 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32307
+lava monster~
+a lava monster~
+This beast is made of lava!
+~
+~
+fire~
+A A 0 0 0 0
+51 42 13d100+400 0d0+0 8d7+25 flame
+-15 -15 -15 -5
+CEJK ABH DH I
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+F vul P
+#32308
+a horned puppet~
+a horned puppet~
+A large mechanical beast is here looking for someone to gouge.
+~
+~
+horned beast~
+A A AVa 0 0 0
+52 45 30d50+500 0d0+0 8d7+25 acbite
+-15 -15 -15 -13
+0 ABKR 0 HI
+stand stand none none~
+0
+AGV ABCDEFHJKW medium 0
+#32309
+inforna champion second hall~
+Inforna, champion of the second hall~
+Inforna is here stopping the weak from continuing.
+~
+~
+elf~
+A A JP 0 350 0
+55 55 1d1+2500 0d0+0 8d8+30 flbite
+-20 -20 -20 -20
+FK AB B Z
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+P FIGHT 32309 80~
+#32310
+dwarf brawler~
+a dwarf brawler~
+A short stocky dwarf is here though he doesnt look entirly sober.
+~
+~
+dwarf~
+AT A J 0 0 0
+55 48 800d3+0 0d0+0 7d7+25 pound
+-20 -20 -20 5
+CEJN AB CL R
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32311
+illithid mindflayer~
+the illithid mindflayer~
+A grotesque humanoid is here flailing its tentacles.
+~
+~
+illithid~
+AFR A J 0 -350 0
+56 25 1000d2+500 100d100+100 3d2+8 shbite
+-15 -15 -1 -15
+0 AB JP S
+stand stand none none~
+0
+AHMV ABCDEFGHIJKN medium 0
+P FIGHT 32311 80~
+#32312
+jelly blob~
+a disgusting blob of jelly~
+A Disgusting looking blob is here jiggeling like jelly.
+~
+~
+unique~
+A A 0 0 0 0
+55 55 100d25+1000 0d0+0 8d8+30 slime
+-40 -40 -40 -40
+CDHX ABEFGXYZa 0 CHIJKLMNOPQRSTb
+stand stand none none~
+0
+0 0 medium 0
+#32313
+clockwork golem~
+the clockwork golem~
+A huge contraption with many blades attached to it.
+~
+~
+golem~
+A A 0 0 0 0
+55 60 1d1+2999 0d0+0 10d10+0 crush
+-20 -20 -20 -10
+0 AB 0 0
+stand stand none none~
+0
+HJc ABCHIJK medium 0
+#32314
+tevisa champion third hall~
+Tevisa, champion of the third hall~
+Tevisa the champion of the third hall is here making sure you dont advance.
+~
+~
+undead~
+AOQ A J 0 -750 0
+55 40 1d1+3999 100d100+100 5d5+40 pain
+-30 -30 -30 -50
+0 LQ I N
+stand stand female none~
+0
+0 ABCDEFGHIJK medium 0
+P FIGHT 32314 80~
+#32316
+arena master~
+the arena master~
+The arena master is here over seeing your progress.
+~
+~
+human~
+ABLe A 0 0 0 0
+50 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 32316 100~
+P SPEECH 32315 retire~
+P SPEECH 32317 rules~
+P SPEECH 32318 advance~
+#32317
+minor golem~
+a minor golem~
+A golem is here wandering aimlessly.
+~
+~
+golem~
+AFGTd A DFHV EK 0 0
+50 50 1d1+999 0d0+0 3d10+60 blight
+-21 -21 -21 -15
+CEFHJKUX ABHIJ 0 0
+stand stand none none~
+0
+HJc ABCHIJK medium 0
+#32331
+greater golem~
+the greater golem~
+A large golem is here damaged and malfunctioning.
+~
+~
+golem~
+AT A 0 0 0 0
+60 60 1d1+4999 0d0+0 8d8+30 punch
+-30 -30 -30 -30
+AEFHNX AB HI J
+stand stand none none~
+0
+HJc ABCHIJK medium 0
+#32333
+arena master~
+the Arena Master~
+The Master of the Arena is here with a smug look on his face.
+~
+~
+human~
+Ae A DF K 0 0
+60 70 100d100+5000 10d1000+1000 30d3+10 mattack
+-40 -40 -40 -40
+CDEFHIJKNY AB 0 CD
+stand stand male none~
+0
+AHMV ABCDEFGHIJK huge 0
+P GRALL 32324 100~
+P DELAY 32323 100~
+#32337
+golem maker master~
+the master golem maker~
+An old man is here tinkering with something.
+~
+~
+human~
+ABLe A 0 0 0 0
+50 50 1d1+1 0d0+0 30d3+1 blast
+-10 -10 -10 -10
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 32327 exotic~
+P SPEECH 32328 staff~
+P SPEECH 32329 axe~
+P SPEECH 32330 flail~
+P SPEECH 32331 polearm~
+P SPEECH 32332 whip~
+P SPEECH 32333 mace~
+P SPEECH 32334 spear~
+P SPEECH 32335 sword~
+P GRALL 32337 100~
+P SPEECH 32336 dagger~
+#32343
+cute fluffy rabbit~
+a cute fluffy rabbit~
+A cute fluffy rabbit is here wiggeling its nose.
+~
+~
+unique~
+ABLe A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none none~
+0
+0 0 medium 0
+#32398
+tavern master~
+the tavern master~
+A tall thin elf is here serving a few drinks.
+~
+~
+elf~
+ABLe A JP 0 0 0
+60 50 100d100+10000 0d0+0 6d10+40 none
+-40 -40 -40 -40
+0 AB B Z
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32399
+giant slug~
+a giant slug~
+A huge slug is here rolling gleefully in its own slime.
+~
+~
+insect~
+AR A 0 0 0 0
+50 40 1d1+999 0d0+0 7d6+25 slime
+-12 -12 -12 -9
+0 A LQR H
+stand stand none none~
+0
+AGOc ACDEFHK medium 0
+#0
+
+
+
+#OBJECTS
+#32300
+gauntlets blue aura~
+some blue aura gauntlets~
+A pair of gauntlets that shine with a blue aura.~
+aura~
+armor Ae AHX
+10 10 10 9 0
+50 5 100 P
+F
+A 18 7 0
+F
+S 109 3 0
+#32301
+the madman's axe~
+the madman's axe~
+A large axe with a sharp blade is here.~
+titanium~
+weapon BH ANX
+axe 5 8 slash D
+50 35 100 P
+F
+A 18 6 0
+F
+A 19 6 0
+F
+S 232 10 0
+F
+S 233 -80 0
+#32302
+A room of combat~
+a short hafted spear~
+A spear with a very short halft is here.~
+wood~
+weapon AB ANX
+spear 2 21 pierce 0
+50 10 1 P
+F
+A 19 10 0
+F
+A 18 -4 0
+#32303
+Galika's Horns~
+Galika's Horns~
+A massive set of horns from a minotaur.~
+unknown~
+armor M AES
+10 10 10 15 0
+50 20 1 P
+F
+A 19 4 0
+F
+A 18 4 0
+#32304
+galika's token~
+galika's token~
+A thin metal coin used in the arena.~
+matal~
+trash 0 A
+0 0 0 0 0
+50 0 0 P
+#32307
+leg plates fire~
+a fiery pair of leg plates~
+A set of leg plates that crackle with heat.~
+fire~
+armor 0 AFX
+10 10 10 5 0
+50 10 1 P
+F
+A 20 -5 0
+F
+A 1 2 0
+F
+A 19 3 0
+#32308
+wrist thorned guard~
+a thorned wrist guard~
+A heavily armored set of wrist guards with thorns on both sides.~
+wood~
+armor e AMX
+20 20 20 15 0
+50 15 1 P
+F
+A 1 -2 0
+F
+A 19 2 0
+F
+A 18 2 0
+F
+A 13 -50 0
+#32309
+ring elven kind~
+the ring of elven kind~
+A light solid gold ring is here.~
+gold~
+jewelry 0 ABS
+0 0 0 0 0
+50 2 1 P
+F
+A 18 -3 0
+F
+A 19 -3 0
+F
+A 17 -30 0
+F
+A 12 20 0
+F
+A 13 50 0
+#32310
+two-handed sword shortsword~
+a two-handed shortsword~
+A very heavy sword with a blade that is very short.~
+led~
+weapon Be ANX
+sword 7 7 stab D
+50 60 1 P
+F
+A 18 6 0
+F
+A 19 -4 0
+F
+A 2 2 0
+P FIGHT 32310 1~
+#32311
+tenticle mindflayer~
+the tenticle of the mindflayer~
+A small squishy pile tenticles.~
+flesh~
+armor AEHMR AHX
+15 15 0 15 0
+55 5 1 P
+F
+S 367 10 0
+F
+A 24 -9 0
+#32312
+plasmatic armor~
+(Jiggling) some plasmatic armor~
+A set of something that cant seem to hold its shape.~
+unknown~
+armor AB AGX
+20 20 20 20 0
+55 20 1 P
+F
+A 24 5 0
+F
+A 19 -3 0
+F
+A 18 -3 0
+#32313
+arm clockwork golem~
+the arm of the clockwork golem~
+A large mechanical arm has been dismembered from its body.~
+titanium~
+weapon B ANX
+polearm 5 10 slash 0
+55 20 1 P
+F
+A 2 -3 0
+F
+A 19 9 0
+F
+A 18 6 0
+#32314
+spellbinder cloak~
+the spellbinder's cloak~
+A huge thick cloak that pulses with magic power.~
+magic~
+armor ABR AKS
+15 15 15 15 0
+55 15 1 P
+F
+A 21 -9 0
+F
+A 20 -10 0
+F
+A 13 25 0
+F
+A 12 50 0
+#32317
+arena master cranial plate~
+the arena master's cranial plate~
+A large helmet that looks very complicated.~
+titanium~
+armor ABe AES
+20 20 20 15 0
+60 5 100 P
+F
+A 18 3 0
+F
+A 19 3 0
+F
+A 22 -10 0
+#32318
+neck guard golem greater~
+the greater golem's neck plate~
+A very large piece of armor to go around the neck~
+titanium~
+armor e ACX
+10 10 10 10 0
+55 15 100 P
+F
+A 18 2 0
+F
+A 19 1 0
+#32319
+broken gear~
+a broken gear~
+A gear that used to go to something.~
+titanium~
+jewelry 0 AXZ
+0 0 0 0 0
+55 1 100 P
+F
+A 19 1 0
+F
+A 24 -1 0
+P FIGHT 32318 5~
+#32320
+golem greater belt plate~
+the greater golem's belt plate~
+A plate of metal that can be buckeled around the waist.~
+titanium~
+armor e ALX
+15 15 15 10 0
+50 0 100 P
+F
+A 18 4 0
+#32321
+signet golem master~
+the signet of the golem master~
+A small piece of metal that has the emblem of the imfamous golem maker.~
+titanium~
+socket A A
+AB Y 0 0 0
+50 0 0 P
+#32322
+arena master chest plate~
+the Arena Master's chest Plate~
+A huge mechanical chest plate that came from the gauntlet.~
+titanium~
+armor ABe ADS
+23 23 23 23 0
+60 15 100 P
+F
+A 18 4 0
+F
+A 19 4 0
+#32323
+leg plate arena~
+the Arena Master's Leg Plates~
+A set of huge mechanical leg plates that came from the gauntlet.~
+titanium~
+armor ABe AFS
+20 20 20 20 0
+60 10 100 P
+F
+A 13 70 0
+F
+A 24 -10 0
+#32324
+arena master face plate~
+the Arena Master's Face Plate~
+A huge mechanical face plate that came from the gauntlet.~
+titanium~
+armor ABe ASd
+20 20 20 20 0
+60 5 100 P
+P FIGHT 32324 5~
+#32338
+champion dagger~
+the `$Champion's Dagger``~
+A dagger that is really sharp is here.~
+titanium~
+weapon Y AN
+dagger 8 5 pierce D
+50 2 4500 P
+F
+A 18 6 0
+#32339
+champion sword~
+the `4Champion's Sword``~
+A sword that is really hot is here.~
+titanium~
+weapon Y AN
+sword 8 5 slash G
+50 10 4500 P
+F
+A 18 3 0
+F
+A 19 3 0
+#32340
+champion spear~
+the `4Champion's Spear``~
+A spear that is really sharp is here.~
+titanium~
+weapon Y AN
+spear 8 5 pierce D
+0 10 0 P
+F
+A 18 3 0
+F
+A 19 3 0
+#32341
+champion mace~
+the `4Champion's Mace``~
+A mace that is really cold is here.~
+titanium~
+weapon Y AN
+mace 8 5 pound B
+50 20 0 P
+F
+A 19 6 0
+#32342
+champion whip~
+the `4Champion's Whip``~
+A whip that is really cold is here.~
+titanium~
+weapon Y AN
+whip 8 5 whip B
+50 5 4500 P
+F
+A 18 6 0
+#32343
+champion glaive~
+the `4Champion's Glaive``~
+A glaive that is really hot is here.~
+titanium~
+weapon Y AN
+polearm 8 5 slash G
+50 45 4500 P
+F
+A 18 3 0
+F
+A 19 3 0
+#32344
+champion flail~
+the `4Champion's Flail``~
+A flail that is really cold is here.~
+titanium~
+weapon Y AN
+flail 8 5 crush B
+50 20 0 P
+F
+A 19 6 0
+#32345
+champion axe~
+the `4Champion's Axe``~
+An axe that is really hot is here.~
+titanium~
+weapon Y AN
+axe 8 5 slash G
+50 45 4500 P
+F
+A 19 6 0
+#32346
+champion staff~
+the `4Champion's Staff``~
+A staff that is really cold is here.~
+titanium~
+weapon Y AN
+staff 8 5 pound B
+50 15 0 P
+F
+A 18 6 0
+#32347
+champion cresant blade exotic~
+the `4Champion's Cresant Blade``~
+A cresant blade is here dripping with blood.~
+titanium~
+weapon Y AN
+exotic 8 5 magic C
+50 15 4500 P
+F
+A 18 3 0
+F
+A 19 3 0
+#32386
+a part~
+a part~
+A part~
+part~
+weapon 0 ANX
+exotic 0 0 none 0
+60 0 0 P
+#32387
+the arena master's ring~
+the arena master's ring~
+A small silver band with a few engravings.~
+silver~
+jewelry ABR ABX
+0 0 0 0 0
+50 3 1 P
+F
+A 18 2 0
+F
+A 13 60 0
+#32388
+pod glowing unbloomed flower~
+a glow pod~
+A glowing flower bud that sparkels with specks of pollen.~
+plant~
+light A AS
+0 0 999 0 0
+50 15 100 P
+F
+A 18 1 0
+F
+A 19 3 0
+P FIGHT 32388 15~
+#32389
+rare crystal~
+a rare crystal~
+A huge crystal that will make a weapon unliftable.~
+diamond~
+socket MZ AX
+B AB 0 0 A
+50 30 1 P
+F
+A 18 2 0
+F
+A 19 2 0
+F
+A 24 1 0
+#32390
+a bed~
+a bed~
+A bed that doesnt look very comfortable.~
+unknown~
+container 0 0
+100 0 0 1 0
+50 10001 0 P
+#32391
+a bottle of absinthe~
+a bottle of absinthe~
+A large bottle of Absinthe~
+glass~
+drink 0 A
+10 10 'absinthe' 0 0
+50 2 1000 P
+#32392
+keg~
+a keg~
+A keg of beer is here.~
+wood~
+drink 0 A
+1200 1200 'beer' 0 0
+50 80 1800 P
+#32393
+quarterkeg~
+a quarter keg~
+A quarter keg of beer is here.~
+wood~
+drink 0 A
+300 300 'beer' 0 0
+40 20 450 P
+#32394
+bottle beer~
+a bottle of beer~
+A bottle of beer sits here.~
+glass~
+drink 0 A
+30 30 'beer' 0 0
+30 1 45 P
+#32395
+master token~
+the arena masters token~
+A large golden coin from the training arena.~
+gold~
+trash 0 A
+0 0 0 0 0
+50 0 0 P
+#32396
+token golem~
+the golem token~
+A large golden token for use in the Gauntlet.~
+gold~
+trash 0 A
+0 0 0 0 0
+50 0 0 P
+#32397
+token tevisa~
+the token of Tevisa~
+A large golden coin is here.~
+gold~
+trash 0 A
+0 0 0 0 0
+50 0 0 P
+#32398
+token inforna~
+the token of Inforna~
+A token used for advancement in the Gauntlet.~
+gold~
+trash 0 AN
+0 0 0 0 0
+50 0 0 P
+#32399
+rubbery hide slug giant~
+the rubbery hide of a giant slug~
+A thick hide that looks really slimy is here~
+unknown~
+armor AB AKX
+5 5 20 15 0
+50 10 5 P
+F
+A 24 -4 0
+F
+A 22 -10 0
+F
+A 21 -10 0
+F
+A 20 -10 0
+#0
+
+
+
+#ROOMS
+#32300
+`8The Hero's Last Breath.``~
+The entrance to the gauntlet is no laughing matter.  There are heroes all
+around waiting to get in.  For such a harsh test of strength you are
+surprised there are not more injuries among them.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 26039
+D3
+~
+~
+0 0 32398
+S
+#32301
+`3A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 4
+M 0 H 0
+P SPEECH 32301 advance~
+S
+#32302
+`8A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 8
+M 0 H 0
+P SPEECH 32302 advance~
+S
+#32303
+`3A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 5
+M 0 H 0
+P SPEECH 32303 advance~
+S
+#32304
+`3A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 2
+M 0 H 0
+P SPEECH 32304 advance~
+S
+#32305
+`#A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 10
+M 0 H 0
+P SPEECH 32305 advance~
+S
+#32306
+`8The Recovery Ward``~
+This room is designated recovery room.  Here you can heal from the
+battles and trials you have endured thus far.  There are a few spots of
+blood on the walls and floor but it is otherwise clean and even the ones
+that exist are being purged away by some mystical force.  
+ 
+A large sign hangs on the wall that you should read.
+~
+~
+0 29361152 0 0
+E
+sign~
+Rest well honored gladiator, for the trials behind are nothing compaired
+to those that lay before.  You will be unable to leave or recover from here
+on untill you get back here.  If you are not absolutly confident in your
+abilities simply speak the word quit and you will be returned to the
+entrance.  To advance give your coin to the arena master and your next foe
+will be made ready.  Good luck!  
+~
+M 25 H 25
+S
+#32307
+`1A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 11
+M 0 H 0
+P SPEECH 32307 advance~
+S
+#32308
+`7A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+M 0 H 0
+P SPEECH 32308 advance~
+S
+#32309
+`3A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 2
+M 0 H 0
+P SPEECH 32309 advance~
+S
+#32310
+`8A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 8
+M 0 H 0
+P SPEECH 32310 advance~
+S
+#32311
+`2A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 3
+M 0 H 0
+P SPEECH 32311 advance~
+S
+#32312
+`8A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 8
+M 0 H 0
+P SPEECH 32312 advance~
+S
+#32313
+`&A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 12
+M 0 H 0
+P SPEECH 32313 advance~
+S
+#32314
+`6A room of combat``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 9
+M 0 H 0
+P SPEECH 32314 advance~
+S
+#32315
+`8The preperation room``~
+Not much here, as a matter of fact there is nothing to it at all.  Just
+some stone walls a carpetless floor and no roof.  There seems to be an
+opening to the north.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32316
+M 0 H 0
+S
+#32316
+`8The preperation room``~
+Not much here, as a matter of fact there is nothing to it at all.  Just
+some stone walls a carpetless floor and no roof.  There seems to be an
+opening to the south.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32315
+S
+#32317
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 4 0 3
+D0
+~
+~
+0 0 32318
+M 0 H 0
+S
+#32318
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32319
+D2
+~
+~
+0 0 32317
+M 0 H 0
+S
+#32319
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32323
+D3
+~
+~
+0 0 32327
+D5
+~
+~
+0 0 32330
+M 0 H 0
+S
+#32320
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32321
+D2
+~
+~
+0 0 32319
+M 0 H 0
+S
+#32321
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 32320
+M 0 H 0
+S
+#32322
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 32318
+M 0 H 0
+S
+#32323
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32324
+D1
+~
+~
+0 0 32325
+D2
+~
+~
+0 0 32322
+M 0 H 0
+S
+#32324
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 32320
+M 0 H 0
+S
+#32325
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 32323
+M 0 H 0
+S
+#32326
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32320
+M 0 H 0
+S
+#32327
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32326
+D2
+~
+~
+0 0 32328
+D3
+~
+~
+0 0 32329
+M 0 H 0
+S
+#32328
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32318
+M 0 H 0
+S
+#32329
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32327
+M 0 H 0
+S
+#32330
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 4 0 3
+D4
+~
+~
+0 0 32319
+D5
+~
+~
+0 0 32331
+M 0 H 0
+S
+#32331
+`2The Makeshift Forest``~
+This is the embodiment of a perfect forest, the trees all have their
+leaves and there are none on the ground, only the grass, the catch is none
+of it is real.  You now stand in a large artificial forest.  The trees are
+completely fake and the grass you stand on is way to stiff to be real.  
+~
+~
+0 0 0 3
+D4
+~
+~
+0 0 32330
+M 0 H 0
+P SPEECH 32331 advance~
+S
+#32332
+`7The small arena``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32333
+M 25 H 100
+S
+#32333
+`7The small arena``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32334
+D1
+~
+~
+0 0 32335
+D2
+~
+~
+0 0 32332
+D3
+~
+~
+0 0 32336
+M 100 H 25
+P SPEECH 32333 advance~
+S
+#32334
+`7The small arena``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32333
+M 50 H 50
+S
+#32335
+`7The small arena``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32333
+M 200 H 0
+S
+#32336
+`7The small arena``~
+There is not too much to this room.  There is a large open space perfect
+for fighting and no signs of any decorations.  The floor is made of sand,
+and there is no roof to speak of.  The walls however are very high, too high
+to climb over.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32333
+M 0 H 200
+S
+#32337
+`8The Master Golem Makers Work Shop``~
+As you look around you begin to wonder where this is.  Large machines are
+on all sides of you and there is a horrible smell of oil and metal fills the
+air.  There are junked limbs of mechanical beasts and such all over.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32340
+D1
+~
+~
+0 0 32339
+D2
+~
+~
+0 0 32342
+D3
+~
+~
+0 0 32341
+S
+#32338
+`8Before a Small Hut``~
+You now stand before a large hut.  There is no door, no windows, just
+open spaces.  There is little light coming from within and feint shadows can
+be seen moving around.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32337
+S
+#32339
+`8A room in the cabin``~
+This is a small room, cramped and dismal.  There is hardly any light,
+save a small candle on a desk and it casts an eerie light and some
+flickering shadows all around.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 32337
+S
+#32340
+`8A room in the cabin``~
+This is a small room, cramped and dismal.  There is hardly any light,
+save a small candle on a desk and it casts an eerie light and some
+flickering shadows all around.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 32337
+S
+#32341
+`8A room in the cabin``~
+This is a small room, cramped and dismal.  There is hardly any light,
+save a small candle on a desk and it casts an eerie light and some
+flickering shadows all around.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32337
+S
+#32342
+`8Before a Small Hut``~
+You now stand before a large hut.  There is no door, no windows, just
+open spaces.  There is little light coming from within and feint shadows can
+be seen moving around.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32337
+D2
+~
+~
+0 0 32343
+S
+#32343
+`8The Hero's Last Breath``~
+The entrance to the gauntlet is no laughing matter.  There are heroes all
+around waiting to get in.  For such a harsh test of strength you are
+surprised there are not more injuries among them.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32342
+D2
+~
+~
+0 0 26039
+D3
+~
+~
+0 0 32344
+S
+#32344
+`8The cheepest drink around``~
+This tavern is full of people.  The world's greatest warriors take rest
+here and make merry their last breaths before challenging the Gauntlet of
+Heroes bane.  The smell of alcohol fills your nostrils as your steps crackle
+on the wooden floor.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32343
+S
+#32398
+`8The cheepest drink around``~
+This tavern is full of people.  The world's greatest warriors take rest
+here and make merry their last breaths before challenging the Gauntlet of
+Heroes bane.  The smell of alcohol fills your nostrils as your steps crackle
+on the wooden floor.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32300
+S
+#32399
+`8If you are here pray for assistance.``~
+~
+~
+0 0 0 0
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 32300 1 32300 1
+M 0 32399 1 32301 1
+E 0 32399 0 13
+M 0 32301 1 32302 1
+E 0 32300 0 10
+M 0 32302 1 32303 1
+E 0 32301 0 17
+M 0 32303 1 32304 1
+E 0 32302 0 17
+M 0 32304 1 32305 1
+E 0 32303 0 6
+G 0 32304 0
+M 0 32305 1 32306 1
+G 0 32395 0
+M 0 32306 1 32306 1
+M 0 32307 1 32307 1
+E 0 32307 0 8
+M 0 32308 1 32308 1
+E 0 32308 0 16
+M 0 32309 1 32309 1
+E 0 32309 0 1
+G 0 32398 0
+M 0 32310 1 32310 1
+E 0 32310 0 17
+M 0 32311 1 32311 1
+E 0 32311 0 10
+M 0 32312 1 32312 1
+E 0 32312 0 9
+M 0 32313 1 32313 1
+E 0 32313 0 17
+M 0 32314 1 32314 1
+E 0 32314 0 13
+G 0 32397 0
+M 0 32316 1 32316 1
+M 0 32317 32 32318 5
+M 0 32317 32 32319 5
+M 0 32317 32 32320 5
+M 0 32317 32 32321 5
+M 0 32317 32 32322 5
+M 0 32317 32 32323 5
+M 0 32317 32 32324 5
+M 0 32317 32 32325 5
+M 0 32317 32 32326 5
+M 0 32317 32 32327 5
+M 0 32317 32 32328 5
+M 0 32317 32 32329 5
+M 0 32317 32 32329 5
+M 0 32317 32 32329 5
+M 0 32317 32 32329 5
+M 0 32317 32 32329 5
+G 0 32396 0
+M 0 32331 1 32331 1
+G 0 32321 0
+E 0 32320 0 14
+E 0 32318 0 23
+E 0 32318 0 3
+M 0 32333 1 32333 1
+E 0 32324 0 7
+E 0 32317 0 6
+E 0 32323 0 8
+E 0 32322 0 5
+M 0 32337 1 32337 1
+O 0 32388 0 32339
+O 0 32390 0 32340
+P 0 32389 1 32390 1
+O 0 32390 0 32341
+P 0 32387 1 32390 1
+M 0 32398 2 32344 1
+G 0 32394 0
+G 0 32393 0
+G 0 32392 0
+G 0 32391 0
+M 0 32398 2 32398 1
+G 0 32391 0
+G 0 32392 0
+G 0 32393 0
+G 0 32394 0
+S
+
+
+
+#SHOPS
+32398 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#32300
+if level $n > 49
+Say So you want to challenge the gauntlet do you?
+Say So there are some things that you should know before I
+say let you go. First, the gauntlet is ruthless, no mercy
+say and expect the worst. Second there is only one way
+say out: to ask the gods to send you home. Last the pain
+say you will experience here is extreme. The likely hood
+say of survival is almost nill, take care and consider
+say your options. Now I ask are you sure you want to enter
+say the gauntlet?
+Else
+Say $n you are a bit young for the gauntlet, why don't you
+Say help yourself to a drink. The bar to the west has a
+Say wonderful assortment of beverages you will be hard
+say pressed to find elsewhere. Good luck to you.
+~
+#32301
+if level $n > 49
+Say Ok then here we go. Once inside make sure your party
+say is with you and head north to the first battle. When
+say you have completed any portion of the area speak the
+say word "advance" and you will move to the next
+say challenge.
+gtrans $n 32302
+Else
+Say You are a bit young for the gauntlet, why don't you
+Say help yourself to a drink. The bar to the west has a
+Say wonderful assortment of beverages you will be hard
+say pressed to find elsewhere. Good luck to you.
+endif
+~
+#32302
+say Good luck.
+mob gtrans $n 32310
+~
+#32303
+say Good luck.
+mob gtrans $n 32301
+~
+#32304
+Say No stopping you is there. Now I could send you to the
+say same old thing over and over but I think that would
+say get rather monotonous. So let's spice things up a bit
+say shall we?
+Emote laughs maniacally. 
+gtrans $n 32315
+~
+#32309
+if rand 10
+mob cast "flame arrow" $n
+break
+else
+if rand 20
+mob cast "icicle" $n
+break
+else
+if rand 30
+mob cast "lightning bolt" $n
+break
+else
+if rand 40
+mob cast "fire shield"
+break
+else
+if rand 50
+mob cast "firestorm" 
+break
+else
+if rand 60
+mob cast "faerie fire" $n
+break
+else
+if rand 70
+mob cast "dispel magic" $n
+break
+else
+if rand 80
+mob cast fireball
+break
+else
+if rand 90
+mob cast hurricane
+break
+else
+mob cast "protective shield"
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#32311
+if rand 10
+emote utters the words 'dispel magic'.
+mob cast "dispel magic" $n
+break
+else
+if rand 20
+emote utters the words 'silence'.
+mob cast silence $n
+break
+else
+if rand 30
+emote utters the words 'slow'.
+mob cast slow $n
+break
+else
+if rand 40
+emote utters the words 'firestorm'.
+mob cast "firestorm"
+break
+else
+if rand 50
+emote utters the words 'shrink'.
+mob cast shrink $n
+break
+else
+if rand 60
+emote utters the words 'mind blast'.
+mob cast "mind blast" $n
+break
+else
+if rand 70
+emote utters the words 'flame arrow'.
+mob cast "flame arrow" $n
+break
+else
+if rand 80
+emote utters the words 'pyramid of force'.
+mob cast "pyramid of force"
+break
+else
+emote utters the words 'fireball'.
+mob cast fireball
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#32314
+if rand 20
+mob cast plague $n
+break
+else
+if rand 40
+mob cast silence $n
+break
+else
+if rand 60
+mob cast poison $n
+break
+else
+if rand 80
+mob cast harm $n
+break
+else
+mob cast dysentery $n
+break
+endif
+endif
+endif
+endif
+endif
+~
+#32315
+If ispc $n
+Say Very well, no one has survived these trials anyway.
+say Happy travels and come back if you want to try again.
+Mob gtrans $n 32300
+Else
+Break
+Endif
+~
+#32316
+Say The next area of combat is one of my own creations. No
+say joke this will be the hardest part of the gauntlet so
+say far. Do not take this lightly and make your prayers
+say before you go, for only with the protection of your
+say god will you get through. I offer you a way out as
+say always, just say the word "retire" and I will bring
+say you back to the entrance. There is no shame in that.
+say If you wish to go on, ask about the "rules" or you may
+say "advance". Good Luck.
+~
+#32317
+If ispc $n
+Say The rules are simple. There are a few golems in the
+say forest and one of them holds the token you need to
+say continue. Once you find it make your way to the
+say greater golem and slay it. Then you may "advance"
+say further. Simple right?
+Else
+Break
+endif
+~
+#32318
+if ispc $n
+say Then lets get right to it!
+grin
+mob gtrans $n 32317
+else
+break
+endif
+~
+#32323
+Say Why won't you fight it! Coward How dare...
+Look rabbit
+Emote stares blankly.
+Say well then...
+Slay rabbit
+Emote draws his sword!
+Say I am your challenge! Prepare! 
+~
+#32324
+Say I have prepared something special for you. A monster
+say so terrifying even I don't want to stick around when
+say you fight it. So say your prayers while I summon it
+say forth.
+Yell bring forth the monster!
+load mob 32343
+Say HAHAHA! How horrible!
+Mob delay 1
+~
+#32325
+Emote laughs the most evil laugh you have ever heard.
+Say I must say I am impressed! To think you bested the
+say golems, and that huge chunk of garbage, kudos to you!
+Say I suppose you want the next challenge, but I really
+say don't have another one... you see no one has ever done
+say that before.
+Emote looks distracted and begins talking to himself.
+Say But I cannot let things stand like this, I have to
+say find a way to get rid of them... not to mention the
+say Aagnor would be most displeased.
+Emote for a moment is silent and still while he thinks.
+Say Here you go, give that to me when you are ready to go.
+Give master $n
+~
+#32326
+Pmote turns back to $n with a flash of energy.
+Say Well I hope you are ready! I need to speak to someone
+say right quick so meet me in the center of the small
+say arena and I will tell you what is next!
+Emote disappears suddenly!
+Mob gtrans $n 32332
+~
+#32327
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32347
+oowner exotic $n
+Give exotic $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32328
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32346
+oowner staff $n
+Give staff $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32329
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32345
+oowner axe $n
+Give axe $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32330
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32344
+oowner flail $n
+Give flail $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32331
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32343
+oowner glaive $n
+Give glaive $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32332
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32342
+oowner whip $n
+Give whip $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32333
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32341
+oowner mace $n
+Give mace $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32334
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32340
+oowner spear $n
+Give spear $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32335
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32339
+oowner sword $n
+Give sword $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32336
+if hasquest $n 'Defeated the Gauntlet of Heros Bane'
+Say Welcome back $n. I am eternally grateful for your help.
+break
+else
+Say here you go!
+load obj 32338
+oowner dagger $n
+Give dagger $n
+permquest $n Defeated the Gauntlet of Heros Bane
+endif
+~
+#32337
+Say Well that is interesting, I never thought I would
+say see the day that someone other than that damned
+say arena master would come here. Well as you can tell
+say I make the golem and train the other monsters
+say that you fought here. So he is really dead? 
+Emote looks like he is going to freak out any second.
+Mob echo With a sudden burst of excitement the master golem maker starts talking again.
+Say Ok let me tell you what, I hated that man with a
+say passion and now that he is gone I can do what I
+say want. I am quite talented with a hammer and forge
+say so how about I make you some weapons to reward you
+say and help you on the way out? Just tell me the type
+say you want! Also the former arena master used to
+say take up residence here, search the house you may
+say find something of use to you. He isn't going to
+say need it!
+Cackle
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#32301
+~
+#32310
+obj echo The gravity all around goes out of control!
+obj cast localize primary $r
+obj cast fly $r
+~
+#32318
+obj echo A broken gear begins to move!
+obj cast "lightning bolt" $n
+~
+#32324
+if rand 10
+obj echo The Arena Master's Face Plate takes on a gruesome look!
+Obj cast spook $n
+break
+Else
+If rand 40
+Obj echo The Arena Master's Face Plate glows briefly.
+Obj echo The Arena Master's Face Plate spits acid!
+Obj cast "acid blast" $n
+Break
+Else
+If rand 90
+Obj echo The Arena Master's Face Plate makes a strange noise.
+Obj cast "change sex" $n
+Break
+Else
+Obj Echo The Arena Master's Face Plate backfires due to the curse!
+Obj Echo The Arena Master's Face Plate's face gnaw `1MUTILATES`` $n!
+if wearsobj 32324
+Obj Damage blah $n 35 35 kill
+Break
+Else
+Endif
+Endif
+Endif
+Endif
+~
+#32388
+obj echo A glowing pod spews forth glowing pollen!
+obj cast "faerie fire" $n
+~
+#0
+
+#ROOMPROGS
+#32301
+if mobhere 32399
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32307
+~
+#32302
+if mobhere 32301
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32303
+~
+#32303
+if mobhere 32302
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32304
+~
+#32304
+if mobhere 32303
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32305
+~
+#32305
+if mobhere 32304
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32306
+~
+#32307
+if mobhere 32307
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32308
+~
+#32308
+if mobhere 32308
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32309
+~
+#32309
+if mobhere 32309
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32306
+~
+#32310
+if mobhere 32310
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32311
+~
+#32311
+if mobhere 32311
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32312
+~
+#32312
+if mobhere 32312
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32313
+ 
+~
+#32313
+if mobhere 32313
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32314
+~
+#32314
+if mobhere 32314
+room Echo The air about you humms but nothing happens.
+else
+room gtrans $n 32306
+~
+#32331
+if mobhere 32331
+room Echo The air about you hums but nothing happens.
+else
+room gtrans $n 32306
+~
+#32333
+if mobhere 32333
+room Echo The air about you hums but nothing happens.
+else
+room gtrans $n 32338
+~
+#0
+
+#$

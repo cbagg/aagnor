@@ -1,0 +1,1595 @@
+#AREADATA
+Name The Bone Yard~
+Pref ~
+Builders Raki~
+VNUMs 31300 31399
+Max_Bastions 0
+Credits (25-45) Raki     Bone Yard~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31300
+Skeleton Enchanted bones pile~
+an enchanted skeleton~
+A small pile of bones from mixed animals.
+~
+Not entirely sure what animal it was.  There is actually a good mix of
+different animals that have their bones somewhere in the mix.  
+~
+undead~
+AFGHOd A J 0 -750 0
+20 15 10d10+50 0d0+0 2d3+5 drain
+4 4 4 10
+0 LQ I N
+stand stand none none~
+20
+0 ABCDEFGHIJK medium 0
+#31301
+Giant skeleton~
+the skeleton of a giant~
+A large skeleton made of very thick bones.
+~
+This huge skeleton looks dazed and confused.  It wanders in circles
+looking for something to kill but quickly turns direction forgetting where
+if came from.  
+~
+undead~
+ABFGOe A J 0 -750 0
+25 20 100d3+50 0d0+0 3d4+6 none
+2 2 2 8
+JKN LQ I N
+stand stand none none~
+25
+0 ABCDEFGHIJK medium 0
+#31302
+lake spirit~
+a lake spirit~
+A glowing spirit is here floating above the lake.
+~
+A ghostly incarnation, obviously a spirit of one of the creatures who's
+mortal remains are scattered here.  Though it has no form it definatly looks
+angry.  
+~
+undead~
+AGOSd A JTU 0 -750 0
+28 24 100d4+100 0d0+0 4d5+10 drain
+-1 -1 -1 5
+JN LQR I N
+stand stand none none~
+30
+0 ABCDEFGHIJK medium 0
+#31303
+spirit watcher~
+the Spirit Watcher~
+An old hunched figure stands here.
+~
+This old figure is hunched and covered in fur.  Obviously not human, if
+has sharp claws and razor teeth.  Despite its appearance, he seems to be at
+peace with all that is around him.  
+~
+feral~
+ABGe A 0 0 350 0
+50 60 100d30+500 0d0+0 0d0+0 slash
+-25 -25 -25 -15
+CEFIJKN 0 0 H
+stand stand male none~
+0
+AGHMV ABCDEFGHIJKQU medium 0
+#31304
+drowned soul demon~
+Yorgishi the water demon~
+A sad looking soul of a drowned human.
+~
+This is a horrible demon, possessed in his last breaths and cursed to
+never leave the lake, never to drown.  
+~
+demon~
+ABFGOe A DJT 0 -750 0
+50 60 100d30+500 100d100+10000 5d5+25 pain
+-25 -25 -25 -15
+FKN R 0 A
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31305
+bone gnawer male~
+a male bone gnawer~
+A large rodent known as a bone gnawer.
+~
+One of the lands most infamous rodents, the bone gnawer.  They are cursed
+things that build there homes out of bone, and strip animals clean to feed
+their young.  They may look small but they are quite dangerous.  
+~
+fox~
+Ad A DKX 0 0 0
+37 30 200d3+73 0d0+0 5d5+10 bite
+-3 -3 -3 1
+FJN Q 0 N
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31306
+bone gnawer female~
+a female bone gnawer~
+A large rodent with blood dripping from its mouth.
+~
+The female bone gnawers are considerably larger than the males and are
+known for their foul tempers.  Unlike the males, the females are
+cannibalistic and will often kill and eat their mates or other females that
+are around.  
+~
+fox~
+Ad A DKX 0 -350 0
+45 45 250d4+150 0d0+0 5d7+20 bite
+-5 -5 -5 -1
+EFJN Q 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31307
+Yasmick king devils~
+Yasmick~
+Yasmick the King of the Devils is here.
+~
+The master of the undead and undoubtably responsible for the carnage
+around here.  He seems to be manipulating bones and flesh to make his own
+minions.  He stands quite tall and his eyes are almost vacant.  All his hair
+is pure white and he is partly going bald.  Truly all he has left in life
+are his slaves.  
+~
+modron~
+A A JP 0 0 1
+55 40 1d1+749 0d0+0 3d3+10 agony
+-20 -20 -20 -20
+KQRX BQ BHIK Ya
+stand stand none none~
+0
+H ABCGHJK medium 0
+P FIGHT 31300 50~
+#31308
+zombie minion~
+a zombie minion~
+(Charmed) A zombie stands here to do his master's bidding.
+~
+A pale reminder of the once living, a zombie awaits to do whatever its
+master demands.  
+~
+modron~
+ABOT A J 0 -750 0
+50 70 1d1+749 0d0+0 10d5+10 punch
+-10 -10 -10 -10
+CEHJKRX ABLQ HIK N
+stand stand none none~
+0
+H ABCGHJK medium 0
+F off Q
+#31309
+stone golem~
+a stone golem~
+(Charmed) A stone golem stands here to do his master's bidding.
+~
+~
+modron~
+ABT A J 0 -350 0
+50 70 1d1+749 0d0+0 15d5+10 pierce
+-40 -40 -40 0
+KNR BQ D C
+stand stand none none~
+0
+H ABCGHJK medium 0
+F off Q
+F res HIK
+#31310
+flesh golem~
+a flesh golem~
+(Charmed) A flesh golem stands here to do his master's bidding.
+~
+~
+modron~
+ABe A J 0 -350 0
+50 70 1d1+749 0d0+0 5d5+20 slash
+-10 -10 -10 -40
+FKNR BQ 0 0
+stand stand none none~
+0
+H ABCGHJK medium 0
+F off Q
+F res HIK
+#0
+
+
+
+#OBJECTS
+#31300
+night root nightroot~
+a nightroot~
+A root that seems to glow just a little.~
+plant~
+herb 0 A
+300 'detect invis' 'reserved' 'detect aura' 'flesh armor'
+30 1 200 P
+#31301
+pain whip barbed~
+a barbed whip of pain~
+A long whip is here with some nasty looking barbs.~
+thorns~
+weapon CEGJMY ANX
+whip 7 6 whip D
+50 5 10 P
+F
+S 254 -15 0
+F
+S 111 -15 0
+F
+A 19 7 0
+F
+A 18 6 0
+#31302
+soul traitor~
+the soul of a traitor~
+A soul is here howling for freedom.~
+soul~
+armor ABCEMP AU
+3 3 3 3 0
+50 0 2 P
+L
+11
+F
+A 14 30 0
+F
+A 12 30 0
+F
+A 13 30 0
+#31303
+cursed robe damned~
+the cursed robe of the damned~
+A short robe inlayed with fragments of bone.~
+bone~
+armor ABCEHPZ AKX
+10 15 14 20 0
+50 15 2 P
+F
+A 19 -3 0
+F
+A 18 -3 0
+F
+A 17 -30 0
+F
+A 20 -8 0
+F
+A 22 -8 0
+F
+A 21 -10 0
+#31304
+slime covered leggings~
+some slime covered leggings~
+A pair of leggings are coverred in slime.~
+slime~
+armor AB AFX
+10 10 10 9 0
+50 10 5 P
+F
+A 19 3 0
+F
+A 18 4 0
+F
+A 24 3 0
+#31305
+slime covered sleeves~
+some slime covered sleeves~
+A pair of sleeves are coverred in slime.~
+slime~
+armor AB AIX
+10 10 10 9 0
+50 10 5 P
+F
+A 20 6 0
+F
+A 18 3 0
+F
+A 19 4 0
+#31306
+dried seaweed pendant~
+a dried seaweed pendant~
+A necklace with a piece of dried plant as a charm.~
+unknown~
+jewelry AB ACX
+0 0 0 0 0
+50 8 1 P
+F
+A 19 3 0
+F
+A 18 3 0
+#31307
+spirit sword~
+the spirt sword~
+A longsword that attracts wandering spirits~
+titanium~
+weapon AB ANX
+sword 8 5 slice 0
+45 5 1 P
+F
+A 19 3 0
+F
+A 18 6 0
+#31308
+spirit spear~
+the spirt spear~
+A long spear that attracts wandering spirits.~
+titanium~
+weapon ABe ANX
+spear 16 2 stab 0
+45 5 1 P
+F
+A 19 3 0
+F
+A 18 6 0
+#31309
+bow short yew~
+a short yew bow~
+A well made short bow is here.~
+unknown~
+ranged 0 AXe
+A 140 2 0 AC
+45 15 10 P
+F
+A 19 -1 0
+F
+A 18 4 0
+#31310
+spectral arrows~
+spectral arrows~
+A bundle of arrows that glow with unworldly power.~
+spirit~
+projectile 0 Aa
+A 5 5 pierce 0 45 0 5000 P
+#31311
+bone splinter arm guards~
+some splintered bone arm guards~
+A set of arm guards made of broken bones.~
+bone~
+armor 0 AI
+9 9 9 4 0
+25 4 150 P
+F
+A 19 1 0
+F
+A 18 1 0
+#31312
+bone splinter gauntlets~
+some splintered bone gauntlets~
+A set of gauntlets made of broken bones.~
+bone~
+armor 0 AH
+9 9 9 4 0
+25 4 150 P
+F
+A 18 1 0
+F
+A 19 1 0
+#31313
+bone splinter boots~
+some splintered bone boots~
+A pair of boots made of broken bones.~
+bone~
+armor 0 AG
+9 9 9 4 0
+25 4 150 P
+F
+A 19 1 0
+F
+A 18 1 0
+#31314
+bone splinter armor~
+some splintered bone armor~
+Some armor made of broken bones.~
+bone~
+armor 0 AD
+9 9 9 4 0
+25 8 150 P
+F
+A 18 1 0
+F
+A 19 1 0
+#31315
+bone splinter leggings~
+some splintered bone leggings~
+Some leggings made of broken bones.~
+bone~
+armor 0 AF
+9 9 9 4 0
+25 4 150 P
+F
+A 19 1 0
+F
+A 18 1 0
+#31316
+bone splinter bracers~
+some splintered bone bracers~
+A bracer made of broken bones.~
+bone~
+armor 0 AM
+9 9 9 4 0
+25 4 150 P
+F
+A 18 1 0
+F
+A 19 1 0
+#31317
+bone splinter helm~
+a splintered bone helm~
+A helm made of broken bones.~
+bone~
+armor 0 AE
+9 9 9 4 0
+25 4 150 P
+F
+A 19 1 0
+F
+A 18 1 0
+#31318
+bone splinter visor~
+a splintered bone visor~
+A visor made of broken bones.~
+bone~
+armor 0 Ad
+9 9 9 4 0
+25 4 150 P
+F
+A 18 1 0
+F
+A 19 1 0
+#0
+
+
+
+#ROOMS
+#31300
+`3Some scattered bones``~
+A few bones lie on the ground here.  They seem to be of several different
+animals though many seem humanoid.  Coming from the south the foul smell of
+decaying bodies, seems to blow on the wind.  
+~
+~
+0 5 0 2
+D0
+~
+~
+0 0 30832
+D2
+~
+~
+0 0 31301
+S
+#31301
+`8Watery Grave``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 8
+D0
+~
+~
+0 0 31300
+D1
+~
+~
+0 0 31302
+D3
+~
+~
+0 0 31306
+S
+#31302
+`8Swamp with floating bones``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 0
+D2
+~
+~
+0 0 31303
+D3
+~
+~
+0 0 31301
+S
+#31303
+`8Swamp with floating bones``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31302
+D3
+~
+~
+0 0 31304
+S
+#31304
+`8Swamp with floating bones``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 0
+D1
+~
+~
+0 0 31303
+D2
+~
+~
+0 0 31307
+D3
+~
+~
+0 0 31305
+S
+#31305
+`8Swamp with floating bones``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31306
+D1
+~
+~
+0 0 31304
+S
+#31306
+`8Swamp with floating bones``~
+The ground has become quite soft and swampy.  As disturbing as it is,
+there seems to be bridges made of bone and that is the only way to continue
+past this point.  Magic is in the air, and almost crackles in the dead
+silence.  
+~
+~
+0 1 0 0
+D1
+~
+~
+0 0 31301
+D2
+~
+~
+0 0 31305
+S
+#31307
+`8Before a large pile of bones``~
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31304
+D4
+~
+~
+0 0 31308
+S
+#31308
+`8On top of a pile of bones``~
+You managed to climb the pile of bones, and now stand on rather unsteady
+ground.  With each step you rattle the bones and almost sing up to your
+ankles in dry broken bones.  
+~
+~
+0 5 0 8
+D2
+~
+~
+0 0 31309
+D5
+~
+~
+0 0 31307
+S
+#31309
+`8On top of a pile of bones``~
+You managed to climb the pile of bones, and now stand on rather unsteady
+ground.  With each step you rattle the bones and almost sing up to your
+ankles in dry broken bones.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31308
+D1
+~
+~
+0 0 31311
+D2
+~
+~
+0 0 31310
+S
+#31310
+`8On top of a pile of bones``~
+You managed to climb the pile of bones, and now stand on rather unsteady
+ground.  With each step you rattle the bones and almost sing up to your
+ankles in dry broken bones.  
+~
+~
+0 1 0 8
+D0
+~
+~
+0 0 31309
+D5
+~
+~
+0 0 31313
+S
+#31311
+`8On top of a pile of bones``~
+You managed to climb the pile of bones, and now stand on rather unsteady
+ground.  With each step you rattle the bones and almost sing up to your
+ankles in dry broken bones.  
+~
+~
+0 1 0 8
+D1
+~
+~
+0 0 31312
+D3
+~
+~
+0 0 31309
+S
+#31312
+`8On top of a pile of bones``~
+You managed to climb the pile of bones, and now stand on rather unsteady
+ground.  With each step you rattle the bones and almost sing up to your
+ankles in dry broken bones.  
+~
+~
+0 1 0 8
+D3
+~
+~
+0 0 31311
+D5
+~
+~
+0 0 31318
+S
+#31313
+`8Back on the bone Bridges``~
+You once again stand on the bridges forged from the bones of all the
+animals around.  The water here looks very deep and is crystal clear.  You
+can see some whole bodies down on the bottom, resting peacefully.  
+~
+~
+0 1 0 8
+D2
+~
+~
+0 0 31314
+D4
+~
+~
+0 0 31310
+S
+#31314
+`8Back on the bone Bridges``~
+You once again stand on the bridges forged from the bones of all the
+animals around.  The water here looks very deep and is crystal clear.  You
+can see some whole bodies down on the bottom, resting peacefully.  
+~
+~
+0 1 0 8
+D0
+~
+~
+0 0 31313
+D1
+~
+~
+0 0 31315
+S
+#31315
+`8Back on the bone Bridges``~
+You once again stand on the bridges forged from the bones of all the
+animals around.  The water here looks very deep and is crystal clear.  You
+can see some whole bodies down on the bottom, resting peacefully.  
+~
+~
+0 1 0 8
+D1
+~
+~
+0 0 31316
+D3
+~
+~
+0 0 31314
+S
+#31316
+`8Back on the bone Bridges``~
+You once again stand on the bridges forged from the bones of all the
+animals around.  The water here looks very deep and is crystal clear.  You
+can see some whole bodies down on the bottom, resting peacefully.  
+~
+~
+0 1 0 8
+D2
+~
+~
+0 0 31317
+D3
+~
+~
+0 0 31315
+S
+#31317
+`8Back on the bone Bridges``~
+You once again stand on the bridges forged from the bones of all the
+animals around.  The water here looks very deep and is crystal clear.  You
+can see some whole bodies down on the bottom, resting peacefully.  
+~
+~
+0 5 0 8
+D0
+~
+~
+0 0 31316
+D5
+~
+~
+0 0 31331
+S
+#31318
+`8Knee deep in the swamp``~
+Now you have nothing to stand on.  You could climb back onto the pile of
+bones, or press onward.  To the south, you can climb back onto the bridge,
+to the east the terrain opens up a bit.  
+~
+~
+0 5 0 8
+D1
+~
+~
+0 0 31320
+D2
+~
+~
+0 0 31319
+D4
+~
+~
+0 0 31312
+S
+#31319
+`8Knee deep in the swamp``~
+Now you have nothing to stand on.  You could climb back onto the pile of
+bones, or press onward.  To the south, you can climb back onto the bridge,
+to the east the terrain opens up a bit.  
+~
+~
+0 5 0 8
+D0
+~
+~
+0 0 31318
+D2
+~
+~
+0 0 31316
+S
+#31320
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 31321
+D2
+~
+~
+0 0 31323
+D3
+~
+~
+0 0 31318
+S
+#31321
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 31322
+D2
+~
+~
+0 0 31324
+D3
+~
+~
+0 0 31320
+S
+#31322
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 31325
+D3
+~
+~
+0 0 31321
+S
+#31323
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 31320
+D1
+~
+~
+0 0 31324
+D2
+~
+~
+0 0 31327
+S
+#31324
+`4The middle of the lake``~
+In the middle of the lake the water is much deeper.  You can no longer
+see the bottom of the lake, despite the glow that comes from somewhere down
+there.  Perhaps it is a bad idea to swim here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 31321
+D1
+~
+~
+0 0 31325
+D2
+~
+~
+0 0 31328
+D3
+~
+~
+0 0 31323
+D5
+~
+~
+0 0 31326
+S
+#31325
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 31322
+D1
+~
+~
+0 0 31330
+D2
+~
+~
+0 0 31329
+D3
+~
+~
+0 0 31324
+S
+#31326
+`4The Darkest Abyss``~
+Down here the darkness is all around you.  There is nothing here, just
+water and darkness.  You can feel the weight of the water crushing around
+you.  You can feel the malice of something evil in this water.  You can feel
+your pulse beginning to race as something brushes past your leg.  Whatever
+the case, you don't want to be here.  
+~
+~
+0 135004173 0 7
+D4
+~
+~
+0 0 31324
+S
+#31327
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 31323
+D1
+~
+~
+0 0 31328
+S
+#31328
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 31324
+D1
+~
+~
+0 0 31329
+D3
+~
+~
+0 0 31327
+S
+#31329
+`^The lake of the dead``~
+The water is crystal clear, you can see down to the very bottom, and it
+is littered with bones and decaying bodies.  The lake is lit up with the
+auras of all the spirits around.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 31325
+D3
+~
+~
+0 0 31328
+S
+#31330
+`2An overlook on the lake``~
+You have a beautiful view of the lake from here.  Perhaps that is why the
+Spirit Watcher took up residence here.  Either way, the glowing spirits
+below provide a morbidly beautiful sight.  
+~
+~
+0 5 0 3
+D3
+~
+~
+0 0 31325
+S
+#31331
+`3Some solid ground``~
+Finally some solid ground, no more walking on bodies and bones just dirt.
+There is no grass here, just dirt.  There are still some bones scattered
+around but nothing near what you just passed through.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 31332
+D4
+~
+~
+0 0 31317
+S
+#31332
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31331
+D1
+~
+~
+0 0 31338
+D2
+~
+~
+0 0 31333
+D3
+~
+~
+0 0 31342
+S
+#31333
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31332
+D1
+~
+~
+0 0 31337
+D2
+~
+~
+0 0 31334
+D3
+~
+~
+0 0 31341
+S
+#31334
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31333
+D1
+~
+~
+0 0 31336
+D2
+~
+~
+0 0 31335
+D3
+~
+~
+0 0 31340
+S
+#31335
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31334
+D5
+~
+~
+0 0 31344
+S
+#31336
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31337
+D3
+~
+~
+0 0 31334
+S
+#31337
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31338
+D1
+~
+~
+0 0 31339
+D2
+~
+~
+0 0 31336
+D3
+~
+~
+0 0 31333
+S
+#31338
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D2
+~
+~
+0 0 31337
+D3
+~
+~
+0 0 31332
+S
+#31339
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D3
+~
+~
+0 0 31337
+S
+#31340
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31341
+D1
+~
+~
+0 0 31334
+S
+#31341
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 31342
+D1
+~
+~
+0 0 31333
+D2
+~
+~
+0 0 31340
+D3
+~
+~
+0 0 31343
+S
+#31342
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31332
+D2
+~
+~
+0 0 31341
+S
+#31343
+`3A wide open field``~
+The field is wide open and extends quite far in both directions.  There
+are holes in the dirt, some of which have bones sticking out.  There is
+however very little in the way of plant life, and what there is seems to
+have been stomped flat.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 31341
+S
+#31344
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554445 0 0
+D1
+~
+~
+0 0 31345
+D4
+~
+~
+0 0 31335
+S
+#31345
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554441 0 0
+D1
+~
+~
+0 0 31346
+D3
+~
+~
+0 0 31344
+S
+#31346
+`8The Lightless Hole``~
+It is dark, very dark. Even your torch does not penetrate this thick blanket of darkness. Shadows move all around you and you are definitely not alone.
+~
+~
+0 33554441 0 0
+D1
+~
+~
+0 0 31347
+D3
+~
+~
+0 0 31345
+S
+#31347
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554441 0 0
+D1
+~
+~
+0 0 31349
+D3
+~
+~
+0 0 31346
+S
+#31348
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554441 0 0
+D2
+~
+~
+0 0 31349
+S
+#31349
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554441 0 0
+D0
+~
+~
+0 0 31348
+D1
+~
+~
+0 0 31350
+D2
+~
+~
+0 0 31351
+D3
+~
+~
+0 0 31347
+S
+#31350
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 9 0 0
+D3
+~
+~
+0 0 31349
+S
+#31351
+`8The Lightless Hole``~
+It is dark, very dark.  Even your torch does not penetrate this thick
+blanket of darkness.  Shadows move all around you and you are definitely not
+alone.  
+~
+~
+0 33554441 0 0
+D0
+~
+~
+0 0 31349
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31301 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31302 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31303 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31304 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31305 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31300 40 31306 7
+M 0 31301 3 31309 1
+E 0 31313 0 9
+E 0 31312 0 10
+E 0 31311 0 11
+M 0 31301 3 31314 1
+E 0 31316 0 15
+E 0 31315 0 8
+E 0 31314 0 5
+M 0 31301 3 31316 1
+E 0 31318 0 7
+E 0 31317 0 6
+E 0 31316 0 15
+M 0 31302 15 31320 1
+M 0 31302 15 31321 1
+M 0 31302 15 31322 1
+M 0 31302 15 31323 1
+M 0 31302 15 31324 1
+M 0 31302 15 31325 1
+M 0 31304 1 31326 1
+E 0 31306 0 3
+E 0 31305 0 11
+E 0 31304 0 8
+M 0 31302 15 31327 1
+M 0 31302 15 31328 1
+M 0 31302 15 31329 1
+M 0 31303 1 31330 1
+E 0 31310 0 27
+E 0 31309 0 24
+E 0 31308 0 20
+E 0 31307 0 17
+M 0 31306 10 31331 1
+M 0 31305 10 31331 1
+M 0 31306 10 31332 1
+M 0 31305 10 31332 1
+M 0 31306 10 31333 1
+M 0 31305 10 31333 1
+M 0 31306 10 31334 1
+M 0 31305 10 31334 1
+M 0 31306 10 31335 1
+M 0 31305 10 31335 1
+M 0 31306 10 31337 1
+M 0 31305 10 31337 1
+M 0 31306 10 31338 1
+M 0 31305 10 31338 1
+M 0 31305 10 31339 1
+M 0 31306 10 31340 1
+M 0 31305 10 31340 1
+M 0 31306 10 31341 1
+M 0 31306 10 31343 1
+M 0 31305 10 31343 1
+M 0 31310 1 31350 1
+M 0 31309 1 31350 1
+M 0 31308 3 31350 3
+M 0 31308 3 31350 3
+M 0 31308 3 31350 3
+M 0 31307 1 31350 1
+E 0 31301 0 17
+E 0 31302 0 21
+E 0 31303 0 13
+O 0 31300 0 31351
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#31300
+if rand 20
+mob cast "acid blast" $n
+break
+else
+if rand 40
+mob cast blindness $n
+break
+else
+if rand 60
+mob cast plague $n
+break
+else
+if rand 80
+mob cast poison $n
+break
+else
+mob cast "vampiric touch" $n
+endif
+endif
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

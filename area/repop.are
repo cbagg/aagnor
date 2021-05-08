@@ -1,0 +1,124 @@
+#AREADATA
+Name repop~
+Pref ~
+Builders None~
+VNUMs 11600 11699
+Max_Bastions 0
+Credits { All }~
+Security 1
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#11665
+goblin~
+goblin~
+Goblin
+~
+~
+human~
+A A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#11600
+lightshard~
+a light shard~
+A small ray of light is here.~
+holy~
+socket 0 A
+B HMZ 0 0 J
+50 1 10000 P
+F
+A 19 1 0
+#11601
+part~
+a part~
+A part~
+light~
+weapon 0 A
+exotic 0 0 none 0
+60 100 100 P
+#11603
+armor~
+some armor~
+Some armor~
+unknown~
+armor 0 ADS
+16 16 16 16 0
+60 35 20 P
+#0
+
+
+
+#ROOMS
+#11665
+`7Test room``~
+This room is for testing things only.
+~
+~
+0 0 0 1
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+O 0 11603 0 11665
+M 0 11665 1 11665 1
+O 0 11600 0 11665
+O 0 11601 0 11665
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

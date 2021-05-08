@@ -1,0 +1,797 @@
+#AREADATA
+Name Monk Guild~
+Pref ~
+Builders Raki~
+VNUMs 32730 32766
+Max_Bastions 0
+Credits (Guild) Raki     Monk Guild~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#32731
+monk guild guard~
+the monk guild guard~
+A large looking monk is here guarding the guild.
+~
+~
+half-elf~
+AB A J 0 350 0
+35 60 30d10+3000 0d0+0 2d5+30 jab
+-12 -12 -12 -10
+0 A B 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+P EXALL 32731 north~
+#32750
+monk shop keeper~
+A monk shop keeper~
+A monk is here selling supplies.
+~
+~
+human~
+ABLe A 0 0 -350 0
+50 10 1d1+1 0d0+0 1d1+1 jab
+0 0 0 0
+0 A 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32751
+monk guild guard~
+the monk guild guard~
+A bauld man is here guarding the guild.
+~
+~
+half-elf~
+ABTe A J 0 0 0
+35 60 20d20+2000 0d0+0 2d5+50 jab
+-10 -10 -10 -5
+EHJNX A B 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32755
+guild master monk tired old~
+the monk guild master~
+A tired old monk is here meditating in the garden.
+~
+An old monk is here, meditating.  She dresses in traditional robes of the
+monastery and has shaved her head.  Her ears are almost pointed, undoubtably
+one of the half-elf women that joined the guild to learn self control.  Now
+she leads the guild and is a model of what a monk should be.  
+~
+half-elf~
+ABJKLbe A J 0 350 0
+50 75 100d100+10000 0d0+0 0d0+0 jab
+-40 -40 -40 -40
+0 0 B 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#32730
+ring guild insignia~
+a monk guild insignia~
+A ring marking the guild of the monks.~
+gold~
+jewelry 0 AB
+0 0 0 0 0
+15 1 1000 P
+L
+8
+F
+A 18 1 0
+F
+A 12 20 0
+#32731
+scroll flying~
+a scroll marked with wings~
+A scroll marked with wings is here.~
+paper~
+scroll 0 AO
+55 'fly' '' '' ''
+35 1 10000 P
+L
+8
+#32732
+bead kit~
+a bead making kit~
+A small pack with thread and beads in it.~
+unknown~
+treasure TY AO
+0 0 0 0 0
+25 5 3000 P
+L
+8
+F
+S 345 35 0
+#32733
+The monks armory~
+a magic feast~
+A scroll is here with a picture of a great banquit marking it.~
+paper~
+scroll 0 0
+50 'create spring' 'create food' 'create food' 'create food'
+30 2 500 P
+L
+8
+#32734
+Leather sleeves~
+light leather sleeves~
+Some leather sleeves are here.~
+leather~
+armor 0 AI
+9 9 9 6 0
+25 10 1000 P
+L
+8
+F
+A 18 1 0
+#32735
+leather leggings~
+some leather leggings~
+A set of leather leggings is here.~
+leather~
+armor 0 AF
+9 9 9 6 0
+25 10 1000 P
+L
+8
+F
+A 18 1 0
+#32736
+leather gloves~
+some leather gloves~
+A pair of leather gloves is here.~
+unknown~
+armor 0 AH
+9 9 9 6 0
+25 5 1000 P
+L
+8
+F
+A 18 1 0
+#32737
+leather boots~
+a pair of leather boots~
+A pair of leather boots is here.~
+leather~
+armor 0 AG
+9 9 9 6 0
+25 5 1000 P
+L
+8
+F
+A 18 1 0
+#32738
+leather helmet~
+a leather helmet~
+A leather helmet is here.~
+leather~
+armor 0 AE
+9 9 9 6 0
+25 5 1000 P
+L
+8
+F
+A 18 1 0
+#32739
+leather belt~
+a leather belt~
+A leather belt is here gathering dust.~
+leather~
+armor 0 AL
+9 9 9 6 0
+25 10 1000 P
+L
+8
+F
+A 2 3 0
+#32740
+monks robe~
+a simple monk robe~
+A robe for a monk is here.~
+cloth~
+armor 0 AK
+9 9 9 6 0
+25 5 1000 P
+L
+8
+F
+A 18 1 0
+#32741
+leather armor~
+some leather armor~
+A set of studded leather armor is here.~
+leather~
+armor 0 AD
+9 9 9 6 0
+25 15 1000 P
+L
+8
+F
+A 18 1 0
+#32742
+belt monk accuracy~
+The belt of acuracy~
+A long belt is here, tailored to monks.~
+leather~
+armor e AL
+15 15 15 15 0
+50 10 100000 P
+L
+8
+F
+A 18 7 0
+F
+A 19 4 0
+F
+A 17 -30 0
+#0
+
+
+
+#ROOMS
+#32730
+`3The stairs of the monistary``~
+A tall flight of stairs leads up to the wooden constructed monastery. 
+The walls are made of mountain rock from Mt.  Unidos and are perfectly
+smooth and polished.  The steps are also carved into the stone and have
+indents in them where people have walked up and down for many years.  
+~
+~
+0 0 0 5
+D0
+~
+~
+0 0 32731
+D2
+~
+~
+0 0 30733
+S
+#32731
+`7The monastery porch``~
+A flat section of the monastery over looking the huge stairway leading up
+to it.  The wood looks almost new and has been smoothed by the makers to
+avoid splinters.  There are small benches against the walls but the monks
+around seem to sit on the floor.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32732
+D2
+~
+~
+0 0 32730
+S
+#32732
+`8The south Hallway``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 32733
+D2
+~
+~
+0 0 32731
+D3
+~
+~
+0 0 32747
+S
+#32733
+`8The south Hallway``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32734
+D3
+~
+~
+0 0 32732
+S
+#32734
+`8The east hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32735
+D2
+~
+~
+0 0 32733
+S
+#32735
+`8The east hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32736
+D1
+~
+~
+0 0 32738
+D2
+~
+~
+0 0 32734
+S
+#32736
+`8The east hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32737
+D2
+~
+~
+0 0 32735
+S
+#32737
+`8The north hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 32736
+D3
+~
+~
+0 0 32742
+S
+#32738
+`8The east branch``~
+Another simple hallway, though this one is devoid of candles leaving the
+windowless hall rather dark.  There are lights at either end and the floor
+creaks under the weight of your footsteps.  Only the occasional passing monk
+inhabits this dark section of the monastery.  
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 32739
+D3
+~
+~
+0 0 32735
+S
+#32739
+`8The east branch``~
+Another simple hallway, though this one is devoid of candles leaving the
+windowless hall rather dark.  There are lights at either end and the floor
+creaks under the weight of your footsteps.  Only the occasional passing monk
+inhabits this dark section of the monastery.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32740
+D2
+~
+~
+0 0 32741
+D3
+~
+~
+0 0 32738
+S
+#32740
+`8A solitary meditation chamber``~
+This is a small room with a simple cushion in the middle.  There is no
+lights here, no sound, no distraction.  Fasting, meditation, and mental
+discipline is all that is allowed here.  There are some things here to help
+discipline the mind, needles and hard rocks to meditate on.  
+~
+~
+0 2057 1024 0
+D2
+~
+~
+0 0 32739
+M 300 H 25
+S
+#32741
+`8A solitary meditation chamber``~
+This is a small room with a simple cushion in the middle.  There is no
+lights here, no sound, no distraction.  Fasting, meditation, and mental
+discipline is all that is allowed here.  There are some things here to help
+discipline the mind, needles and hard rocks to meditate on.  
+~
+~
+0 2057 1024 0
+D0
+~
+~
+0 0 32739
+M 300 H 25
+S
+#32742
+`8The north hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32752
+D1
+~
+~
+0 0 32737
+D3
+~
+~
+0 0 32743
+S
+#32743
+`8The north hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 32742
+D2
+~
+~
+0 0 32744
+S
+#32744
+`8The west hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32743
+D2
+~
+~
+0 0 32745
+S
+#32745
+`8The west hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32744
+D2
+~
+~
+0 0 32746
+D3
+~
+~
+0 0 32748
+S
+#32746
+`8The west hall of the monastery``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running north to south with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32745
+D2
+~
+~
+0 0 32747
+S
+#32747
+`8The south Hallway``~
+The hall way is rather plain.  There are candles that light the way and
+windows that have some small glass panes in them.  The floor is wooden with
+think planks of wood running east to west with the hallway.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32746
+D1
+~
+~
+0 0 32732
+S
+#32748
+`8The west branch``~
+Another simple hallway, though this one is devoid of candles leaving the
+windowless hall rather dark.  There are lights at either end and the floor
+creaks under the weight of your footsteps.  Only the occasional passing monk
+inhabits this dark section of the monastery.  
+~
+~
+0 9 0 0
+D1
+~
+~
+0 0 32745
+D3
+~
+~
+0 0 32749
+S
+#32749
+`8The west branch``~
+Another simple hallway, though this one is devoid of candles leaving the
+windowless hall rather dark.  There are lights at either end and the floor
+creaks under the weight of your footsteps.  Only the occasional passing monk
+inhabits this dark section of the monastery.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32750
+D1
+~
+~
+0 0 32748
+D2
+~
+~
+0 0 32751
+S
+#32750
+`8Perfected crafts``~
+The craft shop sells all kinds of crafts and manuals for monks and their
+meditative hobbies.  There is everything here from scrolls to instruction
+manuals to simple bead making kits.  The shop is simple and aside form the
+merchandise, undecorated.  
+~
+~
+0 9 0 0
+D2
+~
+~
+0 0 32749
+S
+#32751
+`8The monk armory``~
+The armory of the monk guild is really nothing more than a leather
+working shop.  Lots of sets of battle armor are displayed on the walls, all
+lightweight and combat ready.  Each set is made for extreme mobility and
+accuracy.  
+~
+~
+0 9 0 0
+D0
+~
+~
+0 0 32749
+S
+#32752
+`2The monistary garden``~
+The garden is simple and well trimmed.  The grass is cut perfectly and
+the bushes trimmed into specific religious symbols.  There is a surprising
+lack of flowers around but what are here a planted in tidy rows of like
+species.  There is a small path leading to a small gazebo that has a small
+place for meditation candles.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32755
+D1
+~
+~
+0 0 32753
+D2
+~
+~
+0 0 32742
+D3
+~
+~
+0 0 32754
+S
+#32753
+`2The monistary garden``~
+The garden is simple and well trimmed.  The grass is cut perfectly and
+the bushes trimmed into specific religious symbols.  There is a surprising
+lack of flowers around but what are here a planted in tidy rows of like
+species.  There is a small path leading to a small gazebo that has a small
+place for meditation candles.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 32752
+S
+#32754
+`2The monistary garden``~
+The garden is simple and well trimmed.  The grass is cut perfectly and
+the bushes trimmed into specific religious symbols.  There is a surprising
+lack of flowers around but what are here a planted in tidy rows of like
+species.  There is a small path leading to a small gazebo that has a small
+place for meditation candles.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32752
+S
+#32755
+`2The monistary garden``~
+The garden is simple and well trimmed.  The grass is cut perfectly and
+the bushes trimmed into specific religious symbols.  There is a surprising
+lack of flowers around but what are here a planted in tidy rows of like
+species.  There is a small path leading to a small gazebo that has a small
+place for meditation candles.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 32752
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 32731 1 32731 1
+M 0 32750 2 32750 1
+G 0 32733 0
+G 0 32732 0
+G 0 32731 0
+G 0 32730 0
+M 0 32750 2 32751 1
+G 0 32742 0
+G 0 32741 0
+G 0 32740 0
+G 0 32739 0
+G 0 32738 0
+G 0 32737 0
+G 0 32736 0
+G 0 32735 0
+G 0 32734 0
+M 0 32755 1 32755 1
+S
+
+
+
+#SHOPS
+32750 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#32731
+if isimmort $n
+emote begins to drift off as his eyes lose their focus.
+emote mutters in a zombie-like voice "True Lord of Power, may you enter my humble abode..."
+break
+else
+if isbloody $n
+mob stop $n
+say You going to clean up that blood? Didn't think so.
+say Why don't you clean up a bit and come back.
+break
+else
+if class $n monk
+say The blessings of peace are upon you. You may pass.
+else
+mob stop $n
+say Hold on there. You are not allowed in there.
+Pmote pushes $n to the ground.
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,1294 @@
+#AREADATA
+Name The Common House~
+Pref ~
+Builders Raki~
+VNUMs 31000 31099
+Max_Bastions 0
+Credits (10-30) Raki     A Commoner's House~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31000
+matron woman~
+the matron of the house~
+A tall beautiful woman is here.
+~
+The matron of this house is a beautiful woman in her twenties.  Her face
+is that of a doll and her body is enough to make even the most respectable
+men drool and beg.  
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 slap
+-3 -3 -3 0
+EKN 0 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31001
+Patron man~
+the father~
+A tall handsome man is resting on a chair.
+~
+The master of this house is a tall and good looking man.  He is dressed
+well, and even when relaxing he looks good.  
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 punch
+-3 -3 -3 0
+EKN 0 0 0
+rest rest male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31002
+aunt bertha~
+aunt Bertha~
+A large woman is here waiting impatiently for some food.
+~
+The ugly woman before you is the freeloading aunt.  Of course such a
+happy family wont turn her out, but she seems very content in her gluttony. 
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 slap
+-3 -3 -3 0
+EKN 0 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31003
+uncle Alfred~
+uncle Alfred~
+A ugly man is sitting on the toilet looking very surpriesd.
+~
+His face is priceless.  The sight of you in his bathroom mixed with the
+shock of realizing he didn't lock the door truly does amuse you.  
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 punch
+-3 -3 -3 0
+EKN 0 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31004
+senile grandparent~
+the senile grandparent~
+A old grandparent is here looking very confused.
+~
+This old geezer is a strange one, pacing around in the closet, obviously
+he doesn't know where he is.  He seems to snarl at you and then smile and
+then snarl again.  
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 pain
+-3 -3 -3 0
+EKN 0 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31005
+maid~
+the maid~
+A maid is here weating a really short dress.
+~
+Strange the wife hasn't fired her yet, she doesn't seem to be doing much
+and she is dressed rather provocatively.  
+~
+human~
+AGe A 0 0 750 0
+35 35 200d3+100 0d0+0 2d5+35 slap
+-3 -3 -3 0
+EKN 0 0 0
+stand stand female none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31006
+human baby~
+a human baby~
+A baby is here crying.
+~
+This infant is just barley born.  There is nothing too it and it smells
+like it needs new pants.  
+~
+human~
+AGe A 0 0 750 0
+10 5 5d10+25 0d0+0 2d3+4 bite
+10 10 10 10
+Q 0 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31007
+big brother~
+the big brother~
+A toddler is here.
+~
+A small toddler is here mumbling something about cookies.  He looks over
+his baby siblings and tries to stop their crying.  
+~
+human~
+AGe A 0 0 750 0
+12 10 5d12+30 0d0+0 3d3+4 scratch
+8 8 8 10
+Q 0 0 0
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31008
+house elf~
+a house elf~
+A small elf is here repairing the attic.
+~
+This house elf moves silently and even though he is hammering and
+repairing the attic, he works just as quietly.  The rags he wears indicate
+the family below does not know he exists.  
+~
+elf~
+AGe A JP 0 750 0
+18 15 50d4+25 0d0+0 4d4+5 magic
+6 6 6 8
+KN 0 B Z
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31009
+toy doll~
+a small toy doll~
+A doll is here dancing around.
+~
+She is the embodiment of beauty and perfection in little girls toys. 
+Long red hair and a fancy dress are exactly what a small girl needs.  
+~
+doll~
+A A 0 0 750 0
+28 20 100d4+100 0d0+0 4d4+10 sting
+4 4 4 8
+KN BLQ ES GHJKO
+stand stand female none~
+0
+AEJMc ABCGHIJK medium 0
+#31010
+toy soldier~
+a small toy soldier~
+A toy soldier is here dancing around.
+~
+A small toy is here, dressed in a soldiers uniform.  He carries a small
+sword and shield, and his dancing is very rigid and jerky.  
+~
+doll~
+Ad A 0 0 750 0
+28 20 100d4+100 0d0+0 4d4+10 slash
+4 4 4 8
+KNQ BLQ ES GHJKO
+stand stand either none~
+0
+AEJMc ABCGHIJK medium 0
+#31011
+nut cracker~
+a toy nut cracker~
+A toy nut cracker is here dancing around.
+~
+A small toy is here, dressed in a soldiers uniform.  He has a rather
+large mouth and wears a very tall hat.  
+~
+doll~
+Ad A 0 0 750 0
+28 20 100d4+100 0d0+0 4d4+10 slice
+4 4 4 8
+KNQ BLQ ES GHJKO
+stand stand either none~
+0
+AEJMc ABCGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#31000
+book stand~
+an enchnated book~
+A book is here on a stand writing itself.~
+paper~
+trash X 0
+0 0 0 0 0
+50 0 0 P
+P USE 31000 100~
+#31001
+book stand~
+an enchnated book~
+A book is here on a stand writing itself.~
+unknown~
+trash X 0
+0 0 0 0 0
+50 0 0 P
+P USE 31001 100~
+#0
+
+
+
+#ROOMS
+#31000
+`8In the doorway``~
+In the doorway of this large house you can already tell what kind of
+place this is.  There is a large amount of light coming from the hall ahead
+and the smell of food cooking is in the air all around you.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31001
+D2
+~
+~
+AB 0 30804
+S
+#31001
+`8The Main Hallway``~
+The main hallway of the first floor is rather cozy.  There are candles
+mounted on the walls that light the whole corridor and allow you to see the
+random toy or two on the floor.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31004
+D1
+~
+~
+0 0 31002
+D2
+~
+~
+0 0 31000
+D3
+~
+~
+0 0 31003
+S
+#31002
+`8The kitchen``~
+The kitchen is your typical sight, pots and pans stacked neatly in the
+cabinets.  There are two fireplaces in here, one obviously used for cooking
+while the other remains a mystery.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31001
+S
+#31003
+`8The Living Room``~
+Here there are many chair, all padded and looking very comfortable.  The
+room is cozy and warm and looks like a good place to rest.  The floor is
+covered in some form of rug and that too is very nice to walk on.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31001
+S
+#31004
+`8The Main Hallway``~
+The main hallway of the first floor is rather cozy.  There are candles
+mounted on the walls that light the whole corridor and allow you to see the
+random toy or two on the floor.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31007
+D1
+~
+~
+0 0 31005
+D2
+~
+~
+0 0 31001
+D3
+~
+~
+AB 0 31006
+S
+#31005
+`8The Dinning Room``~
+A large table sits in the center of the room, along with six chairs and
+much space open for others to join in too.  It is otherwise plain in here,
+no fireplace or decorations, just the table.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31004
+S
+#31006
+`8The Bathroom``~
+Well this is invasive to say the least.  This area is generally
+considered private.  There is a sink and a toilet here, not to mention a
+rather nasty smell but that is normal for this type of room.  
+~
+~
+0 0 0 0
+D1
+~
+~
+AB 0 31004
+S
+#31007
+`8The Main Hallway``~
+The main hallway of the first floor is rather cozy.  There are candles
+mounted on the walls that light the whole corridor and allow you to see the
+random toy or two on the floor.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31010
+D1
+~
+~
+0 0 31008
+D2
+~
+~
+0 0 31004
+D3
+~
+~
+AB 0 31009
+S
+#31008
+`8The Laundry Room``~
+Piles of dirty clothes are covering the tables here.  There is a
+fireplace here with a large pot of water heating over it, probably to wash
+the clothes in.  The smell of dirty laundry fills the air.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31007
+S
+#31009
+`8A large walk-in closet``~
+You stand in a very large closet.  The shelves are covered in towels,
+blankets and other linens.  The floor is not carpeted here as it is in most
+of the rest of the house but it does have a nice smooth feeling to it.  
+~
+~
+0 0 0 0
+D1
+~
+~
+AB 0 31007
+S
+#31010
+`8The stairs to the second floor``~
+A short flight of stairs is here, for a moment you wonder what is up
+there but the sound of crying children answers that really quick.  Do you
+really thing there is anything worth looking at up there?  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31007
+D4
+~
+~
+0 0 31011
+S
+#31011
+`8The stairs to the First floor``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31012
+D5
+~
+~
+0 0 31010
+S
+#31012
+`8The second floor hallway``~
+The main hallway of the second floor is rather dark.  There is a candle
+mounted on the wall that lights the whole corridor and hardly allows you to
+see.  The cries of children can be heard all around.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31011
+D1
+~
+~
+0 0 31013
+D2
+~
+~
+0 0 31015
+D3
+~
+~
+0 0 31014
+S
+#31013
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31012
+S
+#31014
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31012
+S
+#31015
+`8The second floor hallway``~
+The main hallway of the second floor is rather dark.  There is a candle
+mounted on the wall that lights the whole corridor and hardly allows you to
+see.  The cries of children can be heard all around.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31012
+D1
+~
+~
+0 0 31016
+D2
+~
+~
+0 0 31018
+D3
+~
+~
+0 0 31017
+S
+#31016
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31015
+S
+#31017
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31015
+S
+#31018
+`8The second floor hallway``~
+The main hallway of the second floor is rather dark.  There is a candle
+mounted on the wall that lights the whole corridor and hardly allows you to
+see.  The cries of children can be heard all around.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31015
+D1
+~
+~
+0 0 31019
+D2
+~
+~
+0 0 31021
+D3
+~
+~
+0 0 31020
+S
+#31019
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31018
+S
+#31020
+`8A childs bedroom``~
+The bedroom is set up to be two to a room.  Twin cribs are along either
+wall and a single dresser is along the back wall.  There are no lights in
+here and the room smells like baby fecies.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31018
+S
+#31021
+`8Creepy stairs to the attic``~
+These stairs are creepy.  They are not covered and creek as you step on
+them.  The air above smells to be stagnant dusty air, and it almost makes
+you sneeze.  What lies up above, there seems to be movement up there.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31018
+D4
+~
+~
+0 0 31022
+S
+#31022
+`8Stairs out of the attic``~
+Headed down there is little in the way of light.  As a matter of fact,
+its nothing more than a faint glow and flickering shadows.  The air here is
+very stale and some pounding can now be heard though it is very soft.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31023
+D5
+~
+~
+0 0 31021
+S
+#31023
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31024
+D1
+~
+~
+0 0 31028
+D2
+~
+~
+0 0 31022
+D3
+~
+~
+0 0 31027
+S
+#31024
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31025
+D1
+~
+~
+0 0 31030
+D2
+~
+~
+0 0 31023
+D3
+~
+~
+0 0 31029
+S
+#31025
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D0
+~
+~
+0 0 31026
+D1
+~
+~
+0 0 31032
+D2
+~
+~
+0 0 31024
+D3
+~
+~
+0 0 31031
+S
+#31026
+`8A cramped alcove``~
+As you enter this small alcove you notice something very strange.  There
+is a book on a stand that seems to be writing itself.  There is a pile of
+toys on the ground and they all seem to be slowly disappearing.  
+~
+~
+0 1 0 0
+D2
+~
+~
+0 0 31025
+S
+#31027
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D1
+~
+~
+0 0 31023
+S
+#31028
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D3
+~
+~
+0 0 31023
+S
+#31029
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D1
+~
+~
+0 0 31024
+S
+#31030
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D3
+~
+~
+0 0 31024
+S
+#31031
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D1
+~
+~
+0 0 31025
+S
+#31032
+`8The attic``~
+The floor here is horribly broken, and much of it has been patched. 
+There is a thick layer of dust on the floor that leaves your foot prints in
+it as you walk.  
+~
+~
+0 1 0 0
+D3
+~
+~
+0 0 31025
+S
+#31033
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31039
+D1
+~
+~
+0 0 31036
+D2
+~
+~
+0 0 31034
+D3
+~
+~
+0 0 31041
+S
+#31034
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31033
+D1
+~
+~
+0 0 31037
+D2
+~
+~
+0 0 31035
+D3
+~
+~
+0 0 31042
+S
+#31035
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31034
+S
+#31036
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31038
+D1
+~
+~
+0 0 31050
+D2
+~
+~
+0 0 31037
+D3
+~
+~
+0 0 31033
+S
+#31037
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31036
+D3
+~
+~
+0 0 31034
+S
+#31038
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31045
+D2
+~
+~
+0 0 31036
+D3
+~
+~
+0 0 31039
+S
+#31039
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31044
+D1
+~
+~
+0 0 31038
+D2
+~
+~
+0 0 31033
+D3
+~
+~
+0 0 31040
+S
+#31040
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31043
+D1
+~
+~
+0 0 31039
+D2
+~
+~
+0 0 31041
+S
+#31041
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31040
+D1
+~
+~
+0 0 31033
+D2
+~
+~
+0 0 31042
+S
+#31042
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31041
+D1
+~
+~
+0 0 31034
+S
+#31043
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 31044
+D2
+~
+~
+0 0 31040
+S
+#31044
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 31039
+D3
+~
+~
+0 0 31043
+S
+#31045
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 31046
+D2
+~
+~
+0 0 31038
+S
+#31046
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31047
+D1
+~
+~
+0 0 31048
+D3
+~
+~
+0 0 31045
+S
+#31047
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 31046
+S
+#31048
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 31049
+D3
+~
+~
+0 0 31046
+S
+#31049
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31048
+S
+#31050
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 31051
+D2
+~
+~
+0 0 31052
+D3
+~
+~
+0 0 31036
+S
+#31051
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 31050
+S
+#31052
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 31050
+D1
+~
+~
+0 0 31053
+S
+#31053
+`2The Toys Fantasy``~
+What a strange sensation, nothing here is solid.  The colors are swirling
+all around almost like a dream.  What looks like the toys that were in the
+attic are now moving around like living things.  
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 31052
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31000 1 31002 1
+M 0 31001 1 31003 1
+M 0 31002 1 31005 1
+M 0 31003 1 31006 1
+M 0 31005 1 31008 1
+M 0 31004 1 31009 1
+M 0 31007 5 31011 1
+M 0 31007 5 31012 1
+M 0 31006 12 31013 2
+M 0 31006 12 31013 2
+M 0 31006 12 31014 2
+M 0 31006 12 31014 2
+M 0 31007 5 31015 1
+M 0 31006 12 31016 2
+M 0 31006 12 31016 2
+M 0 31006 12 31017 2
+M 0 31006 12 31017 2
+M 0 31007 5 31018 1
+M 0 31006 12 31019 2
+M 0 31006 12 31019 2
+M 0 31006 12 31020 2
+M 0 31006 12 31020 2
+M 0 31007 5 31021 1
+M 0 31008 9 31023 1
+M 0 31008 9 31024 1
+M 0 31008 9 31025 1
+O 0 31000 0 31026
+M 0 31008 9 31027 1
+M 0 31008 9 31028 1
+M 0 31008 9 31029 1
+M 0 31008 9 31030 1
+M 0 31008 9 31031 1
+M 0 31008 9 31032 1
+M 0 31010 6 31033 2
+O 0 31001 0 31033
+M 0 31011 10 31034 2
+M 0 31011 10 31035 2
+M 0 31011 10 31036 2
+M 0 31009 6 31037 2
+M 0 31011 10 31038 2
+M 0 31011 10 31039 2
+M 0 31009 6 31040 2
+M 0 31011 10 31041 2
+M 0 31009 6 31042 2
+M 0 31010 6 31043 2
+M 0 31010 6 31044 2
+M 0 31009 6 31044 2
+M 0 31010 6 31045 2
+M 0 31010 6 31047 2
+M 0 31010 6 31049 2
+M 0 31009 6 31050 2
+M 0 31011 10 31051 2
+M 0 31010 6 31051 2
+M 0 31011 10 31052 2
+M 0 31009 6 31053 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#31000
+obj echoat $n The pages begin to turn really fast and you seem to be lost
+obj echoat $n in a flurry of spinning colors.
+obj gtrans $n 31033
+~
+#31001
+obj echoat $n The pages begin to turn really fast and you seem to be lost
+obj echoat $n in a flurry of spinning colors.
+obj gtrans $n 31026
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,2323 @@
+#AREADATA
+Name The Swamp of Seul Halsun~
+Pref ~
+Builders Raki~
+VNUMs 30800 30899
+Max_Bastions 0
+Credits (30-50) Raki     Swamp of Seul Halsun~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#30800
+Kel-Shin-Ro Gate guard~
+a gate guard~
+A guard is here watching for monsters.
+~
+~
+minotaur~
+ABTce A 0 0 0 0
+60 50 300d3+500 0d0+0 3d5+60 slice
+-20 -20 -20 -20
+CDFHIJKXY AB L 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJKWY large 0
+P GRALL 30800 100~
+P EXALL 30801 east~
+#30801
+swampmon goblin witch~
+a goblin witch~
+A goblin is here doing some witch craft.
+~
+~
+goblin~
+AFGd A PQ J 0 0
+30 35 300d2+50 0d0+0 2d5+50 claw
+-5 -5 -7 -3
+HX 0 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#30802
+swampmon snake poison~
+a poisonus swamp snake~
+A snake is silthering through the swamp.
+~
+~
+snake~
+AFGd A 0 0 0 0
+30 35 300d2+50 0d0+0 2d5+50 psbite
+-5 -5 -5 -7
+0 L L I
+stand stand none none~
+0
+AGXYc ADEFKLQVX medium 0
+#30803
+baby bone gnawer~
+a baby bone gnawer~
+A small rodent is here looking innocent.
+~
+~
+unique~
+AFGd A 0 0 0 0
+30 35 300d2+50 0d0+0 2d5+50 scratch
+-5 -5 -5 -7
+N 0 0 0
+stand stand either none~
+0
+0 0 medium 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#30800
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30801
+D2
+~
+~
+0 0 32500
+D5
+~
+~
+ABM 0 31868
+S
+#30801
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30802
+D2
+~
+~
+0 0 30800
+S
+#30802
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30803
+D2
+~
+~
+0 0 30801
+S
+#30803
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30804
+D2
+~
+~
+0 0 30802
+S
+#30804
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+AB 0 31000
+D1
+~
+~
+0 0 30805
+D2
+~
+~
+0 0 30803
+S
+#30805
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30806
+D3
+~
+~
+0 0 30804
+S
+#30806
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30807
+D3
+~
+~
+0 0 30805
+S
+#30807
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30808
+D2
+~
+~
+0 0 30806
+S
+#30808
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30809
+D2
+~
+~
+0 0 30807
+S
+#30809
+`3The main road north of Menasette``~
+The road here is wide and well traveled.  Both sides have fields as far
+as the eye can see and houses that peasants live in.  The houses are quite
+nice and large enough to house several people.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30810
+D2
+~
+~
+0 0 30808
+S
+#30810
+`3Before the swamp of Seul Halsun``~
+The ground here is a bit soggy and your foot prints sink in quite easily.
+Just as easily, water rushed into them and then they fill with mud again. 
+To the east there is a trail leading into the swamp, and to the south there
+is some houses and the city of Menasette.  
+ 
+A large important sign is here.
+~
+~
+0 0 0 2
+E
+sign~
+The swamp to the east is extremely dangerous.  Do not stray from the path
+unless you have gained the thirtieth rank in your guild.  The safe path is
+strait east.  
+~
+D1
+~
+~
+0 0 30811
+D2
+~
+~
+0 0 30809
+S
+#30811
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D0
+~
+~
+0 0 30833
+D1
+~
+~
+0 0 30812
+D2
+~
+~
+0 0 30844
+D3
+~
+~
+0 0 30810
+S
+#30812
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D1
+~
+~
+0 0 30813
+D2
+~
+~
+0 0 30845
+D3
+~
+~
+0 0 30811
+S
+#30813
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D1
+~
+~
+0 0 30814
+D2
+~
+~
+0 0 30846
+D3
+~
+~
+0 0 30812
+S
+#30814
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D0
+~
+~
+0 0 30839
+D1
+~
+~
+0 0 30815
+D3
+~
+~
+0 0 30813
+S
+#30815
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D0
+~
+~
+0 0 30840
+D1
+~
+~
+0 0 30816
+D3
+~
+~
+0 0 30814
+S
+#30816
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D1
+~
+~
+0 0 30817
+D2
+~
+~
+0 0 30849
+D3
+~
+~
+0 0 30815
+S
+#30817
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D1
+~
+~
+0 0 30818
+D3
+~
+~
+0 0 30816
+S
+#30818
+`8Through the Swamp of Seul Halsun``~
+The path through the swamp is quite narrow.  Two carts would not be able
+to pass the path side by side without one or both going into the murky
+water.  With the sun shining down like it is, the swamp is rather nice
+looking, through the night though it could be quite the horror.  Especially
+with all the strange noises that fill the air.  
+~
+The swamp is quite spooky.  The vegetation seems alive and cries of all
+manner of animal and goblin fill the air.  With the trail as narrow as it is
+the prospect of going off and being lost in the swamp is not beyond reality.
+~
+0 4 0 8
+D0
+~
+~
+0 0 30843
+D1
+~
+~
+0 0 30819
+D2
+~
+~
+0 0 30851
+D3
+~
+~
+0 0 30817
+S
+#30819
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+ 
+A large important sign is here.
+~
+~
+0 0 0 2
+E
+sign~
+The swamp to the west is extremely dangerous.  Do not stray from the path
+unless you have gained the thirtieth rank in your guild.  The safe path is
+strait west.  
+~
+D2
+~
+~
+0 0 30820
+D3
+~
+~
+0 0 30818
+S
+#30820
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30819
+D2
+~
+~
+0 0 30821
+S
+#30821
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30820
+D2
+~
+~
+0 0 30822
+S
+#30822
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30821
+D2
+~
+~
+0 0 30823
+S
+#30823
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30822
+D1
+~
+~
+0 0 30824
+S
+#30824
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+ 
+There seems to be a trail to the south that leads off the path.
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30825
+D2
+~
+~
+0 0 30828
+D3
+~
+~
+0 0 30823
+S
+#30825
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 30826
+D3
+~
+~
+0 0 30824
+S
+#30826
+`3The main road through the swamp``~
+The trail here is quite well worn.  The dirt is packed hard by all the
+foot traffic and carts that pass through.  The rocks seem to have been
+kicked off to the sides of the road where the vegetation is dense and full
+of thorn bushes.  
+~
+~
+0 0 0 2
+D0
+~
+~
+0 0 30827
+D3
+~
+~
+0 0 30825
+S
+#30827
+`2Light pine forest``~
+The trail now passes through a light forest.  The trees are simple pine
+trees and they are spread out well.  The trail is hard to see because the
+trees are so far apart it could be anywhere.  You simply have to follow the
+trampled path.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 26001
+D2
+~
+~
+0 0 30826
+S
+#30828
+`8Off the main trail``~
+You are no longer on solid ground and trek through swampy terrain. 
+Though there is no danger here, you get the feeling that there is something
+horrible to the south if you continue.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30824
+D2
+~
+~
+0 0 30829
+S
+#30829
+`8Off the main trail``~
+You are no longer on solid ground and trek through swampy terrain. 
+Though there is no danger here, you get the feeling that there is something
+horrible to the south if you continue.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30828
+D1
+~
+~
+0 0 30830
+S
+#30830
+`8Off the main trail``~
+You are no longer on solid ground and trek through swampy terrain. 
+Though there is no danger here, you get the feeling that there is something
+horrible to the south if you continue.  
+~
+~
+0 0 0 8
+D2
+~
+~
+0 0 30831
+D3
+~
+~
+0 0 30829
+S
+#30831
+`8Off the main trail``~
+You are no longer on solid ground and trek through swampy terrain. 
+Though there is no danger here, you get the feeling that there is something
+horrible to the south if you continue.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30830
+D2
+~
+~
+0 0 30832
+S
+#30832
+`8Off the main trail``~
+You are no longer on solid ground and trek through swampy terrain. 
+Though there is no danger here, you get the feeling that there is something
+horrible to the south if you continue.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30831
+D2
+~
+~
+0 0 31300
+S
+#30833
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30834
+D1
+~
+~
+0 0 30837
+D2
+~
+~
+0 0 30811
+S
+#30834
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30835
+D1
+~
+~
+0 0 30858
+D2
+~
+~
+0 0 30833
+S
+#30835
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30836
+D1
+~
+~
+0 0 30885
+D2
+~
+~
+0 0 30834
+S
+#30836
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30890
+D1
+~
+~
+0 0 30886
+D2
+~
+~
+0 0 30835
+S
+#30837
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30858
+D1
+~
+~
+0 0 30838
+D3
+~
+~
+0 0 30833
+S
+#30838
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30859
+D1
+~
+~
+0 0 30839
+D3
+~
+~
+0 0 30837
+S
+#30839
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30860
+D1
+~
+~
+0 0 30840
+D2
+~
+~
+0 0 30814
+D3
+~
+~
+0 0 30838
+S
+#30840
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30861
+D1
+~
+~
+0 0 30841
+D2
+~
+~
+0 0 30815
+D3
+~
+~
+0 0 30839
+S
+#30841
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30862
+D1
+~
+~
+0 0 30842
+D3
+~
+~
+0 0 30840
+S
+#30842
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30863
+D1
+~
+~
+0 0 30843
+D3
+~
+~
+0 0 30841
+S
+#30843
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30864
+D2
+~
+~
+0 0 30818
+D3
+~
+~
+0 0 30842
+S
+#30844
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30811
+D1
+~
+~
+0 0 30845
+D2
+~
+~
+0 0 30889
+S
+#30845
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30812
+D1
+~
+~
+0 0 30846
+D2
+~
+~
+0 0 30888
+D3
+~
+~
+0 0 30844
+S
+#30846
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30813
+D1
+~
+~
+0 0 30847
+D2
+~
+~
+0 0 30880
+D3
+~
+~
+0 0 30845
+S
+#30847
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D1
+~
+~
+0 0 30848
+D2
+~
+~
+0 0 30879
+D3
+~
+~
+0 0 30846
+S
+#30848
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D1
+~
+~
+0 0 30849
+D2
+~
+~
+0 0 30874
+D3
+~
+~
+0 0 30847
+S
+#30849
+`8Into the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30816
+D1
+~
+~
+0 0 30850
+D2
+~
+~
+0 0 30871
+D3
+~
+~
+0 0 30848
+S
+#30850
+`8Lost in Suel Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all that
+friendly.  The muck is ankle deep and plant life is highly toxic.  There is
+a way in to Kel-Shin-Ro somewhere around, that may be your last chance of
+getting out of here.  
+~
+~
+0 0 0 8
+D1
+~
+~
+0 0 30851
+D2
+~
+~
+0 0 30855
+D3
+~
+~
+0 0 30849
+S
+#30851
+`8Into the the swamp``~
+The swamp of Seul Halsun is a dangerous place.  Many people leave the
+trail and never return.  There are many kinds of animals in here mostly
+harmless, but there is something in here that is killing people.  Stories of
+the survivors indicate a wizard using rodents to conduct experiments, but
+the people that tell those stories are far from sane when they come out of
+here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30818
+D2
+~
+~
+0 0 30869
+D3
+~
+~
+0 0 30850
+S
+#30852
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30853
+D1
+~
+~
+0 0 30865
+D2
+~
+~
+0 0 30863
+D3
+~
+~
+0 0 30856
+S
+#30853
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30854
+D1
+~
+~
+0 0 30867
+D2
+~
+~
+0 0 30852
+D3
+~
+~
+0 0 30857
+S
+#30854
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30855
+D1
+~
+~
+0 0 30868
+D2
+~
+~
+0 0 30853
+D3
+~
+~
+0 0 30870
+S
+#30855
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30850
+D1
+~
+~
+0 0 30869
+D2
+~
+~
+0 0 30854
+D3
+~
+~
+0 0 30871
+S
+#30856
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30857
+D1
+~
+~
+0 0 30852
+D2
+~
+~
+0 0 30862
+S
+#30857
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30870
+D1
+~
+~
+0 0 30853
+D2
+~
+~
+0 0 30856
+D3
+~
+~
+0 0 30872
+S
+#30858
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30885
+D1
+~
+~
+0 0 30859
+D2
+~
+~
+0 0 30837
+D3
+~
+~
+0 0 30834
+S
+#30859
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30884
+D1
+~
+~
+0 0 30860
+D2
+~
+~
+0 0 30838
+D3
+~
+~
+0 0 30858
+S
+#30860
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30875
+D1
+~
+~
+0 0 30861
+D2
+~
+~
+0 0 30839
+D3
+~
+~
+0 0 30859
+S
+#30861
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30872
+D1
+~
+~
+0 0 30862
+D2
+~
+~
+0 0 30840
+D3
+~
+~
+0 0 30860
+S
+#30862
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30856
+D1
+~
+~
+0 0 30863
+D2
+~
+~
+0 0 30841
+D3
+~
+~
+0 0 30861
+S
+#30863
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30852
+D1
+~
+~
+0 0 30864
+D2
+~
+~
+0 0 30842
+D3
+~
+~
+0 0 30862
+S
+#30864
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30865
+D2
+~
+~
+0 0 30843
+D3
+~
+~
+0 0 30863
+S
+#30865
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30866
+D2
+~
+~
+0 0 30864
+D3
+~
+~
+0 0 30852
+S
+#30866
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30867
+D2
+~
+~
+0 0 30865
+S
+#30867
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30868
+D2
+~
+~
+0 0 30866
+D3
+~
+~
+0 0 30853
+S
+#30868
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30869
+D2
+~
+~
+0 0 30867
+D3
+~
+~
+0 0 30854
+S
+#30869
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30851
+D2
+~
+~
+0 0 30868
+D3
+~
+~
+0 0 30855
+S
+#30870
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30871
+D1
+~
+~
+0 0 30854
+D2
+~
+~
+0 0 30857
+D3
+~
+~
+0 0 30873
+S
+#30871
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30849
+D1
+~
+~
+0 0 30855
+D2
+~
+~
+0 0 30870
+D3
+~
+~
+0 0 30874
+S
+#30872
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30873
+D1
+~
+~
+0 0 30857
+D2
+~
+~
+0 0 30861
+D3
+~
+~
+0 0 30877
+S
+#30873
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30874
+D1
+~
+~
+0 0 30870
+D2
+~
+~
+0 0 30872
+D3
+~
+~
+0 0 30878
+S
+#30874
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30848
+D1
+~
+~
+0 0 30871
+D2
+~
+~
+0 0 30873
+D3
+~
+~
+0 0 30879
+S
+#30875
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30876
+D2
+~
+~
+0 0 30860
+D3
+~
+~
+0 0 30884
+S
+#30876
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30877
+D2
+~
+~
+0 0 30875
+D3
+~
+~
+0 0 30883
+S
+#30877
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30878
+D1
+~
+~
+0 0 30872
+D2
+~
+~
+0 0 30876
+D3
+~
+~
+0 0 30882
+S
+#30878
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30879
+D1
+~
+~
+0 0 30873
+D2
+~
+~
+0 0 30877
+D3
+~
+~
+0 0 30881
+S
+#30879
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30847
+D1
+~
+~
+0 0 30874
+D2
+~
+~
+0 0 30878
+D3
+~
+~
+0 0 30880
+S
+#30880
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30846
+D1
+~
+~
+0 0 30879
+D2
+~
+~
+0 0 30881
+D3
+~
+~
+0 0 30888
+S
+#30881
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30880
+D1
+~
+~
+0 0 30878
+D2
+~
+~
+0 0 30882
+D3
+~
+~
+0 0 30887
+S
+#30882
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30881
+D1
+~
+~
+0 0 30877
+D2
+~
+~
+0 0 30883
+D3
+~
+~
+0 0 30886
+S
+#30883
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30882
+D1
+~
+~
+0 0 30876
+D2
+~
+~
+0 0 30884
+D3
+~
+~
+0 0 30891
+S
+#30884
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30883
+D1
+~
+~
+0 0 30875
+D2
+~
+~
+0 0 30859
+D3
+~
+~
+0 0 30885
+S
+#30885
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30886
+D1
+~
+~
+0 0 30884
+D2
+~
+~
+0 0 30858
+D3
+~
+~
+0 0 30835
+S
+#30886
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30887
+D1
+~
+~
+0 0 30882
+D2
+~
+~
+0 0 30885
+D3
+~
+~
+0 0 30836
+S
+#30887
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30888
+D1
+~
+~
+0 0 30881
+D2
+~
+~
+0 0 30886
+D3
+~
+~
+0 0 30890
+S
+#30888
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30845
+D1
+~
+~
+0 0 30880
+D2
+~
+~
+0 0 30887
+D3
+~
+~
+0 0 30889
+S
+#30889
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30844
+D1
+~
+~
+0 0 30888
+D2
+~
+~
+0 0 30890
+S
+#30890
+`8Lost in Seul Halsun``~
+Now you are lost in Seul Halsun.  The things around here are not all
+that friendly.  The muck is ankle deep and plant life is highly toxic. 
+There is a way in to Kel-Shin-Ro somewhere around, that may be your last
+chance of getting out of here.  
+~
+~
+0 0 0 8
+D0
+~
+~
+0 0 30889
+D1
+~
+~
+0 0 30887
+D2
+~
+~
+0 0 30836
+S
+#30891
+`7A large guard outpost``~
+This outpost is designed to keep the creatures of the swamp out of
+Kel-Shin-Ro.  The guards are extremely well trained and seasoned by constant
+combat with the creatures of the swamp.  The walls are high and thick and
+this place would be very easy to defend.  
+~
+~
+0 4 0 1
+D1
+~
+~
+0 0 30883
+D2
+~
+~
+0 0 25035
+D5
+~
+~
+ABM 0 31800
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 30803 20 30833 1
+M 0 30802 20 30833 1
+M 0 30802 20 30833 1
+M 0 30802 20 30834 1
+M 0 30801 20 30834 1
+M 0 30802 20 30836 1
+M 0 30801 20 30836 1
+M 0 30803 20 30837 1
+M 0 30803 20 30838 1
+M 0 30803 20 30839 1
+M 0 30803 20 30840 1
+M 0 30802 20 30840 1
+M 0 30803 20 30841 1
+M 0 30803 20 30842 1
+M 0 30803 20 30843 1
+M 0 30802 20 30843 1
+M 0 30801 20 30843 1
+M 0 30803 20 30844 1
+M 0 30801 20 30844 1
+M 0 30803 20 30845 1
+M 0 30803 20 30846 1
+M 0 30803 20 30847 1
+M 0 30803 20 30848 1
+M 0 30801 20 30848 1
+M 0 30803 20 30849 1
+M 0 30803 20 30850 1
+M 0 30803 20 30851 1
+M 0 30801 20 30854 1
+M 0 30801 20 30855 1
+M 0 30801 20 30856 1
+M 0 30802 20 30857 1
+M 0 30802 20 30860 1
+M 0 30802 20 30862 1
+M 0 30801 20 30862 1
+M 0 30802 20 30865 1
+M 0 30801 20 30866 1
+M 0 30802 20 30867 1
+M 0 30801 20 30867 1
+M 0 30802 20 30869 1
+M 0 30802 20 30871 1
+M 0 30803 20 30873 1
+M 0 30802 20 30876 1
+M 0 30801 20 30876 1
+M 0 30802 20 30878 1
+M 0 30801 20 30879 1
+M 0 30802 20 30880 1
+M 0 30801 20 30882 1
+M 0 30801 20 30883 1
+M 0 30803 20 30884 1
+M 0 30803 20 30887 1
+M 0 30802 20 30888 1
+M 0 30801 20 30889 1
+M 0 30800 1 30891 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#30800
+If ispc $n
+say To the east there is a dangerous swamp. You may
+say want to avoid it until your thirtieth rank in your guild.
+Else
+kill swampmon
+endif
+~
+#30801
+If ispc $n
+if level $n < 30
+mob stop $n
+say Hang on there, you're a bit young to be going that
+say way just yet. Why don't you head north and buy
+say something.
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

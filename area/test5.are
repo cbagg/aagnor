@@ -1,0 +1,191 @@
+#AREADATA
+Name test5~
+Pref ~
+Builders None~
+VNUMs 5000 5500
+Max_Bastions 0
+Credits { All }~
+Security 1
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#5000
+`8ROOM 1 East to ROOM 2``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 5001
+S
+#5001
+`8ROOM 2 East to ROOM 3``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 5002
+D3
+~
+~
+0 0 5000
+S
+#5002
+`8ROOM 3 East to ROOM 4``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 5003
+D3
+~
+~
+0 0 5001
+S
+#5003
+`8ROOM 4 East to ROOM 5``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 5004
+D3
+~
+~
+0 0 5002
+S
+#5004
+`8ROOM 5 NORTH TO ROOM 6 SOUTH TO ROOM 7``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 5006
+D2
+~
+~
+0 0 5005
+D3
+~
+~
+0 0 5003
+S
+#5005
+`8ROOM 7 DOWN TO ROOM 8``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 5004
+D5
+~
+~
+0 0 5007
+S
+#5006
+`8ROOM 6 UP TO ROOM 9``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 5004
+D4
+~
+~
+0 0 5009
+S
+#5007
+`8ROOM 8``~
+~
+~
+0 0 0 0
+D4
+~
+~
+0 0 5005
+S
+#5009
+`8ROOM 9``~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 5006
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

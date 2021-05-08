@@ -1,0 +1,112 @@
+#AREADATA
+Name vexia~
+Pref ~
+Builders Irisithraxis~
+VNUMs 30500 30699
+Max_Bastions 0
+Credits ( All ) Irisithraxis Vexia ~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#30500
+`7A stone bridge leading to Vexia``~
+A rigid stone bridge spans across the deep chasm seperating Vexia and the
+mainland.  The craftsmanship is Duergar, if not Dwarven.  The stonework is
+nearly flawless.  To the east rests the armored keep of Vexia.  To the west
+are the unknowns of the wild.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 30501
+S
+#30501
+`7A Massive Gate``~
+A huge stone archway curves from the walls of the bridge, creating the
+form for the massive iron gate set into the wall of the keep itself. 
+Ancient ironwoods where felled to create this massive, swinging gate.  Each
+one mutilated by thick, banded iron straps to keep their form.  
+
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 30500
+S
+#30556
+`8sorry``~
+Sorry, I accedently dug this room while working on another area.  Feel
+free to overwrite it.  Once again sorry for the inconvienence.  
+ 
+Raki
+~
+~
+0 0 0 0
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

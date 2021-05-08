@@ -1,0 +1,1959 @@
+#AREADATA
+Name Arkgoth~
+Pref ~
+Builders Furos~
+VNUMs 31100 31299
+Max_Bastions 0
+Credits ( All ) Furos    Arkgoth~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#31100
+dragon head key~
+stone dragon's head~
+A cracked stone dragon's head is here.~
+stone~
+key 0 AC
+0 0 0 0 0
+5 0 0 P
+#31101
+arkgoth fountain banner~
+the Arkgothian War Banner~
+The `!Arkgothian`` War Banner flies proudly here.~
+bone~
+fountain A 0
+0 0 'water' 0 0
+50 1000 0 P
+#31102
+Furos' Special Pill~
+the Special~
+A multicolored pill sits here, humming with energy.~
+Crack~
+pill 0 0
+60 'stone skin' 'haste' 'enlarge' 'fly'
+50 1 5000000 P
+#31103
+Glowing tribal markings~
+the `3Tribal`` Markings~
+The tribal markings~
+Power~
+armor AGMNOTYZ DST
+25 25 25 25 0
+50 100 0 P
+#0
+
+
+
+#ROOMS
+#31100
+`3Nearing the Fortress of Arkgoth``~
+~
+~
+0 0 0 4
+D2
+~
+~
+0 0 31101
+S
+#31101
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D0
+~
+~
+0 0 31100
+D1
+~
+~
+0 0 31102
+S
+#31102
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D1
+~
+~
+0 0 31103
+D3
+~
+~
+0 0 31101
+S
+#31103
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D2
+~
+~
+0 0 31104
+D3
+~
+~
+0 0 31102
+S
+#31104
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D0
+~
+~
+0 0 31103
+D3
+~
+~
+0 0 31105
+S
+#31105
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D1
+~
+~
+0 0 31104
+D3
+~
+~
+0 0 31106
+S
+#31106
+`3Climbing the Rise to Arkgoth``~
+~
+~
+0 0 0 4
+D1
+~
+~
+0 0 31105
+D3
+~
+~
+0 0 31107
+S
+#31107
+`7The Northern Gate``~
+You stand before the mighty fortress Arkgoth.  It is patrolled heavily by
+soldiers of all races.  The walls are a scarcely decorated, serving more of
+a utilitarian purpose.  You see a large symbol on the front gates, which are
+closed, it is a depiction of a fierce crimson dragon raining havoc down upon
+nondescript foes.  
+There is also a large MAP posted here.
+~
+~
+0 0 0 1
+E
+gate~
+The massive gate is adorned with an intricate and realistic image of a large crimson dragon crushing various foes of the fortress.
+~
+E
+map~
+ooooooooooooooooooooooooooooooooooooooooooooooooo
+o`!Arkgothian Military Installation Map```3...........``o
+o`3....................``l`3..........................``o
+o`3....................``L______`3....................``o
+o`3...............``____________l`3...................``o
+o`3..............``L______`3..........................``o
+o`3.....................``l`#X``-You are here`3...........``o
+o_____________________l_________________________o
+ol`8....................``l`8........................``lo
+ol`8...```%S``________________`!P``____________________`%S```8...``lo
+ol`8..```%S``l`8................``l`8....................``l`^G```8..``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8..``-`!P``--`8...........``-`3M``-`!P``-`8..................``-`!P``-`8..``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8.............```#T``--+`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8..```^G``l________________`!P``____________________l`%S```8..``lo
+ol`8...```%S```8................``l`8...................```%S```8....``lo
+ol`8....................``l`8........................``lo
+ol____________________l________________________lo
+o`3.....................``l`3.........................``o
+o`3.....................``L________________`*0```3........``o
+o.`^G``-Guilds..`%S``-Shops..`3M``-Manor..`!P``-Pillar..`#T``-Taverno
+o`3...............................................``o
+ooooooooooooooooooooooooooooooooooooooooooooooooo
+~
+E
+map~
+~
+E
+map~
+ooooooooooooooooooooooooooooooooooooooooooooooooo
+o`!Arkgothian Military Installation Map```3...........``o
+o`3....................``l`3..........................``o
+o`3....................``L______`3....................``o
+o`3...............``____________l`3...................``o
+o`3..............``L______`3..........................``o
+o`3.....................``l`#X``-You are here`3...........``o
+o_____________________l_________________________o
+ol`8....................``l`8........................``lo
+ol`8...```%S``________________`!P``____________________`%S```8...``lo
+ol`8..```%S``l`8................``l`8....................``l`^G```8..``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8..``-`!P``--`8...........``-`3M``-`!P``-`8..................``-`!P``-`8..``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8.............```#T``--+`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8...``l`8................``l`8....................``l`8...``lo
+ol`8..```^G``l________________`!P``____________________l`%S```8..``lo
+ol`8...```%S```8................``l`8...................```%S```8....``lo
+ol`8....................``l`8........................``lo
+ol____________________l________________________lo
+o`3.....................``l`3.........................``o
+o`3.....................``L________________`*0```3........``o
+o.`^G``-Guilds..`%S``-Shops..`3M``-Manor..`!P``-Pillar..`#T``-Taverno
+o`3...............................................``o
+ooooooooooooooooooooooooooooooooooooooooooooooooo
+~
+D1
+~
+~
+0 0 31106
+D2
+~
+Grand Gate of Arkgoth~
+AB 0 31108
+S
+#31108
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+Grand Gate of Arkgoth~
+AB 0 31107
+D2
+~
+~
+0 0 31109
+S
+#31109
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31108
+D2
+~
+~
+0 0 31110
+S
+#31110
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31109
+D2
+~
+~
+0 0 31111
+S
+#31111
+`7The Northern Waypoint``~
+You have come to a small crossroads.  Stone-hewn barricades force you to
+funnel through a small checkpoint in the center, where a guard makes sure
+you aren't a known threat of the Arkgothians.  Roads lead off to the east
+and west, and directly to the south lies the northern pillar.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31110
+D1
+~
+~
+0 0 31168
+D2
+~
+~
+0 0 31112
+D3
+~
+~
+0 0 31169
+S
+#31112
+`7The Northern Pillar of Arkgoth``~
+As you look up, you cannot see any end to the pillar, it just keeps on
+going up into the heavens.  The pillars hum ever so slightly and are warm to
+the touch.  Small notices are posted around the pillar, as they adorn all
+the pillars.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31111
+D2
+~
+~
+0 0 31113
+S
+#31113
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31112
+D2
+~
+~
+0 0 31114
+S
+#31114
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31113
+D1
+~
+~
+0 0 31141
+D2
+~
+~
+0 0 31115
+D3
+~
+~
+0 0 31148
+S
+#31115
+`7North Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31114
+D2
+~
+~
+0 0 31116
+S
+#31116
+`7The Central Pillar of Arkgoth``~
+You are at the heart of Arkgoth.  To the west lies the Manor, wherin
+lives the supreme commander, it is heavily guarded.  Woe betide any who
+think themselves skilled enough to take down the commander alone.  The
+central pillar of Arkgoth, the greatest of the pillars, is twice the
+diameter of the others, and does not hum in the same fashion as the others,
+but it pulses a pale orange color, giving light to the city even at night. 
+There is a broken statue of a dragon off to the west, it is missing it's
+head.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31115
+D1
+~
+~
+0 0 31205
+D2
+~
+~
+0 0 31117
+D3
+~
+wall~
+ABC 31100 31206
+S
+#31117
+`7South Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31116
+D2
+~
+~
+0 0 31118
+D3
+~
+~
+0 0 31299
+S
+#31118
+`7The Southern Waypoint``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31117
+D1
+~
+~
+0 0 31134
+D2
+~
+~
+0 0 31119
+D3
+~
+~
+0 0 31142
+S
+#31119
+`7South Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31118
+D2
+~
+~
+0 0 31120
+S
+#31120
+`7The Southern Pillar of Arkgoth``~
+As you look up, you cannot see any end to the pillar, it just keeps on
+going up into the heavens.  The pillars hum ever so slightly and are warm to
+the touch.  Small notices are posted around the pillar, as they adorn all
+the pillars.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31119
+D2
+~
+~
+0 0 31121
+S
+#31121
+`7South Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31120
+D1
+~
+~
+0 0 31149
+D2
+~
+~
+0 0 31122
+D3
+~
+~
+0 0 31187
+S
+#31122
+`7South Empiral``~
+You walk down the central road of the installation.  The walls to both
+sides are bare, and from what you can gather, the post seems to be
+effectively split in half.  The only decorations are war banners of the
+enemies of Arkgoth displayed proudly down the streets.  There are also a few
+prisoners of war found here, shackled to the walls high off the ground. 
+Each has a sign posted next to him.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31121
+D2
+~
+~
+0 0 31123
+S
+#31123
+`7The Southern Gate``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31122
+D2
+~
+gate~
+AB 0 31124
+S
+#31124
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D0
+~
+gate~
+AB 0 31123
+D1
+~
+~
+0 0 31125
+S
+#31125
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31126
+D3
+~
+~
+0 0 31124
+S
+#31126
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31127
+D3
+~
+~
+0 0 31125
+S
+#31127
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31128
+D3
+~
+~
+0 0 31126
+S
+#31128
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31129
+D3
+~
+~
+0 0 31127
+S
+#31129
+`8The Southern Tunnel``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31128
+D5
+~
+~
+0 0 31130
+S
+#31130
+`8The Shelter``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31131
+D4
+~
+~
+0 0 31129
+S
+#31131
+`8The Shelter``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31132
+D2
+~
+~
+0 0 31130
+S
+#31132
+`8The Shelter``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31133
+D2
+~
+~
+0 0 31131
+S
+#31133
+`8The Shelter``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31201
+D3
+~
+~
+0 0 31132
+S
+#31134
+`8The Barracks``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31135
+D3
+~
+~
+0 0 31118
+S
+#31135
+`8The Barracks``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31137
+D1
+~
+~
+0 0 31136
+D3
+~
+~
+0 0 31134
+S
+#31136
+`8The Showers``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31135
+S
+#31137
+`8The Barracks``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31138
+D2
+~
+~
+0 0 31135
+S
+#31138
+`8The Barracks``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31139
+D2
+~
+~
+0 0 31137
+S
+#31139
+`8The Barracks``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31140
+D2
+~
+~
+0 0 31138
+S
+#31140
+`8The Barracks``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31139
+D3
+~
+~
+0 0 31141
+S
+#31141
+`8The Barracks``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31140
+D3
+~
+~
+0 0 31114
+S
+#31142
+`8The Courtyard``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31118
+D3
+~
+~
+0 0 31143
+S
+#31143
+`8The Brig``~
+~
+~
+0 0 0 0
+D0
+~
+casks~
+0 0 31144
+D1
+~
+~
+0 0 31142
+S
+#31144
+`8A dark, dank cell``~
+~
+~
+0 524289 0 0
+D2
+~
+~
+0 0 31143
+S
+#31145
+`8The Emergency Room``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31146
+S
+#31146
+`8Sick Bay``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31147
+D2
+~
+~
+0 0 31145
+S
+#31147
+`8Sick Bay``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31148
+D2
+~
+~
+0 0 31146
+S
+#31148
+`8Sick Call``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31114
+D3
+~
+~
+0 0 31147
+S
+#31149
+`7East Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31150
+D3
+~
+~
+0 0 31121
+S
+#31150
+`7East Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31151
+D3
+~
+~
+0 0 31149
+S
+#31151
+`7East Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31152
+D3
+~
+~
+0 0 31150
+S
+#31152
+`7East Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31153
+D3
+~
+~
+0 0 31151
+S
+#31153
+`7Southern Corner of Blood and Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31155
+D1
+~
+~
+0 0 31154
+D2
+~
+~
+0 0 31195
+D3
+~
+~
+0 0 31152
+S
+#31154
+`8The Armory``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31153
+S
+#31155
+`7South Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31156
+D2
+~
+~
+0 0 31153
+S
+#31156
+`7South Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31157
+D2
+~
+~
+0 0 31155
+S
+#31157
+`7South Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31158
+D2
+~
+~
+0 0 31156
+S
+#31158
+`7South Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31159
+D2
+~
+~
+0 0 31157
+S
+#31159
+`7The Eastern Pillar of Arkgoth``~
+As you look up, you cannot see any end to the pillar, it just keeps on
+going up into the heavens.  The pillars hum ever so slightly and are warm to
+the touch.  Small notices are posted around the pillar, as they adorn all
+the pillars.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31160
+D1
+~
+~
+ABM 0 31196
+D2
+~
+~
+0 0 31158
+D3
+~
+~
+0 0 31197
+S
+#31160
+`7North Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31161
+D2
+~
+~
+0 0 31159
+S
+#31161
+`7North Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31162
+D2
+~
+~
+0 0 31160
+S
+#31162
+`7North Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31163
+D2
+~
+~
+0 0 31161
+S
+#31163
+`7North Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31164
+D2
+~
+~
+0 0 31162
+S
+#31164
+`7Northern Corner of Honor and Taelin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31204
+D1
+~
+~
+0 0 31203
+D2
+~
+~
+0 0 31163
+D3
+~
+~
+0 0 31165
+S
+#31165
+`7East Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31164
+D3
+~
+~
+0 0 31166
+S
+#31166
+`7East Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31165
+D3
+~
+~
+0 0 31167
+S
+#31167
+`7East Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31166
+D3
+~
+~
+0 0 31168
+S
+#31168
+`7East Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31167
+D3
+~
+~
+0 0 31111
+S
+#31169
+`7West Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31111
+D3
+~
+~
+0 0 31170
+S
+#31170
+`7West Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31169
+D3
+~
+~
+0 0 31171
+S
+#31171
+`7West Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31170
+D3
+~
+~
+0 0 31172
+S
+#31172
+`7West Honor``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31171
+D3
+~
+~
+0 0 31173
+S
+#31173
+`7Northern Corner of Honor and Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31192
+D1
+~
+~
+0 0 31172
+D2
+~
+~
+0 0 31174
+D3
+~
+~
+0 0 31191
+S
+#31174
+`7North Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31173
+D2
+~
+~
+0 0 31175
+S
+#31175
+`7North Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31174
+D2
+~
+~
+0 0 31176
+S
+#31176
+`7North Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31175
+D2
+~
+~
+0 0 31177
+S
+#31177
+`7North Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31176
+D2
+~
+~
+0 0 31178
+S
+#31178
+`7The Western Pillar of Arkgoth``~
+As you look up, you cannot see any end to the pillar, it just keeps on
+going up into the heavens.  The pillars hum ever so slightly and are warm to
+the touch.  Small notices are posted around the pillar, as they adorn all
+the pillars.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31177
+D1
+~
+~
+0 0 31193
+D2
+~
+~
+0 0 31179
+D3
+~
+~
+0 0 31194
+S
+#31179
+`7South Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31178
+D2
+~
+~
+0 0 31180
+S
+#31180
+`7South Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31179
+D2
+~
+~
+0 0 31181
+S
+#31181
+`7South Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31180
+D2
+~
+~
+0 0 31182
+S
+#31182
+`7South Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31181
+D2
+~
+~
+0 0 31183
+S
+#31183
+`7Southern Corner of Blood and Alendin``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 31182
+D1
+~
+~
+0 0 31184
+D2
+~
+~
+0 0 31188
+D3
+~
+~
+0 0 31189
+S
+#31184
+`7West Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31185
+D3
+~
+~
+0 0 31183
+S
+#31185
+`7West Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31186
+D3
+~
+~
+0 0 31184
+S
+#31186
+`7West Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31187
+D3
+~
+~
+0 0 31185
+S
+#31187
+`7West Blood``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31121
+D3
+~
+~
+0 0 31186
+S
+#31188
+`8Exploding Sticks``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31183
+S
+#31189
+`8The Battlemages Guildroad``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31183
+D4
+~
+~
+0 0 31214
+S
+#31191
+`8Meat Shields, Inc.``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31173
+S
+#31192
+`8The Rolling Barrel``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31173
+S
+#31193
+~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 31178
+S
+#31194
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31178
+S
+#31195
+`8The Outfitters``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31153
+S
+#31196
+`8The Fall-Back``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31198
+D3
+~
+~
+ABM 0 31159
+S
+#31197
+~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31159
+S
+#31198
+`8The Fall-Back``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31199
+D3
+~
+~
+0 0 31196
+S
+#31199
+`8The Fall-Back``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31200
+D3
+~
+~
+0 0 31198
+S
+#31200
+`8The Fall-Back``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31199
+D5
+~
+~
+ABM 0 31201
+S
+#31201
+`8The Shelter``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31133
+D4
+~
+~
+ABM 0 31200
+S
+#31203
+`8The Beserkers Guildroad``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31998
+D3
+~
+~
+0 0 31164
+S
+#31204
+`8The Stables``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31164
+S
+#31205
+`2Arkgothian Gardens``~
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 31212
+D3
+~
+~
+0 0 31116
+S
+#31206
+`2The Front Lawn``~
+~
+~
+0 0 0 3
+D1
+~
+wall~
+ABC 31100 31116
+D3
+~
+~
+0 0 31207
+S
+#31207
+`8The Main Hall``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31208
+D1
+~
+~
+0 0 31206
+D2
+~
+~
+0 0 31210
+S
+#31208
+`8The Kitchen``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31207
+D4
+~
+~
+0 0 31209
+S
+#31209
+`8Servant's Quarters``~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 31208
+S
+#31210
+`8The Parlor``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31207
+D4
+~
+~
+0 0 31211
+S
+#31211
+`8The Master Bedroom``~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 31210
+S
+#31212
+`8The Shrine of Arkgoth``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31213
+D3
+~
+~
+0 0 31205
+S
+#31213
+`8The Registrar``~
+~
+~
+0 1048576 0 0
+D2
+~
+~
+0 0 31212
+S
+#31214
+`8The Watchtower``~
+~
+~
+0 0 0 0
+D4
+~
+~
+0 0 31215
+D5
+~
+~
+0 0 31189
+S
+#31215
+`8The Watchtower``~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 31214
+S
+#31296
+`8The Back Room``~
+~
+~
+0 830996736 0 0
+D1
+~
+sliding wall~
+ABM 0 31297
+S
+#31297
+`8The Bar``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31298
+D3
+~
+sliding wall~
+ABM 0 31296
+S
+#31298
+`8The Dancing Bard``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 31297
+D1
+~
+~
+0 0 31299
+S
+#31299
+`8The Entrance to the Dancing Bard``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 31117
+D3
+~
+~
+0 0 31298
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+O 0 31100 0 31206
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

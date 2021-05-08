@@ -1,0 +1,3987 @@
+#AREADATA
+Name Menasette~
+Pref ~
+Builders Raki~
+VNUMs 32500 32699
+Max_Bastions 0
+Credits ( All ) Raki     Menasette~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#32500
+gate guard gateguard~
+a gateguard~
+A large human gate guard is here not slacking off.
+~
+~
+human~
+ABTe ACG DF 0 0 0
+50 30 1d1+3999 0d0+0 4d5+15 punch
+-21 -21 -21 -5
+CDEFIJKNTXY A 0 0
+stand stand male none~
+50
+AHMV ABCDEFGHIJK medium 0
+#32501
+city gate citygate~
+a city guard~
+A city guard is here checking people's behavior.
+~
+~
+human~
+ABT AC D 0 0 0
+50 30 1d1+2999 0d0+0 5d5+15 punch
+-21 -21 -21 -9
+CEJ A 0 0
+stand stand none none~
+30
+AHMV ABCDEFGHIJK medium 0
+#32502
+gator illusion~
+an illusionary gator~
+A ghostly aligator prowls the waters.
+~
+You can see right through it!
+~
+lizard~
+Ae A 0 0 0 0
+15 10 1d1+399 0d0+0 3d3+2 bite
+0 0 0 10
+0 R L IJ
+stand stand none none~
+0
+AGXc ACDEFHKLQ medium 0
+#32503
+piranha~
+a piranha~
+A small fish with a red belly swims here.
+~
+~
+lizard~
+ABFHe A 0 0 0 0
+15 9 1d1+299 0d0+0 3d3+5 chomp
+4 4 4 4
+0 R L IJ
+stand stand none none~
+0
+AGXc ACDEFHKLQ medium 0
+#32504
+trainer old crusader~
+an old crusader~
+A retired old Crusader is here teaching and training the ways of combat.
+~
+This is an elderly giant and quite the gentleman.  He wears no armor, no
+protection and carries but a light sword.  However he moves and speaks with
+a confidence gained through many years of combat.  
+~
+storm~
+ABJKLbe A 0 0 750 0
+60 50 9d100+10000 0d0+0 50d1+35 divine
+-30 -30 -30 -30
+CJ ABNQ DJ PX
+rest rest male none~
+0
+AHMV ABCDEFGHIJK huge 0
+#32505
+shop mack herb elf~
+Mack the smoker~
+A tall elf is sitting behind the counter.
+~
+He is humming some strange slow song and his eyes are red and narrow.
+~
+elf~
+AB A JP 0 750 0
+60 60 100d100+10000 0d0+0 10d6+20 wrath
+-40 -40 -40 -30
+0 A B Z
+stand stand none none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#32506
+Vincent gnome shop~
+Vincent the adventurer~
+A short beardless gnome stands here helping a customer.
+~
+~
+gnome~
+AB A J 0 0 0
+60 60 100d100+10000 0d0+0 10d5+25 punch
+-40 -40 -40 -30
+0 A 0 BP
+stand stand none none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#32507
+Kilroy ogre shop~
+Kilroy the Forge Master~
+Kilroy is here hunched over his forge uncomfortably.
+~
+~
+human~
+AB A 0 0 750 0
+60 60 100d100+10000 0d0+0 10d5+25 crush
+-40 -40 -40 -30
+0 A 0 0
+stand stand none none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#32508
+Nancy chop bird~
+Nancy the master of the needle~
+An elderly woman is sitting behind a sewing machine.
+~
+~
+avian~
+AB A T 0 750 0
+60 60 100d100+10000 0d0+0 10d5+25 slap
+-40 -40 -40 -30
+0 A 0 b
+stand stand female none~
+100000
+AHMVW ABCDEFGHIJKP medium 0
+#32509
+Brandon jewler shop~
+Brandon the Jewl Master~
+Brandon the shortest elf ever, is here selling rings 'n things.
+~
+~
+elf~
+AB A JP 0 750 0
+60 60 100d100+10000 0d0+0 10d5+25 punch
+-40 -40 -40 -30
+0 A B Z
+stand stand male none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#32510
+scribe Jill human~
+Jill the scribe~
+A young woman is here scribbeling a scroll.
+~
+~
+human~
+AB A 0 0 750 0
+60 60 100d100+10000 0d0+0 10d5+25 slap
+-40 -40 -40 -30
+0 A 0 0
+stand stand female none~
+50000
+AHMV ABCDEFGHIJK medium 0
+#32511
+Tavern Michael~
+Michael the tavern master~
+Michael is here serving drinks.
+~
+~
+human~
+AB A 0 0 750 0
+60 50 100d100+10000 0d0+0 10d5+25 none
+-40 -40 -40 -30
+0 A 0 0
+stand stand none none~
+5000
+AHMV ABCDEFGHIJK medium 0
+#32512
+Sally potion brewer~
+Sally the potion brewer~
+Sally is here brewing a potion.
+~
+~
+faerie~
+AB A PT 0 750 0
+60 60 100d100+10000 0d0+0 10d50+25 grep
+-40 -40 -40 -30
+0 0 0 0
+stand stand female none~
+100000
+AHMV ABCDEFGHIJK medium 0
+#32513
+jail guard~
+the Menasette Jail Guard~
+A large Burly man is here guarding the Jail.
+~
+~
+human~
+ABTVe A DFV K 0 0
+50 55 100d10+8000 0d0+0 3d10+20 slash
+-21 -21 -21 -9
+0 AB 0 0
+stand stand female none~
+3000
+AHMV ABCDEFGHIJK medium 0
+#32514
+fat cow bettsy V3jKi6~
+a fat cow~
+A very large cow is here mooing sadly.
+~
+~
+unique~
+AB A 0 0 0 0
+1 0 1d1+1 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none none~
+0
+0 0 medium 0
+#32515
+Jack butcher~
+Jack the Butcher~
+A burley blood soaked man is here.
+~
+~
+human~
+AB A 0 0 750 0
+60 60 100d100+10000 0d0+0 10d5+25 cleave
+-40 -40 -40 -30
+0 A 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GREET 32515 100~
+#32516
+healer~
+the town healer~
+The town healer is here treating people's injuries.
+~
+~
+elf~
+ABQae A JPV 0 750 0
+60 60 100d100+1000 0d0+0 10d5+25 divine
+-40 -40 -40 -30
+HX A B Z
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32517
+civilian~
+a citizen~
+A citizen is walking the streets of Menasette.
+~
+One of Menasette's many citizens he looks like he has no cares in the
+world.  
+~
+elf~
+A A JP 0 750 0
+25 15 10d4+750 0d0+0 4d4+4 punch
+-5 -5 -5 1
+0 0 B Z
+stand stand male none~
+45
+AHMV ABCDEFGHIJK medium 0
+P GRALL 32517 35~
+#32518
+city soldier~
+a city soldier~
+A beefy storm giant is patrolling the city.
+~
+He is very large and rather narrow minded.  He patrols the city with
+every intent of keeping the streets safe but cant help but slack off
+sometimes.  
+~
+storm~
+AT A DFNV 0 750 0
+35 30 20d20+1600 0d0+0 20d3+10 blast
+-12 -12 -12 0
+CHJX 0 DJ PX
+stand stand male none~
+10
+AHMV ABCDEFGHIJK medium 0
+P GREET 32518 20~
+#32519
+Adhiki monk guard~
+Adhiki the Monk Hero~
+Adhiki the hero is keeping the streets safe.
+~
+She has shaven her head, and trained her body.  Adhiki is the embodiment
+of perfection, her body and her grace are both indication of a lifetime
+spent training for combat.  
+~
+half-elf~
+AGTd A J 0 750 0
+50 80 1d1+949 0d0+0 5d10+25 dragonpunch
+-18 -18 -18 -14
+EFHIJKNTXY AB B 0
+stand stand female none~
+100
+AHMV ABCDEFGHIJK medium 0
+P FIGHT 32519 30~
+#32613
+The Menassete Town Registar~
+the town cleric~
+The Menassete town cleric is here doing paperwork.
+~
+This is the record center for all of Menasette, there are pages and
+workers running around like a chickens with their heads cut off.  There is a
+central desk at which there is a sign to form one line but no one is in it. 
+You wonder how they can be so bust with no one here.  
+~
+human~
+AL A 0 0 750 0
+60 60 100d100+1000 0d0+0 10d5+25 punch
+0 0 0 0
+0 Da 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#32617
+governor Kline~
+Governor Kline~
+The governor is here looking official.
+~
+~
+human~
+ABe A DFHNV K 750 0
+50 45 50d10+3000 0d0+0 10d5+25 punch
+-21 -21 -21 -9
+0 A 0 0
+stand stand male none~
+300
+AHMV ABCDEFGHIJK medium 0
+#32699
+bank teller~
+a bank teller~
+A tall thin man is here counting some coins.
+~
+~
+human~
+ABLe A 0 0 0 0
+60 100 100d100+10000 0d0+0 10d10+5 punch
+-2 -2 -2 -2
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#32500
+Standard sword~
+a standard issue sword~
+A long shiny sword is here.~
+steel~
+weapon 0 AN
+sword 5 5 slash D
+50 15 100 P
+F
+S 99 1 0
+F
+A 19 5 0
+F
+A 18 5 0
+#32501
+standard sword~
+a standard issue shield~
+A fat heavy shield is here.~
+steel~
+armor 0 AJ
+5 5 5 5 0
+50 0 100 P
+F
+A 24 -1 0
+F
+A 17 -5 0
+#32502
+standard armor breastplate~
+a standard breastplate~
+A heavy plate armor is here.~
+steel~
+armor 0 AD
+5 5 5 5 0
+50 15 100 P
+F
+A 13 10 0
+F
+A 24 -1 0
+#32503
+gator skin leg guards~
+gator skined leg guards~
+Some gator scales are piled here.~
+skin~
+armor U AF
+9 9 9 0 0
+15 5 0 P
+F
+A 21 -1 0
+#32504
+gator skin arm guards~
+gator skined arm guards~
+Some gator scales are piled here.~
+skin~
+armor U AI
+9 9 9 0 0
+0 5 0 P
+F
+A 20 -1 0
+#32505
+gator skin gloves~
+gator skined gloves~
+Some gator scales are piled here.~
+skin~
+armor U AH
+9 9 9 0 0
+15 5 0 P
+F
+A 22 -1 0
+#32506
+gator skin boots~
+gator skined boots~
+Some gator scales are piled here.~
+skin~
+armor U AG
+9 9 9 0 0
+15 5 0 P
+F
+A 22 -1 0
+#32507
+gator skin vest~
+gator skined vest~
+Some gator scales are piled here.~
+skin~
+armor U AD
+9 9 9 0 0
+15 5 0 P
+F
+A 21 -1 0
+#32508
+gator skin hat~
+gator skined hat~
+Some gator scales are piled here.~
+skin~
+armor U AE
+9 9 9 0 0
+15 5 0 P
+F
+A 20 -1 0
+#32509
+jaw piranha bone~
+piranha's jaw bone~
+A short piece of bone with teeth still in it is here.~
+tooth~
+weapon U AN
+exotic 5 6 chomp 0
+15 5 0 P
+F
+A 18 -2 0
+F
+A 19 4 0
+#32510
+fountian~
+The fountian in Menasette~
+A large ornate stone fountain gushes forth clean water.~
+stone~
+fountain 0 0
+-1 -1 'water' 0 0
+0 10000 0 P
+#32511
+tobacco~
+some tobacco~
+A pouch of tobacco~
+plant~
+herb 0 A
+100 'reserved' 'reserved' 'reserved' 'reserved'
+5 0 100 P
+#32512
+green herb~
+a green herb~
+Some green leaves~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'slow' 'slow'
+10 0 18000 P
+#32513
+brown herb~
+a dried herb~
+A long dried herb.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'poison' 'flesh armor'
+15 0 7500 P
+#32514
+purple herb~
+a glowing purple herb~
+A short stemmed purple herb is glowing here.~
+unknown~
+herb A A
+2 'reserved' 'dispel magic' 'dispel magic' 'sanctuary'
+20 0 20000 P
+#32515
+red herb~
+a red herb~
+A healthy red herb.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'frenzy' 'invigorate'
+25 0 12000 P
+#32516
+blue herb~
+a blue herb~
+An irridecent blue leaf.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'heal' 'cure serious'
+30 0 9000 P
+#32517
+pink herb~
+a pink herb~
+A set of beautiful pink leaves.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'bless' 'bless'
+35 0 5000 P
+#32518
+yellow herb~
+a yellow herb~
+A sickly yellow herb is here.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'plague' 'stone skin'
+40 0 12000 P
+#32519
+magenta herb~
+a magenta herb~
+A bright magenta herb is here.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'wrath' 'fly'
+45 0 24000 P
+#32520
+white herb~
+a white herb~
+A fresh picked white leaf is here.~
+plant~
+herb 0 A
+24 'reserved' 'reserved' 'haste' 'haste'
+50 0 120000 P
+#32521
+boat~
+a one person boat~
+A small one person boat is here waiting to be taken on an adventure.~
+aluminum~
+boat 0 A
+0 0 0 0 0
+1 20 600 P
+#32522
+a travel bag~
+a travel bag~
+A small bag that probably wont hold much~
+cloth~
+container 0 A
+100 A 0 100 50
+1 5 250 P
+#32523
+torch~
+a torch~
+A torch is laying here extinguished.~
+light~
+light 0 A
+0 0 100 0 0
+1 1 100 P
+#32524
+walking stick~
+a walking stick~
+A short metal walking stick.~
+steel~
+staff 0 0
+15 20 20 'refresh' 0
+15 0 2000 P
+F
+A 14 50 0
+F
+A 36 10 0
+#32525
+steel shield~
+a steel shield~
+A finely crafted steel shield is here.~
+shield~
+armor I AJ
+10 10 10 8 0
+25 10 4000 P
+F
+S 97 3 0
+#32526
+a long titanium glaive~
+A titanium glaive~
+A long gliave that glows with a blue hew~
+titanium~
+weapon 0 AN
+polearm 6 6 slash 0
+30 30 10000 P
+F
+S 501 3 0
+F
+A 2 -1 0
+F
+A 19 2 0
+F
+A 18 2 0
+#32527
+tin leggings~
+some tin leggings~
+A beautiful set of leggings made from tin.~
+tin~
+armor 0 AF
+5 5 5 5 0
+15 5 3500 P
+F
+A 2 3 0
+#32528
+Kilroy's specialty~
+Kilroy's Specialty~
+Some gloves plated many times with many metals.~
+Mixed~
+armor ABM AH
+17 17 17 15 0
+50 45 50000 P
+F
+A 19 2 0
+F
+A 18 2 0
+F
+S 109 -5 0
+#32529
+plush sattin sleeves~
+some plush sattin sleeves~
+Some sleeves without a shirt are here.~
+cloth~
+clothing 0 AI
+0 0 0 0 0
+15 3 3500 P
+F
+A 21 -2 0
+F
+A 18 1 0
+F
+A 17 -5 0
+#32530
+fancy hat~
+a fancy hat~
+A large hat made for special occasions.~
+cloth~
+clothing 0 AE
+0 0 0 0 0
+20 5 4000 P
+F
+A 19 2 0
+F
+A 18 2 0
+F
+A 3 2 0
+#32531
+black cloak~
+a black cloak~
+A long black piece of cloth that has been well tailored.~
+cloth~
+clothing 0 AC
+0 0 0 0 0
+30 10 5000 P
+F
+A 22 -4 0
+F
+A 20 -4 0
+F
+A 17 -10 0
+#32532
+white cloak~
+a white cloak~
+A long white piece of cloth that has been well tailored.~
+cloth~
+trash 0 AC
+0 0 0 0 0
+30 10 5000 P
+F
+A 17 -10 0
+F
+A 19 2 0
+F
+A 18 2 0
+#32533
+empty ring~
+a ring~
+A small ring with an empty space for a jewl~
+gold~
+armor e AB
+3 3 3 3 0
+15 1 3000 P
+#32534
+a necklace~
+a necklace~
+A gold necklace with a space for a jewl.~
+gold~
+armor e AC
+3 3 3 3 0
+15 1 3000 P
+#32535
+opal sphere~
+an opal sphere~
+A small gem made of opal.~
+opal~
+socket 0 A
+A 0 0 0 0
+15 0 5000 P
+F
+A 19 2 0
+#32536
+onyx sphere~
+an onyx sphere~
+A small gem made of onyx.~
+onyx~
+socket 0 A
+A 0 0 0 0
+15 0 5000 P
+F
+A 18 2 0
+#32537
+pearl sphere~
+an pearl sphere~
+A small gem made of pearl.~
+pearl~
+socket 0 A
+A 0 0 0 0
+15 0 5000 P
+F
+A 19 1 0
+F
+A 18 1 0
+#32538
+sapphire jewl~
+a brilliant sapphire~
+A small sapphire glistens in the light.~
+sapphire~
+socket 0 A
+A 0 0 0 0
+5 2 1000 P
+F
+A 17 -1 0
+#32539
+canteen~
+a canteen~
+A small canteen is here.~
+leather~
+drink 0 A
+40 40 'water' 0 0
+1 7 300 P
+#32540
+flying scroll~
+a flying scroll~
+A scroll is here with wings drawn on it.~
+paper~
+scroll 0 AO
+25 'fly' '' '' ''
+25 1 3500 P
+#32541
+protection scroll ultimate~
+a scroll of ultimate protection~
+A scroll with a drawing of armor.~
+paper~
+scroll 0 AO
+20 'flesh armor' 'shield' 'stone skin' ''
+20 1 20000 P
+#32542
+fire scroll~
+a fire scroll~
+A scroll that burns with cold passion~
+paper~
+scroll 0 AO
+1 'fireball' '' '' ''
+35 1 5500 P
+#32543
+feet restore scroll~
+restorative scroll~
+A scroll with a picture of feet and a body.~
+paper~
+scroll 0 AO
+40 'cure serious' 'invigorate' '' ''
+40 1 10000 P
+#32544
+bottle beer~
+a bottle of beer~
+A bottle of beer~
+glass~
+drink 0 A
+3 3 'beer' 0 0
+1 1 100 P
+#32545
+bottle wine~
+a bottle of wine~
+A bottle of wine~
+glass~
+drink 0 A
+6 6 'rose wine' 0 0
+1 1 1000 P
+#32546
+bottle champagne~
+a bottle of champagne~
+A bottle of champagne~
+glass~
+drink 0 A
+6 6 'champagne' 0 0
+1 1 1000 P
+#32547
+bottle icewine~
+a bottle of icewine~
+A bottle of icewine~
+glass~
+drink 0 A
+6 6 'icewine' 0 0
+1 1 3000 P
+#32548
+bottle absinthe~
+a bottle of absinthe~
+A bottle of absinthe~
+glass~
+drink 0 A
+6 6 'absinthe' 0 0
+10 1 7500 P
+#32549
+potion pass door~
+a potion of pass door~
+A potion shimmers in its own translucense.~
+potion~
+potion 0 AO
+10 'pass door' '' '' ''
+25 2 2500 P
+#32550
+potion wings flight~
+a potion of flight~
+A potion is hovering off the ground~
+potion~
+potion 0 AO
+15 'fly' 'refresh' 'refresh' 'refresh'
+20 2 3500 P
+#32551
+potion recall~
+a potion of recall~
+A potion that will take you home.~
+potion~
+potion 0 AO
+50 'word of recall' '' '' ''
+10 2 3000 P
+#32552
+potion detect~
+potion of detect invisability~
+A potion with an all seeing eye on the bottle.~
+potion~
+potion 0 AO
+15 'detect invis' '' '' ''
+30 2 4000 P
+#32553
+potion invis invisability~
+potion of invisability~
+A potion with a blind eye on the bottle.~
+potion~
+potion 0 AO
+15 'invisibility' '' '' ''
+30 2 5000 P
+#32554
+temple pit~
+the temple pit~
+The pit of offering of the temple.~
+stone~
+container OTYc P
+-1 0 0 -1 0
+0 0 0 P
+#32555
+spear goldcraft~
+a spear made of solid gold~
+A brilliant gold spear lies on the ground.~
+gold~
+weapon BHIKLe ANS
+spear 8 6 electrokinesis G
+50 18 100 P
+F
+A 18 3 0
+F
+A 19 2 0
+P FIGHT 32555 5~
+#32699
+no name~
+(no short description)~
+(no description)~
+unknown~
+scroll 0 0
+0 '' '' '' ''
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#32500
+`7North Gate of Menasette``~
+You have entered the north gate of Menasette.  There is not much to see,
+just walls and a gate and lots of guards.  As you approach one checks you
+into the city quickly and then moves on to someone else.  East and west are
+both the security check points for the city.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 30800
+D1
+~
+~
+0 0 32501
+D3
+~
+~
+0 0 32505
+S
+#32501
+`7The eastern security checkpoint at north gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the south.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32502
+D3
+~
+~
+0 0 32500
+S
+#32502
+`7The final checkpoint at north gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32501
+D3
+~
+~
+0 0 32503
+S
+#32503
+`7Northern Commons of Menasette``~
+This is the main square in the north section of the town.  Many people of
+many different races wander here.  Merchants, soldiers and civilians simply
+here to get water are all in abundance and mingle well with the crowds of
+people coming in from the gate to the north.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32502
+D2
+~
+~
+0 0 32506
+D3
+~
+~
+0 0 32504
+S
+#32504
+`7The final checkpoint at north gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32505
+D1
+~
+~
+0 0 32503
+S
+#32505
+`7The western security checkpoint at north gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the south.  Times.  There is
+another security station to the south.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32500
+D2
+~
+~
+0 0 32504
+S
+#32506
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32503
+D1
+~
+~
+0 0 32507
+D3
+~
+~
+0 0 32508
+S
+#32507
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32595
+D3
+~
+~
+0 0 32506
+S
+#32508
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32506
+D3
+~
+~
+0 0 32509
+S
+#32509
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32508
+D2
+~
+~
+0 0 32511
+D3
+~
+~
+0 0 32510
+S
+#32510
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32509
+D2
+~
+~
+0 0 32641
+S
+#32511
+`7A dark ally in the gentelmen's district``~
+The buildings on either side of the ally stand very tall and block out
+most of the light.  This ally is very dark but still as well kept as the
+rest of the city.  There is hardly any refuse on the ground, and what is
+there is veiled almost entirely in shadow.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32509
+D1
+~
+~
+0 0 32512
+S
+#32512
+`7A dark ally in the gentelmen's district``~
+The buildings on either side of the ally stand very tall and block out
+most of the light.  This ally is very dark but still as well kept as the
+rest of the city.  There is hardly any refuse on the ground, and what is
+there is veiled almost entirely in shadow.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32513
+D3
+~
+~
+0 0 32511
+S
+#32513
+`7A dark ally in the gentelmen's district``~
+The buildings on either side of the ally stand very tall and block out
+most of the light.  This ally is very dark but still as well kept as the
+rest of the city.  There is hardly any refuse on the ground, and what is
+there is veiled almost entirely in shadow.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32512
+D2
+~
+~
+0 0 32514
+S
+#32514
+`7Main street in Menasette``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32513
+D1
+~
+~
+0 0 32537
+D3
+~
+~
+0 0 32515
+S
+#32515
+`7Main street in Menasette``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32514
+D2
+~
+~
+0 0 32556
+D3
+~
+~
+0 0 32516
+S
+#32516
+`7Main street in Menasette before the draw bridge``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32642
+D1
+~
+~
+0 0 32515
+D2
+~
+~
+0 0 32534
+D3
+~
+~
+0 0 32517
+S
+#32517
+`7The draw bridge across the moat``~
+You stand on a long heavy foot bridge across the moat.  It is made of
+wood and is in very good repair.  To the west you see the palace gates while
+to the east lays the main road through Menasette.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32518
+D1
+~
+~
+0 0 32516
+D2
+~
+~
+0 0 32526
+S
+#32518
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32519
+D2
+~
+~
+0 0 32517
+S
+#32519
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32520
+D2
+~
+~
+0 0 32518
+S
+#32520
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32521
+D2
+~
+~
+0 0 32519
+S
+#32521
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32522
+D2
+~
+~
+0 0 32520
+S
+#32522
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D2
+~
+~
+0 0 32521
+D3
+~
+~
+0 0 32523
+S
+#32523
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32522
+D3
+~
+~
+0 0 32524
+S
+#32524
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32523
+D3
+~
+~
+0 0 32525
+S
+#32525
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32524
+D3
+~
+~
+0 0 32525
+S
+#32526
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32517
+D2
+~
+~
+0 0 32527
+S
+#32527
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32526
+D2
+~
+~
+0 0 32528
+S
+#32528
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32527
+D2
+~
+~
+0 0 32529
+S
+#32529
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32528
+D2
+~
+~
+0 0 32530
+S
+#32530
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  
+~
+~
+0 0 0 7
+D0
+~
+~
+0 0 32529
+D3
+~
+~
+0 0 32531
+S
+#32531
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32530
+D3
+~
+~
+0 0 32532
+S
+#32532
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32531
+D3
+~
+~
+0 0 32533
+S
+#32533
+`4The moat``~
+You are on a deep dark moat.  This is meant to keep invaders out of the
+castle and away from the king but is has become rather murky and stale over
+the years.  It smells like fish and you can only imagine what is lurking in
+here.  Your arms are getting tired of keeping you afloat, maybe it is time
+to turn back.  
+~
+~
+0 0 0 7
+D1
+~
+~
+0 0 32532
+D3
+~
+~
+0 0 32533
+S
+#32534
+`7The road through the noble district.``~
+The houses here are more spaced apart, and resemble manors rather than
+simple homes.  The nobility of Menasette resides here, and it is obvious
+that they honor where they live as much as life itself.  Each Residence has
+a statue of its lord and lady in the garden and each garden properly trimmed
+with excessive care.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32516
+D2
+~
+~
+0 0 32535
+S
+#32535
+`7The road through the noble district.``~
+The houses here are more spaced apart, and resemble manors rather than
+simple homes.  The nobility of Menasette resides here, and it is obvious
+that they honor where they live as much as life itself.  Each Residence has
+a statue of its lord and lady in the garden and each garden properly trimmed
+with excessive care.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32534
+D1
+~
+~
+0 0 32536
+S
+#32536
+`7The road through the noble district.``~
+The houses here are more spaced apart, and resemble manors rather than
+simple homes.  The nobility of Menasette resides here, and it is obvious
+that they honor where they live as much as life itself.  Each Residence has
+a statue of its lord and lady in the garden and each garden properly trimmed
+with excessive care.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32543
+D3
+~
+~
+0 0 32535
+S
+#32537
+`7West of the main square``~
+About the grand square there are many places for people to disperse, this
+is one of them.  Though the intentions where good it hardly worked.  People
+are packed close together and there is hardly space to walk amongst them
+without stepping on someone or their groceries.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32558
+D1
+~
+~
+0 0 32538
+D2
+~
+~
+0 0 32559
+D3
+~
+~
+0 0 32514
+S
+#32538
+`7Center of Menasette``~
+This is the grand center of town, densely populated by all manors of
+species and trade.  People rest all over the place, both on and close to the
+fountain.  The air is abuzz with hundreds of voices each trying to out shout
+the last.  Providing training and practicing of skills is a retired crusader
+sitting right next to a sign that says "No Bathing".  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32539
+D1
+~
+~
+0 0 32541
+D2
+~
+~
+0 0 32542
+D3
+~
+~
+0 0 32537
+S
+#32539
+`7North of the center of town``~
+About the grand square there are many places for people to disperse, this
+is one of them.  Though the intentions where good it hardly worked.  People
+are packed close together and there is hardly space to walk amongst them
+without stepping on someone or their groceries.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32540
+D1
+~
+~
+0 0 32557
+D2
+~
+~
+0 0 32538
+D3
+~
+~
+0 0 32558
+S
+#32540
+`7The Holy Temple Of Menasette``~
+You stand in the holy temple of Menasette.  There is no noise here
+despite the obnoxious noise outside.  A few priests say their prayers and
+the town healer makes himself busy with the various people that come to him.
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32539
+D5
+~
+~
+0 0 229
+S
+#32541
+`7East of the main square``~
+About the grand square there are many places for people to disperse, this
+is one of them.  Though the intentions where good it hardly worked.  People
+are packed close together and there is hardly space to walk amongst them
+without stepping on someone or their groceries.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32557
+D1
+~
+~
+0 0 32561
+D2
+~
+~
+0 0 32560
+D3
+~
+~
+0 0 32538
+S
+#32542
+`7South of the center of town``~
+About the grand square there are many places for people to disperse, this
+is one of them.  Though the intentions where good it hardly worked.  People
+are packed close together and there is hardly space to walk amongst them
+without stepping on someone or their groceries.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32538
+D1
+~
+~
+0 0 32560
+D2
+~
+~
+0 0 32555
+D3
+~
+~
+0 0 32559
+S
+#32543
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32536
+D1
+~
+~
+0 0 32554
+D2
+~
+~
+0 0 32544
+S
+#32544
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32543
+D2
+~
+~
+0 0 32545
+S
+#32545
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32544
+D2
+~
+~
+0 0 32546
+S
+#32546
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32545
+D1
+~
+~
+0 0 32547
+S
+#32547
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32548
+D3
+~
+~
+0 0 32546
+S
+#32548
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32549
+D2
+~
+~
+0 0 32699
+D3
+~
+~
+0 0 32547
+S
+#32549
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32550
+D3
+~
+~
+0 0 32548
+S
+#32550
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32551
+D2
+~
+~
+0 0 32549
+S
+#32551
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32552
+D1
+~
+~
+0 0 32631
+D2
+~
+~
+0 0 32550
+D3
+~
+~
+AB 0 32635
+S
+#32552
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32555
+D2
+~
+~
+0 0 32551
+D3
+~
+~
+0 0 32553
+S
+#32553
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32552
+D3
+~
+~
+0 0 32554
+S
+#32554
+`7The circle around the governers manor``~
+This road leads all the way around the governor's manor.  It is the
+property of Menasette and ultimately just on loan while he is in office
+however each governor has taken special care of the estate each making some
+addition and ultimately forming it into the glory you see before you.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32553
+D3
+~
+~
+0 0 32543
+S
+#32555
+`7The road to the governers estate``~
+This road is narrow and not well traveled.  The paving stones are all
+still intact and the sides of the road do not have ruts dug in.  Red brick
+was used to pave this road and distinguishes it from the rest of the roads
+of the city.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32542
+D2
+~
+~
+0 0 32552
+S
+#32556
+`7The smoke shop``~
+On the walls you can see various bottles of herbs, pipes, boxes and
+matches.  They seem to have a good selection of things ranging from the most
+basic to the most expensive.  Exotic herbs and hard to find ones are common
+place here and can be yours if the price is right.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32515
+S
+#32557
+`7Vincents Supplies``~
+This tight shop is the home of Vincent.  Here you can find everything an
+adventurer needs to get his feet out the door!  There is a small raft on the
+wall and an assortment of walking sticks and backpacks.  Both west and south
+lead back to the common place.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32541
+D3
+~
+~
+0 0 32539
+S
+#32558
+`7Kilroy's Forge``~
+Before you is one of the funniest sights you have ever seen.  The forge
+is incredibly small but the forge master is a hunched over ogre.  He hardly
+fits in the room much less able to work efficiently.  None the less there
+are a few pieces of armor in the showcase and a few more on sale.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32539
+D2
+~
+~
+0 0 32537
+S
+#32559
+`7Nancy's Needles``~
+You are now in a sewing shop.  There are many racks of clothes available
+and priced from a few gold coins to all the way to numbers so high you don't
+know what they are.  The clothes them selves are quite well made, double
+hemmed and stitched perfectly, though only a few would be suitable for an
+adventurer.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32537
+D1
+~
+~
+0 0 32542
+S
+#32560
+`7Brandon's Jewls``~
+As you walk in the store you are almost blinded by the light shining off
+the array of gemstones in the cases.  There are rings and necklaces of all
+kinds of metal and size scattered around the shop.  There is also a case of
+jewels that have not yet met the jewelry in which they will reside.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32541
+D3
+~
+~
+0 0 32542
+S
+#32561
+`7Main street in Menasette``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32562
+D3
+~
+~
+0 0 32541
+S
+#32562
+`7Main street in Menasette``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32563
+D3
+~
+~
+0 0 32561
+S
+#32563
+`7Main street in Menasette``~
+You stand on the main road the city.  The buildings all around are of
+mixed points and purposes.  Some are shops while others are strictly
+residential and a few are a mix of both.  People are crowding through almost
+elbow to elbow and shoving their ways through the street.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32564
+D3
+~
+~
+0 0 32562
+S
+#32564
+`7East commons of Menasette``~
+This is the main square in the east section of the town.  Many people of
+many different races wander here.  Merchants, soldiers and civilians simply
+here to get water are all in abundance and mingle well with the crowds of
+people coming in from the gate to the north.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32565
+D2
+~
+~
+0 0 32569
+D3
+~
+~
+0 0 32563
+S
+#32565
+`7The final checkpoint at east gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32570
+D1
+~
+~
+0 0 32566
+D2
+~
+~
+0 0 32564
+S
+#32566
+`7The northern security checkpoint at east gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the west.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32567
+D3
+~
+~
+0 0 32565
+S
+#32567
+`7East Gate of Menasette``~
+You have entered the East Gate of Menasette.  There is not much to see,
+just walls and a gate and lots of guards.  As you approach one checks you
+into the city quickly and then moves on to someone else.  East and west are
+both the security check points for the city.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32566
+D2
+~
+~
+0 0 32568
+S
+#32568
+`7The southern security checkpoint at east gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the west.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32567
+D3
+~
+~
+0 0 32569
+S
+#32569
+`7The final checkpoint at east gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32564
+D1
+~
+~
+0 0 32568
+D2
+~
+~
+0 0 32596
+S
+#32570
+`7The main road through the residential district``~
+This road is well worn with tracks of a carriage carven almost all the
+way through the stone.  Foot traffic here is limited to a few sparse
+peasants and an occasional noble on a horse.  There are houses packed
+tightly together leaving no room between for any kind of ally or waste
+disposal.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32571
+D2
+~
+~
+0 0 32565
+S
+#32571
+`7The main road through the residential district``~
+This road is well worn with tracks of a carriage carven almost all the
+way through the stone.  Foot traffic here is limited to a few sparse
+peasants and an occasional noble on a horse.  There are houses packed
+tightly together leaving no room between for any kind of ally or waste
+disposal.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32572
+D1
+~
+~
+0 0 32579
+D2
+~
+~
+0 0 32570
+D3
+~
+~
+0 0 32583
+S
+#32572
+`7The main road through the residential district``~
+This road is well worn with tracks of a carriage carven almost all the
+way through the stone.  Foot traffic here is limited to a few sparse
+peasants and an occasional noble on a horse.  There are houses packed
+tightly together leaving no room between for any kind of ally or waste
+disposal.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32573
+D2
+~
+~
+0 0 32571
+D3
+~
+~
+0 0 32582
+S
+#32573
+`7The main road through the residential district``~
+This road is well worn with tracks of a carriage carven almost all the
+way through the stone.  Foot traffic here is limited to a few sparse
+peasants and an occasional noble on a horse.  There are houses packed
+tightly together leaving no room between for any kind of ally or waste
+disposal.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32574
+D1
+~
+~
+0 0 32575
+D2
+~
+~
+0 0 32572
+D3
+~
+~
+0 0 32581
+S
+#32574
+`7The public Forge of Menasette``~
+This is the forge that is publicly owned and kept up by the city nobles
+and is left for the use of any citizen who is in need.  The tools provided
+are of the heights quality and the fire for the forge has plenty of fuel for
+any who would need it.  In the corner there is a locker that contains all
+kinds of metal but nothing of the quality that you need.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32573
+S
+#32575
+`7An unused side road``~
+This road leads behind the residential district and looks to not have
+been used for some time.  Plants are growing up through the stones in road
+and a few building can be seen to the east, but they look to be unused.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32576
+D2
+~
+~
+0 0 32577
+D3
+~
+~
+0 0 32573
+S
+#32576
+`7An abandoned house``~
+This house seems to have been abandoned a long time ago.  Given the state
+of things and the relics that where left behind, it is likely that this was
+the house the residence of a religious person.  The house is still simply
+decorated and thought there are spider webs and other signs of aging, the
+house is still in good condition.  
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32575
+S
+#32577
+`7An unused side road``~
+This road leads behind the residential district and looks to not have
+been used for some time.  Plants are growing up through the stones in road
+and a few building can be seen to the east, but they look to be unused.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32575
+D1
+~
+~
+0 0 32578
+D2
+~
+~
+0 0 32579
+S
+#32578
+`3A path to an old church``~
+Ahead of you, you see a run down church.  It is hard to believe that
+anyone still goes there but given the state of the rest of the city, it is
+obvious that it has been let to run down on purpose.  Center of the path you
+see a tall and broad figure, apparently standing vigil.  The path itself is
+not all that long and is over grown with weeds and things.  
+~
+~
+0 0 0 2
+D1
+~
+~
+0 0 24000
+D3
+~
+~
+0 0 32577
+S
+#32579
+`7An unused side road``~
+This road leads behind the residential district and looks to not have
+been used for some time.  Plants are growing up through the stones in road
+and a few building can be seen to the east, but they look to be unused.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32577
+D1
+~
+~
+0 0 32580
+D3
+~
+~
+0 0 32571
+S
+#32580
+`7An abandoned house``~
+This house seems to have been abandoned a long time ago.  Given the state
+of things and the relics that where left behind, it is likely that this was
+the house the residence of a religious person.  The house is still simply
+decorated and thought there are spider webs and other signs of aging, the
+house is still in good condition.  
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32579
+S
+#32581
+`7Before the small houses``~
+This side of the road has the larger peasant houses.  They are still
+smaller in size when compaired to those of the nobles but are just as well
+cared for.  The doors and windows are all intact and the structure is
+solidly built out of well polished wood.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32573
+D2
+~
+~
+0 0 32582
+S
+#32582
+`7Before the small houses``~
+This side of the road has the larger peasant houses.  They are still
+smaller in size when compaired to those of the nobles but are just as well
+cared for.  The doors and windows are all intact and the structure is
+solidly built out of well polished wood.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32581
+D1
+~
+~
+0 0 32572
+D2
+~
+~
+0 0 32583
+D3
+~
+~
+0 0 32584
+S
+#32583
+`7Before the small houses``~
+This side of the road has the larger peasant houses.  They are still
+smaller in size when compaired to those of the nobles but are just as well
+cared for.  The doors and windows are all intact and the structure is
+solidly built out of well polished wood.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32582
+D1
+~
+~
+0 0 32571
+S
+#32584
+`7The road to the bar``~
+Not many people here, the road to the bar is one traveled only when you
+have somewhere to go.  The road is well worn and different colored stones
+litter the ground indicating that the road has been repaired many times. 
+The windows of the houses on this street don't even bear a single candle.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32582
+D3
+~
+~
+0 0 32585
+S
+#32585
+`7The road to the bar``~
+Not many people here, the road to the bar is one traveled only when you
+have somewhere to go.  The road is well worn and different colored stones
+litter the ground indicating that the road has been repaired many times. 
+The windows of the houses on this street don't even bear a single candle.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32586
+D1
+~
+~
+0 0 32584
+D2
+~
+~
+0 0 32587
+S
+#32586
+`7The Soldiers Last Wish``~
+This is possibly the most populated place in the city.  Given the empty
+streets outside this was totally unexpected.  There are no empty chairs and
+the lone tavern master is overwhelmed with patrons demanding their drinks. 
+The overwhelming smell of alchaol fills the air and the voices are almost
+impossible to shout over them.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32585
+S
+#32587
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32585
+D1
+~
+~
+0 0 32588
+D2
+~
+~
+0 0 32592
+D3
+~
+~
+0 0 32594
+S
+#32588
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32589
+D3
+~
+~
+0 0 32587
+S
+#32589
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32588
+D2
+~
+~
+0 0 32590
+D3
+~
+~
+0 0 32592
+S
+#32590
+`7A dark ally``~
+The buildings on either side of the ally stand very tall and block out
+most of the light.  This ally is very dark but still as well kept as the
+rest of the city.  There is hardly any refuse on the ground, and what is
+there is veiled almost entirely in sha The buildings on either side of the
+ally stand very tall and block out most of the light.  This ally is very
+dark but still as well kept as the rest of the city.  There is hardly any
+refuse on the ground, and what is there is veiled almost entirely in shadow.
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32589
+D1
+~
+~
+0 0 32591
+S
+#32591
+`7The only scribe in town``~
+This shop is very large and has many desks and chairs.  Each desk has a
+blank sheet of paper and a full jar of ink.  In addition there is a large
+feathered pen on top of each paper.  There is a shelf in the back that has a
+bunch of scrolls all neatly stacked and tied ready for sale.  
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32590
+S
+#32592
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32587
+D1
+~
+~
+0 0 32589
+D3
+~
+~
+0 0 32593
+S
+#32593
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32594
+D1
+~
+~
+0 0 32592
+D3
+~
+~
+0 0 32595
+S
+#32594
+`7Peasant square``~
+This is the central common area for the peasantry of the city.  Even
+thought there are many people here and the smell is less than stellar,
+everyone is curious and polite.  Everyone seems to be in a good mood and
+they mix and mingle in a friendly fashion.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32587
+D2
+~
+~
+0 0 32593
+S
+#32595
+`7Road to the residential district``~
+This road is well worn with tracks of a carriage carven almost all the
+way through the stone.  Foot traffic here is limited to a few sparse
+peasants and an occasional noble on a horse.  There are houses packed
+tightly together leaving no room between for any kind of ally or waste
+disposal.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32507
+D1
+~
+~
+0 0 32593
+S
+#32596
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32569
+D2
+~
+~
+0 0 32597
+D3
+~
+~
+0 0 32610
+S
+#32597
+`2The entrance to Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32596
+D1
+~
+~
+0 0 32599
+D2
+~
+~
+0 0 32598
+S
+#32598
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32597
+D1
+~
+~
+0 0 32600
+S
+#32599
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 32603
+D2
+~
+~
+0 0 32600
+D3
+~
+~
+0 0 32597
+S
+#32600
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32599
+D2
+~
+~
+0 0 32601
+D3
+~
+~
+0 0 32598
+S
+#32601
+`2The entrance to Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32600
+D1
+~
+~
+0 0 32605
+D2
+~
+~
+0 0 32602
+D3
+~
+~
+0 0 32616
+S
+#32602
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32601
+D1
+~
+~
+0 0 32606
+S
+#32603
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 32604
+D3
+~
+~
+0 0 32599
+S
+#32604
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32603
+D1
+~
+~
+0 0 32607
+D2
+~
+~
+0 0 32605
+S
+#32605
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32604
+D1
+~
+~
+0 0 32608
+D2
+~
+~
+0 0 32606
+D3
+~
+~
+0 0 32601
+S
+#32606
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32605
+D1
+~
+~
+0 0 32609
+D3
+~
+~
+0 0 32602
+S
+#32607
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 32608
+D3
+~
+~
+0 0 32604
+S
+#32608
+`2Menasette park``~
+This park is a beautiful testament to how people can take care of
+wildlife.  The trees are trimmed to perfection and the shrubbery blooms
+beautifully.  Small children run about carelessly with their parents no
+where in site.  
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 32607
+D2
+~
+~
+0 0 32609
+D3
+~
+~
+0 0 32605
+S
+#32609
+`^The duck pond``~
+Floating atop the duck pond is quite relaxing.  The gentle lapping of the
+waves and harmonic quacking of the ducks is almost enough to put you to
+sleep.  The water on the other hand is a murky green blue and you don't
+really know why you came out here to begin with.  
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 32608
+D3
+~
+~
+0 0 32606
+S
+#32610
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32596
+D2
+~
+~
+0 0 32617
+D3
+~
+~
+0 0 32611
+S
+#32611
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32610
+D2
+~
+~
+0 0 32612
+S
+#32612
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32611
+D1
+~
+~
+0 0 32617
+D2
+~
+~
+0 0 32613
+S
+#32613
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32612
+D2
+~
+~
+0 0 32614
+D3
+~
+~
+0 0 32629
+S
+#32614
+`7Southern commons of Menasette``~
+This is the main square in the southern section of the town.  Many
+people of many different races wander here.  Merchants, soldiers and
+civilians simply here to get water are all in abundance and mingle well with
+the crowds of people coming in from the gate to the north.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32613
+D1
+~
+~
+0 0 32615
+D3
+~
+~
+0 0 32618
+S
+#32615
+`7The final checkpoint at south gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32616
+D2
+~
+~
+0 0 32621
+D3
+~
+~
+0 0 32614
+S
+#32616
+`7Road to the park``~
+On the way to the park is a scenic walk.  The roads are not a full as
+some of the others are and the few people that are here do not seem to be in
+the same rush as everyone else.  Off in the distance you can hear the
+screams of joy of little children but hear little in the way of concern from
+parents.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32601
+D2
+~
+~
+0 0 32622
+D3
+~
+~
+0 0 32615
+S
+#32617
+`7The brewery``~
+The acrid stench of sulfur fills the air and sound of a hundreds boiling
+pots buzzes your ears.  Many different potions line the walls of this dark
+and musty shop and all have a price tag on them.  You wonder to yourself who
+would buy most of these?  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32610
+D3
+~
+~
+0 0 32612
+S
+#32618
+`7The final checkpoint at south gate``~
+The guards are thinner in numbers here but still keep the order quite
+well.  There are no extra weapons racks here and the guards seem a bit more
+laid back.  You can continue into the main streets from here.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32614
+D2
+~
+~
+0 0 32619
+S
+#32619
+`7The western security checkpoint at south gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the south.  There is another
+security station to the south.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32618
+D1
+~
+~
+0 0 32620
+S
+#32620
+`7South Gate of Menasette``~
+You have entered the south gate of Menasette.  There is not much to see,
+just walls and a gate and lots of guards.  As you approach one checks you
+into the city quickly and then moves on to someone else.  East and west are
+both the security check points for the city.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32621
+D2
+~
+~
+0 0 31798
+D3
+~
+~
+0 0 32619
+S
+#32621
+`7The eastern security checkpoint at south gate``~
+Around you there is nothing but armored guards.  Large stinky men
+carrying all forms of armaments are patrolling the street and keeping guard
+of the lone cell off to the side.  The weapons rack off to the side are
+full, but all the soldiers have at least one weapon on their person at all
+times.  There is another security station to the south.  There is another
+security station to the south.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32615
+D3
+~
+~
+0 0 32620
+S
+#32622
+`7The Menasette Jail Guard``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32616
+D2
+~
+~
+0 0 32623
+S
+#32623
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32622
+D1
+~
+~
+0 0 32624
+D2
+~
+~
+0 0 32627
+D3
+~
+~
+0 0 32625
+S
+#32624
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32628
+D3
+~
+~
+0 0 32623
+S
+#32625
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32623
+D2
+~
+~
+0 0 32626
+S
+#32626
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 937436424 1152 1
+D0
+~
+~
+0 0 32625
+S
+#32627
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 937436424 1152 1
+D0
+~
+~
+0 0 32623
+S
+#32628
+`7The Menasette Jail``~
+Welcome to the Luxerious Menassete Jail!  Here you can spend a lifetime
+in solitude contemplating the mysteries of life, and as luck would have it,
+you will probably find the answers to questions such as: Why did I do what I
+did?  Where did I go wrong?  Why and I here?  Among many others!  
+~
+~
+0 937436424 1152 1
+D0
+~
+~
+0 0 32624
+S
+#32629
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32630
+D1
+~
+~
+0 0 32613
+D3
+~
+~
+0 0 32631
+S
+#32630
+`7The butchery``~
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32629
+S
+#32631
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32632
+D1
+~
+~
+0 0 32629
+D3
+~
+~
+0 0 32551
+S
+#32632
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32633
+D2
+~
+~
+0 0 32631
+S
+#32633
+`7The road to the market district``~
+The hustle and bustle of the city comes to a point here in the market
+district.  Hundreds of people push their way through the crowds some with
+full baskets others with empty ones.  Even an occasional person with pockets
+full of things that probably weren't theirs.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32634
+D2
+~
+~
+0 0 32632
+S
+#32634
+`7The Menassete Town Registar's Office``~
+You stand in the holy temple of Menasette.  There is no noise here
+despite the obnoxious noise outside.  A few priests say their prayers and
+the town healer makes himself busy with the various people that come to him.
+~
+~
+0 1048576 0 1
+D3
+~
+~
+0 0 32633
+S
+#32635
+`7Inside the Governor's House``~
+There are large paintings of each governor hanging on the walls, and
+large expensive rugs cover the floor.  Where there is not rug there is well
+polished hard wood floors and some furniture scattered about.  
+~
+~
+0 0 0 1
+D1
+~
+~
+AB 0 32551
+D2
+~
+~
+0 0 32637
+D3
+~
+~
+0 0 32636
+S
+#32636
+`7Inside the Governor's House``~
+There are large paintings of each governor hanging on the walls, and
+large expensive rugs cover the floor.  Where there is not rug there is well
+polished hard wood floors and some furniture scattered about.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32635
+D2
+~
+~
+0 0 32638
+S
+#32637
+`7Inside the Governor's House``~
+There are large paintings of each governor hanging on the walls, and
+large expensive rugs cover the floor.  Where there is not rug there is well
+polished hard wood floors and some furniture scattered about.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32635
+D3
+~
+~
+0 0 32638
+S
+#32638
+`7The Dinning room of the Governer``~
+This is the main dinning room of the lord of this house.  There is a very
+long table surrounded by close to sixteen chairs.  The table is set and
+ready to eat off of but there is no food around.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32636
+D1
+~
+~
+0 0 32637
+D4
+~
+~
+0 0 32639
+S
+#32639
+`7The governor's Office``~
+This is the office of the city's appointed caretaker.  There is not much
+to it, a desk next to the stair case, a book shelf cluttered with books and
+decorations and a overly large and plush chair that sits behind the desk.  
+~
+~
+0 0 0 1
+D0
+~
+~
+ABM 0 32640
+D5
+~
+~
+0 0 32638
+S
+#32640
+`7The closet``~
+Wait what? Why are you in here?
+~
+~
+0 0 0 1
+D2
+~
+~
+ABM 0 32639
+S
+#32641
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32510
+D2
+~
+~
+0 0 32642
+S
+#32642
+`7A small street in the gentelmens district``~
+You are on a small street in the gentlemen's district.  There are large
+buildings on either side of the road each containing a few small apartments
+for which the district is named.  Though now both men and women inhabit
+these homes.  The street is well cared for and only small spots of trash are
+visable.  
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32641
+D2
+~
+~
+0 0 32516
+S
+#32699
+`8The grand bank of Menessete``~
+The bank is huge. There are several lines of people waiting to be
+helped. Everyone looks anxious, no one looks happy. There are a few
+guards around, relaxing but keeping an eye out.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32548
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 32500 2 32500 8
+E 0 32502 0 5
+E 0 32501 0 12
+E 0 32500 0 17
+M 0 32500 2 32500 8
+E 0 32500 0 17
+E 0 32502 0 5
+E 0 32501 0 12
+M 0 32501 28 32501 2
+M 0 32501 28 32501 2
+M 0 32501 28 32502 2
+M 0 32501 28 32502 2
+M 0 32517 32 32503 1
+O 0 32510 0 32503
+M 0 32501 28 32504 2
+M 0 32501 28 32504 2
+M 0 32501 28 32505 2
+M 0 32501 28 32505 2
+M 0 32518 20 32506 2
+M 0 32517 32 32507 1
+M 0 32517 32 32510 1
+M 0 32518 20 32511 2
+M 0 32517 32 32512 1
+M 0 32518 20 32516 2
+M 0 32517 32 32516 1
+M 0 32503 1 32520 1
+E 0 32509 0 17
+M 0 32502 3 32525 1
+E 0 32505 0 10
+E 0 32506 0 9
+M 0 32502 3 32529 1
+E 0 32508 0 6
+E 0 32507 0 5
+M 0 32502 3 32533 1
+E 0 32504 0 11
+E 0 32503 0 8
+M 0 32518 20 32534 2
+M 0 32517 32 32535 1
+M 0 32518 20 32536 2
+M 0 32517 32 32537 1
+M 0 32517 32 32538 1
+O 0 32510 0 32538
+M 0 32504 1 32538 1
+M 0 32517 32 32540 1
+O 0 32554 0 32540
+M 0 32516 1 32540 1
+M 0 32519 1 32541 1
+M 0 32517 32 32544 1
+M 0 32518 20 32546 2
+M 0 32517 32 32549 1
+M 0 32517 32 32555 1
+M 0 32518 20 32556 2
+M 0 32505 1 32556 1
+G 0 32511 0
+G 0 32512 0
+G 0 32513 0
+G 0 32514 0
+G 0 32515 0
+G 0 32516 0
+G 0 32517 0
+G 0 32518 0
+G 0 32519 0
+G 0 32520 0
+M 0 32506 1 32557 1
+G 0 32521 0
+G 0 32523 0
+G 0 32522 0
+G 0 32524 0
+G 0 32539 0
+M 0 32507 1 32558 1
+G 0 32525 0
+G 0 32526 0
+G 0 32528 0
+G 0 32527 0
+M 0 32508 1 32559 1
+G 0 32529 0
+G 0 32532 0
+G 0 32531 0
+G 0 32530 0
+M 0 32509 1 32560 1
+G 0 32534 0
+G 0 32533 0
+G 0 32538 0
+G 0 32537 0
+G 0 32536 0
+G 0 32535 0
+M 0 32518 20 32561 2
+O 0 32510 0 32564
+M 0 32501 28 32565 2
+M 0 32501 28 32565 2
+M 0 32501 28 32566 2
+M 0 32501 28 32566 2
+M 0 32500 8 32567 2
+E 0 32502 0 5
+E 0 32501 0 12
+E 0 32500 0 17
+M 0 32500 8 32567 2
+E 0 32502 0 5
+E 0 32501 0 12
+E 0 32500 0 17
+M 0 32501 28 32568 2
+M 0 32501 28 32568 2
+M 0 32501 28 32569 2
+M 0 32501 28 32569 2
+M 0 32518 20 32570 2
+M 0 32517 32 32572 1
+M 0 32517 32 32574 1
+M 0 32517 32 32583 1
+M 0 32518 20 32584 2
+M 0 32517 32 32585 1
+M 0 32517 32 32586 1
+M 0 32511 1 32586 1
+G 0 32547 0
+G 0 32548 0
+G 0 32546 0
+G 0 32545 0
+G 0 32544 0
+M 0 32517 32 32587 1
+M 0 32517 32 32590 1
+M 0 32510 1 32591 1
+G 0 32540 0
+G 0 32543 0
+G 0 32542 0
+G 0 32541 0
+M 0 32518 20 32593 2
+M 0 32517 32 32593 1
+O 0 32510 0 32614
+M 0 32501 28 32615 2
+M 0 32501 28 32615 2
+M 0 32512 1 32617 1
+G 0 32549 0
+G 0 32550 0
+G 0 32551 0
+G 0 32552 0
+G 0 32553 0
+M 0 32501 28 32618 2
+M 0 32501 28 32618 2
+M 0 32501 28 32619 2
+M 0 32501 28 32619 2
+M 0 32500 8 32620 2
+E 0 32500 0 17
+E 0 32501 0 12
+E 0 32502 0 5
+M 0 32500 8 32620 2
+E 0 32501 0 12
+E 0 32502 0 5
+E 0 32500 0 17
+M 0 32501 28 32621 2
+M 0 32501 28 32621 2
+M 0 32513 1 32622 1
+M 0 32515 1 32630 1
+M 0 32514 1 32630 1
+M 0 32613 1 32634 1
+M 0 32617 1 32639 1
+E 0 32555 0 17
+M 0 32699 1 32699 1
+S
+
+
+
+#SHOPS
+32505 0 16 0 0 0 100 50 0 23
+32506 0 0 0 0 0 100 50 6 20
+32507 0 9 5 0 0 100 50 5 20
+32508 0 11 0 0 0 100 50 5 20
+32509 33 39 0 0 0 100 100 6 20
+32510 0 0 0 0 0 100 50 6 20
+32511 0 0 0 0 0 100 100 0 23
+32512 0 10 0 0 0 100 50 6 20
+32515 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#32515
+say Almost out of meat, sorry Bettsy but your time has come.
+emote kneels and offers a prayer to the heavens.
+emote stands and looks sadly at a cow.
+slay V3jKi6
+butcher corpse
+get all.steak
+Emote grins and says "There plenty of meat now!"
+~
+#32517
+say Beautiful weather today, I wonder if the governor has anything planned.
+~
+#32518
+say Hello $n. I will do my best to keep you safe while you are in Menasette.
+say Please do your part to stay out of trouble.
+say Thank you in advance from all of us law keepers.
+tip $n
+~
+#32519
+say It is time you answered for your crimes!
+bash
+emote rushes over to you and starts to wrestle!
+grapple
+Yell Guards! I have restrained $n!
+~
+#32520
+Emote closes her eyes and moves her hands oddly.
+emote with her eyes closed says "Come forth dragon of the soul!"
+dragon
+cast "phantom dragon"
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#32555
+OBJ echo A spear made of solid gold flares with holy power!
+OBJ cast "dispel undead" %n
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

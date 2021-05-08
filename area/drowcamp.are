@@ -1,0 +1,2114 @@
+#AREADATA
+Name The Drow Invasion Encampment~
+Pref ~
+Builders Raki~
+VNUMs 31800 31899
+Max_Bastions 0
+Credits (10-30) Raki     The Drow Encampment~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#31800
+drow warden~
+the drow warden~
+A tall dark drow is here overseeing the guards and prisoners.
+~
+This drow is tall dark and sinister, his golden eyes shine in the semi
+shadow that graces this horrendous asylum.  He tauntingly waves the keys
+around in an attempt to enrage the prisoners.  
+~
+drow~
+Ae A JP 0 -350 0
+15 10 15d10+25 0d0+0 3d3+3 punch
+0 0 0 5
+0 0 B Ya
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 31842 done~
+P GRALL 31841 100~
+#31801
+elfin prisoner priself1~
+an elf prisoner~
+An elf that looks very scruffy is here in the corner.
+~
+One of the missing prisoners, this elf has been brutally interrogated and
+most of it's clothes are torn or missing.  The vacant look in its eyes
+indicates that it has been here a while and given up hope.  
+~
+elf~
+A A JP 0 350 0
+15 10 20d10+200 0d0+0 5d5+5 scratch
+5 5 5 9
+0 0 B Z
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 31801 100~
+#31802
+drow trainee~
+a drow trainee~
+A drow in the middle of its childhood is here, training like crazy.
+~
+~
+drow~
+A A JP 0 -350 0
+10 5 1d20+80 0d0+0 2d3+4 pierce
+8 8 8 10
+0 0 B Ya
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31803
+training post~
+a training post~
+A large post stuck in the ground.
+~
+~
+golem~
+ABe A VW 0 0 0
+15 -10 100d100+10000 0d0+0 1d1+1 pound
+-40 -40 -40 -40
+0 0 0 0
+stand stand none none~
+0
+HJc ABCHIJK medium 0
+#31804
+drow supply worker~
+a drow supply worker~
+A tall drow seems to be trying to hide in the shadows as much as possible.
+~
+~
+drow~
+Ad A JP 0 -350 0
+35 30 100d3+700 0d0+0 2d10+25 slash
+-12 -12 -12 -1
+0 0 B SYa
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31805
+drow guard~
+a drow guard~
+A drow guard is here looking very sharp in its uniform.
+~
+~
+drow~
+AGd A JP 0 -350 0
+19 15 2d25+300 0d0+0 2d5+20 none
+5 5 5 8
+0 0 B Ya
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#31806
+drow ambush~
+a drow ambush guard~
+A tall drow is here waiting for someone to try and stop the invasion.
+~
+~
+drow~
+AFGe A JP 0 -350 0
+27 24 4d25+500 0d0+0 3d6+20 pierce
+1 1 1 5
+0 0 B Ya
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#31800
+mithril finger guards~
+some mithril finger guards~
+A set of shiny finger covers that look to be well armored.~
+mithril~
+armor KY ABX
+10 10 10 5 0
+15 3 20 P
+F
+A 20 -5 0
+F
+A 18 2 0
+#31801
+mithril bracer~
+a mithril bracer~
+A bracer made of mithril is here.~
+mithril~
+armor Y AMX
+10 10 10 5 0
+15 3 20 P
+F
+A 18 2 0
+F
+A 20 -5 0
+#31802
+mithril gloves~
+mithril gloves~
+A set of fingerless gloves made from thin strings of mithril.~
+mithril~
+armor Y AHX
+10 10 10 5 0
+15 4 20 P
+F
+A 20 -5 0
+F
+A 18 2 0
+#31803
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#31804
+shelf~
+a shelf~
+A large shelfing unit.~
+wood~
+container 0 0
+100 0 0 100 0
+0 10001 0 P
+#31805
+drowcraft longsword~
+a drowcraft longsword~
+A very long sword made by drow specialists.~
+steel~
+weapon e AN
+sword 4 5 slice 0
+15 15 0 P
+F
+A 19 3 0
+F
+A 18 2 0
+#31806
+backpack drow~
+a drow backpack~
+A backpack that has been sewn together by the drow.~
+cloth~
+container M AKX
+200 0 0 400 5
+20 40 5 P
+R
+3
+F
+A 17 -15 0
+#31899
+prison key~
+a prison key~
+A small shiny key lies in the dirt.~
+steel~
+key 0 A
+0 0 0 0 0
+15 1 15 P
+#0
+
+
+
+#ROOMS
+#31800
+`7Inside the hole``~
+You managed to squeeze into the tunnel but now you find yourself in a
+large cave, reinforced with wooden beams.  The beams give more of a mine
+look than some random cavern.  A horrible humming noise fills the air, but
+rather than one smooth hum it is the sound of hundreds of voices echoing
+around.  
+~
+~
+0 1 0 1
+D2
+~
+~
+0 0 31801
+D4
+~
+~
+ABM 0 30891
+P SPEECH 31800 free~
+S
+#31801
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31800
+D2
+~
+~
+0 0 31802
+S
+#31802
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31801
+D1
+~
+~
+0 0 31803
+D3
+~
+~
+0 0 31879
+S
+#31803
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31804
+D3
+~
+~
+0 0 31802
+S
+#31804
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31803
+D2
+~
+~
+0 0 31805
+S
+#31805
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31804
+D1
+~
+~
+AB 0 31806
+D2
+~
+~
+0 0 31807
+S
+#31806
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31815
+D1
+~
+~
+0 0 31808
+D2
+~
+~
+0 0 31816
+D3
+~
+~
+AB 0 31805
+S
+#31807
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31805
+D2
+~
+~
+0 0 31817
+S
+#31808
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31813
+D1
+~
+~
+0 0 31809
+D2
+~
+~
+0 0 31814
+D3
+~
+~
+0 0 31806
+S
+#31809
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31811
+D1
+~
+~
+0 0 31810
+D2
+~
+~
+0 0 31812
+D3
+~
+~
+0 0 31808
+S
+#31810
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D3
+~
+~
+0 0 31809
+S
+#31811
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31809
+S
+#31812
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31809
+S
+#31813
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31808
+S
+#31814
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31808
+S
+#31815
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31806
+S
+#31816
+`7The Beginners training area``~
+What a sight, a completely underground training area.  There are broken
+weapons scattered all over the ground and training posts all over.  Spots of
+blood freckle the floors and walls as the stench of sweat and mold fills the
+air.  
+~
+~
+0 1 0 1
+D0
+~
+~
+0 0 31806
+S
+#31817
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31807
+D1
+~
+~
+0 0 31818
+S
+#31818
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31819
+D2
+~
+~
+AB 0 31831
+D3
+~
+~
+0 0 31817
+S
+#31819
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31820
+D2
+~
+~
+0 0 31830
+D3
+~
+~
+0 0 31818
+S
+#31820
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31821
+D2
+~
+~
+0 0 31829
+D3
+~
+~
+0 0 31819
+S
+#31821
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31827
+D1
+~
+~
+0 0 31822
+D2
+~
+~
+0 0 31828
+D3
+~
+~
+0 0 31820
+S
+#31822
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31825
+D1
+~
+~
+0 0 31823
+D2
+~
+~
+0 0 31826
+D3
+~
+~
+0 0 31821
+S
+#31823
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31824
+D3
+~
+~
+0 0 31822
+S
+#31824
+`7Inside the hole``~
+You managed to squeeze into the tunnel but now you find yourself in a
+large cave, reinforced with wooden beams.  The beams give more of a mine
+look than some random cavern.  A horrible humming noise fills the air, but
+rather than one smooth hum it is the sound of hundreds of voices echoing
+around.  
+~
+~
+0 9 0 1
+D3
+~
+~
+0 0 31823
+P SPEECH 31800 free~
+S
+#31825
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 31822
+S
+#31826
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31822
+S
+#31827
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 31821
+S
+#31828
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31821
+S
+#31829
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31820
+S
+#31830
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31819
+S
+#31831
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+AB 0 31818
+D2
+~
+~
+0 0 31832
+S
+#31832
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31831
+D2
+~
+~
+0 0 31833
+S
+#31833
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31832
+D2
+~
+~
+0 0 31834
+D3
+~
+~
+0 0 31849
+S
+#31834
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31833
+D2
+~
+~
+0 0 31835
+S
+#31835
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31834
+D2
+~
+~
+0 0 31836
+S
+#31836
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31835
+D3
+~
+~
+0 0 31837
+S
+#31837
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31836
+D3
+~
+~
+0 0 31838
+S
+#31838
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31840
+D1
+~
+~
+0 0 31837
+D2
+~
+~
+0 0 31839
+D3
+~
+~
+0 0 31855
+S
+#31839
+`7Into the Hole``~
+You managed to squeeze into the tunnel but now you find yourself in a
+large cave, reinforced with wooden beams.  The beams give more of a mine
+look than some random cavern.  A horrible humming noise fills the air, but
+rather than one smooth hum it is the sound of hundreds of voices echoing
+around.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31838
+P SPEECH 31800 free~
+S
+#31840
+`7The south ward``~
+The south ward of the drow prison is not one of the friendlier prisons
+you have seen.  The cells are closed by roots that make a mesh that not even
+the smallest of faeries could fit through.  The smells are horrible, feces
+and other waists mix themselves with the acrid stench of vomit in your
+nostrils.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31841
+D1
+~
+~
+ABC 31899 31853
+D2
+~
+~
+0 0 31838
+D3
+~
+~
+ABC 31899 31854
+S
+#31841
+`7The south ward``~
+The south ward of the drow prison is not one of the friendlier prisons
+you have seen.  The cells are closed by roots that make a mesh that not even
+the smallest of faeries could fit through.  The smells are horrible, feces
+and other waists mix themselves with the acrid stench of vomit in your
+nostrils.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31842
+D1
+~
+~
+ABC 31899 31851
+D2
+~
+~
+0 0 31840
+D3
+~
+~
+ABC 31899 31852
+S
+#31842
+`7The Junction in the Prison``~
+Possibly the neatest spot in the tunnels, this room is almost spotless. 
+The warden has kept his space absolutely immaculate and the walls are
+actually carved and smooth rather than the rest of the hand dug tunnel. 
+Though there is no furniture, or seating or anything, compared to the rest
+of the cavern this is homely.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31843
+D1
+~
+~
+0 0 31849
+D2
+~
+~
+0 0 31841
+D3
+~
+~
+0 0 31850
+S
+#31843
+`7The north ward``~
+The north ward of the drow prison is not one of the friendlier prisons
+you have seen.  The cells are closed by roots that make a mesh that not even
+the smallest of faeries could fit through.  The smells are horrible, feces
+and other waists mix themselves with the acrid stench of vomit in your
+nostrils.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31844
+D1
+~
+~
+ABC 31899 31847
+D2
+~
+~
+0 0 31842
+D3
+~
+~
+ABC 31899 31848
+S
+#31844
+`7The north ward``~
+The north ward of the drow prison is not one of the friendlier prisons
+you have seen.  The cells are closed by roots that make a mesh that not even
+the smallest of faeries could fit through.  The smells are horrible, feces
+and other waists mix themselves with the acrid stench of vomit in your
+nostrils.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 31899 31845
+D2
+~
+~
+0 0 31843
+D3
+~
+~
+ABC 31899 31846
+S
+#31845
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D3
+~
+~
+ABC 0 31844
+S
+#31846
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 0 31844
+S
+#31847
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D3
+~
+~
+ABC 0 31843
+S
+#31848
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 0 31843
+S
+#31849
+`7To the Prison Cells``~
+More tunnels that have been reinforced, with a new element to them,
+screams of tortured individuals.  Guards here are very attentive but have a
+nice smug grin settled on their faces.  Weapons are sticking out of racks
+that have been dug into the walls and attached to the support beams.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31833
+D3
+~
+~
+0 0 31842
+S
+#31850
+`7To the Prison Cells``~
+More tunnels that have been reinforced, with a new element to them,
+screams of tortured individuals.  Guards here are very attentive but have a
+nice smug grin settled on their faces.  Weapons are sticking out of racks
+that have been dug into the walls and attached to the support beams.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31842
+D3
+~
+~
+0 0 31859
+S
+#31851
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D3
+~
+~
+ABC 31899 31841
+S
+#31852
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 0 31841
+S
+#31853
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D3
+~
+~
+ABC 0 31840
+S
+#31854
+`7A jail cell``~
+This is a horrible and inhumane cell.  There is no bed, no sink or
+toilet, only a can in one of the corners.  It also seems that the floor has
+been intentionally littered with large sharp rocks, to keep the prisoners
+from getting comfortable.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 0 31840
+S
+#31855
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31838
+D3
+~
+~
+0 0 31856
+S
+#31856
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31857
+D1
+~
+~
+0 0 31855
+S
+#31857
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31858
+D2
+~
+~
+0 0 31856
+S
+#31858
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31859
+D2
+~
+~
+0 0 31857
+S
+#31859
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31860
+D1
+~
+~
+0 0 31850
+D2
+~
+~
+0 0 31858
+S
+#31860
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31861
+D2
+~
+~
+0 0 31859
+S
+#31861
+`7Around the Prison Ward``~
+The tunnels around here have been reinforced, with some wooden support
+beams.  Despite the stability of the tunnel, the condition of the beams does
+not inspire confidence as you walk through the squishy mud on the floor. 
+Guards here are intense, as if they don't know that they are sinking in
+murk.  
+~
+~
+0 9 0 1
+D0
+~
+~
+AB 0 31862
+D2
+~
+~
+0 0 31860
+S
+#31862
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31875
+D2
+~
+~
+AB 0 31861
+D3
+~
+~
+0 0 31863
+S
+#31863
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31862
+D2
+~
+~
+0 0 31874
+D3
+~
+~
+0 0 31864
+S
+#31864
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31863
+D2
+~
+~
+0 0 31873
+D3
+~
+~
+0 0 31865
+S
+#31865
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31871
+D1
+~
+~
+0 0 31864
+D2
+~
+~
+0 0 31872
+D3
+~
+~
+0 0 31866
+S
+#31866
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31869
+D1
+~
+~
+0 0 31865
+D2
+~
+~
+0 0 31870
+D3
+~
+~
+0 0 31867
+S
+#31867
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31866
+D3
+~
+~
+0 0 31868
+S
+#31868
+`7Inside the hole``~
+You managed to squeeze into the tunnel but now you find yourself in a
+large cave, reinforced with wooden beams.  The beams give more of a mine
+look than some random cavern.  A horrible humming noise fills the air, but
+rather than one smooth hum it is the sound of hundreds of voices echoing
+around.  
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 31867
+D4
+~
+~
+ABM 0 30800
+P SPEECH 31800 free~
+S
+#31869
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31866
+S
+#31870
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31866
+S
+#31871
+~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 31865
+S
+#31872
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31865
+S
+#31873
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31864
+S
+#31874
+`7An ambush point``~
+This room wasn't meant to hold more than one person, much less have a
+fight in it.  The walls are not reinforced, and are actually dug into loose
+dirt which does not help your suspicions about this place.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31863
+S
+#31875
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31876
+D3
+~
+~
+0 0 31862
+S
+#31876
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31877
+D2
+~
+~
+0 0 31875
+S
+#31877
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31878
+D2
+~
+~
+0 0 31876
+D3
+~
+~
+AB 0 31880
+S
+#31878
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31879
+D2
+~
+~
+0 0 31877
+S
+#31879
+`7A dark tunnel``~
+Inside this tunnel you feel cramped and confined.  The walls are not very
+far apart nor are they well crafted.  The ceiling is high, which is a bit of
+a blessing but you cant help shake the feeling that someone is watching you
+from the shadows.  
+~
+~
+0 9 0 1
+D1
+~
+~
+0 0 31802
+D2
+~
+~
+0 0 31878
+S
+#31880
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31888
+D1
+~
+~
+AB 0 31877
+D2
+~
+~
+0 0 31889
+D3
+~
+~
+0 0 31881
+S
+#31881
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31886
+D1
+~
+~
+0 0 31880
+D2
+~
+~
+0 0 31887
+D3
+~
+~
+0 0 31882
+S
+#31882
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31884
+D1
+~
+~
+0 0 31881
+D2
+~
+~
+0 0 31885
+D3
+~
+~
+ABC 0 31883
+S
+#31883
+`7The Armory``~
+At last a normal room, there are solid walls and floors not the crude
+hand dug tunneling that composes of the rest of this tunnel.  There are
+shelves on the walls and tools on the shelves, everything from some shovels
+and water jugs to weapons and shields.  
+~
+~
+0 9 0 1
+D1
+~
+~
+ABC 0 31882
+S
+#31884
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31882
+S
+#31885
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31882
+S
+#31886
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31881
+S
+#31887
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31881
+S
+#31888
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D2
+~
+~
+0 0 31880
+S
+#31889
+`7The Supply Depot``~
+Just more of the same tunneling, dark and damp.  The tunnels are long and
+unwelcoming.  Your light casts shadows around that constantly move and
+flicker.  Out of the corner of your eye you catch something moving,
+obviously trying to stay in the shadows.  
+~
+~
+0 9 0 1
+D0
+~
+~
+0 0 31880
+S
+#31899
+`8Elf purge``~
+To get out say "recall".
+~
+~
+0 279471624 0 0
+P SPEECH 31898 recall~
+P SPEECH 31899 blathorg~
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 31802 20 31806 2
+M 0 31802 20 31806 2
+M 0 31802 20 31808 2
+M 0 31802 20 31808 2
+M 0 31802 20 31809 2
+M 0 31802 20 31809 2
+M 0 31802 20 31810 2
+M 0 31803 7 31810 1
+M 0 31802 20 31810 2
+M 0 31802 20 31811 2
+M 0 31803 7 31811 1
+M 0 31802 20 31811 2
+M 0 31802 20 31812 2
+M 0 31803 7 31812 1
+M 0 31802 20 31812 2
+M 0 31802 20 31813 2
+M 0 31803 7 31813 1
+M 0 31802 20 31813 2
+M 0 31802 20 31814 2
+M 0 31803 7 31814 1
+M 0 31802 20 31814 2
+M 0 31802 20 31815 2
+M 0 31803 7 31815 1
+M 0 31802 20 31815 2
+M 0 31802 20 31816 2
+M 0 31803 7 31816 1
+M 0 31802 20 31816 2
+M 0 31806 12 31825 1
+M 0 31806 12 31826 1
+M 0 31806 12 31827 1
+M 0 31806 12 31828 1
+M 0 31806 12 31829 1
+M 0 31806 12 31830 1
+M 0 31805 20 31831 1
+M 0 31805 20 31832 1
+M 0 31805 20 31833 1
+M 0 31805 20 31835 1
+M 0 31805 20 31836 1
+M 0 31805 20 31837 1
+M 0 31805 20 31838 1
+M 0 31805 20 31840 1
+M 0 31805 20 31841 1
+M 0 31805 20 31842 1
+M 0 31800 1 31842 1
+E 0 31899 0 18
+M 0 31805 20 31843 1
+M 0 31805 20 31844 1
+M 0 31801 8 31845 1
+E 0 31800 0 1
+M 0 31801 8 31846 1
+E 0 31801 0 15
+M 0 31801 8 31847 1
+E 0 31801 0 15
+M 0 31801 8 31848 1
+E 0 31802 0 10
+M 0 31805 20 31849 1
+M 0 31805 20 31850 1
+M 0 31801 8 31851 1
+E 0 31801 0 15
+M 0 31801 8 31852 1
+E 0 31800 0 1
+M 0 31801 8 31853 1
+E 0 31800 0 1
+M 0 31801 8 31854 1
+E 0 31802 0 10
+M 0 31805 20 31856 1
+M 0 31805 20 31857 1
+M 0 31805 20 31858 1
+M 0 31805 20 31859 1
+M 0 31805 20 31860 1
+M 0 31805 20 31861 1
+M 0 31806 12 31869 1
+M 0 31806 12 31870 1
+M 0 31806 12 31871 1
+M 0 31806 12 31872 1
+M 0 31806 12 31873 1
+M 0 31806 12 31874 1
+M 0 31804 20 31880 2
+M 0 31804 20 31880 2
+M 0 31804 20 31881 2
+M 0 31804 20 31881 2
+M 0 31804 20 31882 2
+M 0 31804 20 31882 2
+O 0 31804 0 31883
+P 0 31805 1 31804 1
+P 0 31806 1 31804 1
+M 0 31804 20 31884 2
+M 0 31804 20 31884 2
+M 0 31804 20 31885 2
+M 0 31804 20 31885 2
+M 0 31804 20 31886 2
+M 0 31804 20 31886 2
+M 0 31804 20 31887 2
+M 0 31804 20 31887 2
+M 0 31804 20 31888 2
+M 0 31804 20 31888 2
+M 0 31804 20 31889 2
+M 0 31804 20 31889 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#31800
+~
+#31801
+if isgood $n
+say Help me $n, please you have you help me!
+say Get me out of here and I will make it worth your while!
+follow $n
+tempquest $n To free the elfin captives.
+break
+endif
+if isevil $n
+say No! I wont let you kill me!
+blackjack $n
+gag $n
+break
+endif
+~
+#31802
+if isgood $n
+follow $n
+break
+endif
+if isevil $n
+say I wont help you!
+murder $n
+rage
+break
+endif
+~
+#31841
+if hasquest $n 'to slay the prisoners'
+break
+else
+if hasquest $n 'slain the prisoners of the invasion'
+break
+else
+If isevil $n
+say You there! I need you to do something for me.
+say Execute the prisoners that infest these cells.
+say I have more coming, and need to make room.
+Mob load obj 31899
+give key $n
+say Well get to it!
+tempquest $n 'to slay the prisoners'
+mob echoat $n `$You have been granted a quest!``
+endif
+endif
+endif
+~
+#31842
+If hasquest 'slain the prisoners of the invasion'
+break
+else
+If mobexist 31801
+say What in bloody hell are you trying to pull!
+say get in there and execute the prisoners!
+break
+else
+permquest 'slain the prisoners of the invasion'
+mob echoat $n `$You have slain all the Prisoners!``
+mob echoat $n `$You gain 2500 experience.``
+bonus $n 2500
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#31800
+if mobhere 31801
+if hasquest $n 'To free the elfin captives.'
+room force priself1 say Oh thank all the heavens! I never thought I would see
+room force priself1 say the light of day again! Thank you so much $n!
+room force priself1 emote walks up.
+room qtrans priself1 31899
+room purge priself1
+room remquest $n To free the elfin captives.
+room Echo You have freed the elfin prisoners.
+room bonus $n 3000
+room permquest $n freed the elfin captives.
+endif
+endif
+~
+#31898
+room cast "word of recall" $n
+~
+#31899
+room purge priself1
+~
+#0
+
+#$

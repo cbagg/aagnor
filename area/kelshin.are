@@ -1,0 +1,2553 @@
+#AREADATA
+Name Kel-Shin-Ro Supply Outpost~
+Pref ~
+Builders Brinson~
+VNUMs 25000 25199
+Max_Bastions 0
+Credits ( All ) Brinson  Kel-Shi-Ro Supply Post~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#25000
+trained beast~
+A Well-Trained Beast~
+A beast sits here, seeming well trained.
+~
+While this creature is often marketted as a beast, it strangle resembles
+a rather usual, beagle-like dog.  
+~
+human~
+AIe A 0 0 0 0
+10 0 50d3+100 0d0+0 5d2+10 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand none none~
+15
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 25002 shake~
+P SPEECH 25001 play dead~
+P SPEECH 25000 sit~
+#25001
+Artov the pet seller~
+Artov, Owner of Artov's Amazing Animals~
+Artov stands here, trying desperately to sell his pets!
+~
+~
+human~
+Ae A 0 0 0 0
+40 0 10d10+5 0d0+0 100d5+3 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P SPEECH 25003 beast~
+P GRALL 25004 50~
+#25002
+lion cat kitten~
+A ferocious lion~
+A ferocious lion purrs and yawns here.
+~
+At a total height of 6 and a half inches, this tiny kitten is adorable in
+every sense of the word.  With razor sharp claws, she digs at the ground
+viciously.  
+~
+feral~
+AI A 0 0 0 0
+5 2 2d3+50 0d0+0 10d10+5 none
+0 0 0 0
+0 0 0 H
+stand stand none none~
+0
+AGHMV ABCDEFGHIJKQU medium 0
+P RANDOM 25005 5~
+P SPEECH 25006 mouse~
+P RANDOM 25007 15~
+#25003
+Kel-Shin-Ro Kel Shin Ro Bazaar Store owner fat~
+Kel-Shin-Ro~
+Kel-Shin-Ro, the fat bastard, waddles before you as he pants about his shop.
+~
+~
+human~
+AZe A 0 0 0 0
+55 30 10d300+30 0d0+0 20d30+50 jab
+0 0 0 0
+0 0 0 0
+stand stand none none~
+500000
+AHMV ABCDEFGHIJK medium 0
+P GRALL 25008 100~
+#25004
+arms manager supplies standard~
+an arms manager~
+A an arms manager is here, dealing out weaponry.
+~
+~
+human~
+Ae A HTV 0 0 0
+50 0 100d100+50 0d0+0 50d100+50 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 25010 90~
+#25005
+Edrick specialist~
+Specialist Edrick Valhan~
+Specialist Edrick Valhan, Supplier of the Shin-Ro family is here.
+~
+~
+human~
+Ae A 0 0 0 0
+60 100 60d1000+100 0d0+0 50d50+50 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P GRALL 25012 100~
+P SPEECH 25011 mage~
+#25006
+prostitute woman hooker lady night~
+a rather promiscuous woman~
+A lady is here, with less than respectable attire.
+~
+~
+human~
+Ad A 0 0 0 0
+30 20 10d100+500 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#25007
+Fargus owner of the firebeath~
+Fargus, owner of the Firebreath inn~
+Fargus is here, dealing out drinks.
+~
+~
+human~
+Ae A 0 0 0 0
+30 0 50d500+10 0d0+0 10d1+5 none
+0 0 0 0
+0 0 0 0
+sit stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#25008
+The Armory Manager~
+The Armory Manager~
+The armory manager is here, distributing armor.
+~
+~
+human~
+A A 0 0 0 0
+50 20 10d100+50 10d10+50 10d10+5 none
+10 10 10 10
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#25000
+map pal kel shin ro~
+a map of the Shin-Ro area~
+A map sits here, with markings of the Shin-Ro area.~
+unknown~
+food 0 0
+2 2 0 0 2
+0 0 500 P
+E
+read~
+`# ____________________________________________________``
+`#(```!o```#)``     `&Map of area around Pal-Shin-Ro``               `#)``
+  `!\-------------------------------------------------```1/``
+   `1|``                                                `1|``
+   `1|``            `3^ ^ ^ ^ ^``                         `  `1|``
+   `1|``           `3^ ^ ^ ^ ^ ^``    Mountains             `1|``
+   `1|``          `3^ ^ ^ ^ ^ ^ ^``                         `1|``
+   `1|``                ^                               `1|``
+   `1|``                |                               `1|``
+   `1|``Pal-Shin-Ro   <-|                               `1|``
+   `1|`` Training       |                               `1|``
+   `1|``   Grounds      |-> Slothwood Forest(Private)   `1|``
+   `1|``                |                               `1|``
+   `1|``  Caverns    *--*--*                            `1|``
+   `1|``   |         |  |  | <- Fort                    `1|``
+   `1|``   ----------*--*--*---------|   <- Forbidden   `1|``
+   `1|``         |   |  |  |                 Temple     `1|``
+   `1|``       Qling *--*--*              Entry Illegal `1|``
+   `1|``      Village   |                               `1|``
+   `1|``                |                               `1|``
+   `1|``                |                               `1|``
+   `1|``                |                               `1|` `
+   `1|``                V                               `1|``
+   `1|``          `1|```6_```#-```6_```#-```6_```#-```6_```#-```6_```#-```6_```#-```6_``                        `1|`
+   `1|``         `^//////////////``                         `1|`
+   `1|``              Beach                             `1|``
+`!  /`#_________________________________________________```!\``
+`#(```!o```#)__________________________________________________)``
+~
+#25001
+standard issue sword~
+a standard issue sword~
+A standard issue sword is on the ground here.~
+unknown~
+weapon 0 AN
+sword 5 7 chop D
+15 0 5000 P
+#25002
+standard issue whip~
+a standard issue whip~
+A standard issue whip is coiled up here.~
+unknown~
+weapon 0 AN
+exotic 5 7 whip D
+15 0 5000 P
+#25003
+standard issue dagger~
+a standard issue dagger~
+A standard issue dagger has been tossed aside here.~
+unknown~
+weapon 0 AN
+dagger 5 7 sting D
+15 0 5000 P
+#25005
+standard issue spear~
+a standard issue spear~
+A spear is here, seemingly standard issue.~
+unknown~
+weapon 0 AN
+spear 5 7 pierce D
+15 0 5000 P
+#25006
+a standard issue staff~
+a standard issue staff~
+A rather standard length staff rests here, with blades on both ends.~
+unknown~
+weapon 0 AN
+staff 5 7 pound DF
+15 0 5000 P
+#25007
+a standard issue mace~
+a standard issue mace~
+A small mace sits here, with equally long spikes on each side.~
+unknown~
+weapon 0 AN
+exotic 5 7 crush D
+15 0 5000 P
+#25008
+a standard issue axe~
+a standard issue axe~
+A handheld, seemingly mass produced axe is here.~
+unknown~
+weapon 0 AN
+axe 5 7 chop D
+15 0 5000 P
+#25009
+a standard issue flail~
+a standard issue flail~
+A single-chain flail is here, with very obvious production seams.~
+unknown~
+weapon 0 AN
+exotic 5 7 thwack D
+15 0 5000 P
+#25010
+a standard issue polearm~
+a standard issue polearm~
+A long pole is here, with a standard sized dagger attatched to the end.~
+unknown~
+weapon 0 AN
+polearm 5 7 slice DF
+15 0 5000 P
+#25011
+a standard issue shield~
+a standard issue shield~
+A small, round shield is here, bearing the emblem of the Shin-Ro family.~
+unknown~
+armor 0 AJ
+-17 -17 -17 -17 0
+15 30 7500 P
+#25012
+Mage Masher~
+The Mage Masher~
+A long, purple mace is here, radiating mundanity.~
+the skull of the fallen ogre king~
+weapon HPY AN
+mace 10 5 smash FGHJ
+40 100 150000 P
+#25013
+card table~
+a card table~
+A plain wooden table it setup here, surrounded by players.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 30 0 P
+#25016
+bar~
+an ordinary looking bar~
+A bar is here, looking rather ordinary.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 150 0 P
+#25017
+keg beer~
+A Keg of Beer~
+(no description)~
+unknown~
+drink U AO
+100 90 'beer' 0 0
+5 50 350 P
+#25018
+mug of beer~
+a mug of beer~
+A mug of beer sits here.~
+unknown~
+drink U AO
+10 9 'beer' 0 0
+1 5 50 P
+#25019
+frost bitten staff~
+The Frost Bitten Staff~
+A staff is here, looking very cold.~
+unknown~
+weapon ABHPSe ANS
+staff 5 9 frbite BJK
+40 30 500000 P
+#25020
+Standard Issue Lantern~
+A Standard Issue Lantern~
+A poorly made lantern lies here.~
+steel~
+light 0 AU
+0 0 200 0 0
+0 0 500 P
+#25021
+Standard Issue Helmet~
+A Standard Issue Helmet~
+A poorly made helmet lies here.~
+steel~
+armor 0 AE
+10 10 10 10 0
+15 20 1000 P
+#25022
+Standard Issue Chainmail~
+Standard Issue Chainmail~
+Poorly made chainmail lies here.~
+steel~
+armor 0 AD
+10 10 10 10 0
+0 30 1500 P
+#25023
+Standard Issue Sleeves~
+Standard Issue Sleeves~
+A pair of Poorly made sleeves are here.~
+steel~
+armor 0 AI
+10 10 10 10 0
+15 15 2000 P
+#25024
+Standard Issue Gauntlets~
+Standard Issue Gauntlets~
+A pair of poorly made gauntlets lie here.~
+steel~
+armor 0 AH
+10 10 10 10 0
+15 10 1000 P
+#25025
+Standard Issue Leggings~
+Standard Issue Leggings~
+A pair of poorly made leggings are here.~
+steel~
+armor 0 AF
+10 10 10 10 0
+15 20 1500 P
+#25026
+Standard Issue Boots~
+Standard Issue Boots~
+A pair of boots are here, ready to fall apart.~
+steel~
+armor 0 AG
+10 10 10 10 0
+0 30 2000 P
+#25027
+Standard Issue Cuff~
+A Standard Issue Cuff~
+A thin, useless cuff is here.~
+steel~
+armor 0 AM
+10 10 10 10 0
+15 5 0 P
+#25033
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#25000
+`8Central Square``~
+You are in the middle of what seems to be a sea of people in a small,
+boat-like fort.  It is not that it is a small fort, but the majority of its
+use is dedicated to its military fortifications along the walls, where
+archers are constantly on the watch.  There is a small, not entirely clean
+fountain here.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25023
+D1
+~
+gate~
+0 0 25001
+D2
+~
+~
+0 0 25024
+D3
+~
+~
+0 0 25005
+D4
+~
+~
+0 0 25063
+S
+#25001
+`8Pal-Shin Street``~
+Within this strong, wooden fort there is a small, well traveled street,
+if you can call it that.  It is hardly wide enough for two people to walk
+side by side.  The small street is lined with busy, orderly shops.  The
+shops seem to move quickly as people spend very little time doing the actual
+shopping, as the stores seldom have more than one or two options.  There is
+a fine oak door to your north which reads "Information", while you hear the
+various sounds of a blacksmith at work to your south.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25025
+D1
+~
+~
+0 0 25002
+D2
+~
+~
+0 0 25031
+D3
+~
+~
+0 0 25000
+S
+#25002
+`8Pal-Shin Street``~
+Within this strong, wooden fort there is a small, well traveled street,
+if you can call it that.  It is hardly wide enough for two people to walk
+side by side.  The small street is lined with busy, orderly shops.  The
+shops seem to move quickly as people spend very little time doing the actual
+shopping, as the stores seldom hav more than one or two options.  There is a
+fine oak door to your north which reads "Information", while you hear the
+faint clanging sounds of a blacksmith at work to your south.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25028
+D1
+~
+~
+0 0 25003
+D3
+~
+~
+0 0 25001
+S
+#25003
+`8The Eastern Square``~
+You have reached the eastern square within the fort, which is really
+nothing escept the point at which you come against the backs and fronts of a
+patrol of guards here to protect the inhabitants.  The road westward seems to
+be full of shops and other points of fascination.  
+ 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25043
+D1
+~
+~
+0 0 25004
+D2
+~
+~
+0 0 25044
+D3
+~
+~
+0 0 25002
+D4
+~
+~
+0 0 25067
+S
+#25004
+`8The Eastern Gate``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 25003
+S
+#25005
+`8Pal-Shin Street``~
+Within this strong, wooden fort there is a small, well traveled street,
+if you can call it that.  It is hardly wide enough for two people to walk
+side by side.  The small street is lined with busy, orderly shops.  The
+shops seem to move quickly as people spend very little time doing the actual
+shopping, as the stores seldom have more than one or two options.  To the
+north there are sounds of meows and barks, but it is drowned out by the
+music playing at the rather rowdy bar to the south.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25009
+D1
+~
+~
+0 0 25000
+D2
+~
+~
+0 0 25011
+D3
+~
+~
+0 0 25006
+S
+#25006
+`8Pal-Shin Street``~
+Within this strong, wooden fort there is a small, well traveled street,
+if you can call it that.  It is hardly wide enough for two people to walk
+side by side.  The small street is lined with busy, orderly shops.  The
+shops seem to move quickly as people spend very little time doing the actual
+shopping, as the stores seldom have more than one or two options.  You have
+reached the westward end of the road and near the well fortified gate.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25005
+D3
+~
+~
+0 0 25007
+S
+#25007
+`8The Western Square``~
+You have reached the western square within the fort, which is really
+nothing escept the point at which you come against the backs and fronts of a
+patrol of guards here to protect the inhabitants.  The road eastward seems
+to be full of shops and other points of fascination.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25057
+D1
+~
+~
+0 0 25006
+D2
+~
+~
+0 0 25055
+D3
+~
+~
+0 0 25008
+D4
+~
+~
+0 0 25066
+S
+#25008
+`8The Western Gate``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25007
+S
+#25009
+`8Artov's Amazing Animals``~
+~
+~
+0 4096 0 0
+D0
+~
+~
+0 0 25029
+D2
+~
+~
+0 0 25005
+S
+#25010
+`8The Stables``~
+~
+~
+0 4096 0 0
+W 25009
+S
+#25011
+`8Outside the Firebreath Inn``~
+The Firebreath Inn is reknowned for its amazingly high death toll to
+people who usually had broken fingers and no wallet or long, pool stick
+shaped marks on their back and alcohol on their breath.  There were, also,
+the occasional people who died of the sauce itself.  The bar itself is not
+too large, but could fit a few dozen people in each of its rooms.  It has an
+old, quaint feeling to it with dark wood panelling on the fort walls and
+some large torches hanging on the walls.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25005
+D2
+~
+~
+0 0 25013
+D3
+~
+~
+0 0 25012
+S
+#25012
+`8The Card Table at the Firebreath``~
+This room is usually more consumed by the older men, sometimes of rank,
+but not always.  Do not, however, let this fool you.  It is often said that
+more people die at the weekly poker game than at the gates of the fort.  As
+this is the majority of the entertainment for the fort, large amounts of
+alcohol are often required so that the men can bypass their lucid mind and
+think they're having a good time.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25011
+D2
+~
+~
+0 0 25014
+D4
+~
+~
+0 0 25015
+S
+#25013
+`8The Pool Room at the Firebreath``~
+You are now inside the pool room at the firebreath, which usually catered
+to the younger men of the town who enjoyed lounging about, drinking and
+having fun- the pool table was more often a means of pretense than a game. 
+Off to the side, on the dark panelling that surrounded the room, there was a
+rack with a number of pool sticks on it.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25011
+D3
+~
+~
+0 0 25014
+S
+#25014
+`8At the Firebreath Bar``~
+The heart of the Firebreath Inn is really its bar, which has actually
+been reported to draw more profit than the combined inhabiting forces are
+paid- an issue which still remains a mystery, though not much of one to the
+men involved in the resell of their military discount on kegs.  There is not
+much to the bar.  A long bar, with a dozen or so stools and a large amount
+of alcohol behind the counter.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25012
+D1
+~
+~
+0 0 25013
+S
+#25015
+`8Above the Firebreath Inn``~
+You have stepped inside a loft above the firebreath inn.  You can hear
+the ruckus down below, which seems to continue both day and night on a
+neverending basis.  To your south you can hear similar sounds, while the
+hall to your east looks oddly quite and desolate.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25071
+D1
+~
+~
+0 0 25016
+D2
+~
+~
+0 0 25017
+D5
+~
+~
+0 0 25012
+S
+#25016
+`8Outside the Captain's Suite``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 25015
+D4
+~
+~
+ABC 0 25019
+S
+#25017
+`8Outside the Bunk Room``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25015
+D1
+~
+~
+ABC 0 25018
+S
+#25018
+~
+~
+~
+0 0 0 0
+D3
+~
+~
+ABC 0 25017
+D4
+~
+~
+0 0 25095
+S
+#25019
+`8Inside the Captain's Suite``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 25020
+D5
+~
+~
+ABC 0 25016
+S
+#25020
+`8Inside the Captain's Suite``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25019
+D2
+~
+~
+0 0 25021
+S
+#25021
+`8Inside the Captain's Suite``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25020
+S
+#25022
+~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 25018
+S
+#25023
+`8The Fort Path``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25033
+D2
+~
+~
+0 0 25000
+S
+#25024
+`8The Fort Path``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25000
+D2
+~
+~
+0 0 25046
+S
+#25025
+`8Entering the Game Office``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25026
+D2
+~
+~
+0 0 25001
+S
+#25026
+`8The Game Office``~
+~
+~
+0 0 0 0
+D1
+~
+~
+AB 0 25027
+D2
+~
+~
+0 0 25025
+S
+#25027
+`8The Supplies Office``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 25028
+D3
+~
+~
+AB 0 25026
+S
+#25028
+`8Entering the Supplies Office``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25027
+D2
+~
+~
+0 0 25002
+S
+#25029
+`8The Breeding Room``~
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 25009
+D3
+~
+~
+0 0 25030
+S
+#25030
+`8The Testing Facility``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25029
+S
+#25031
+`8The Standard Issue Supply Post``~
+You are inside a small shop-like alley where there is usually no line
+because people do not stall.  There is, quite simply, only one decision to
+be made: What kind of weapon do you want?  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25001
+D1
+~
+~
+0 0 25032
+D4
+~
+~
+0 0 25096
+S
+#25032
+`8Specialty Supplies``~
+You have stepped into the back part of the supply store.  Unlike the
+front, this room was well furnished and very much into quality over
+quantity.  The blades on the wall here are works of art, with designs cut
+into their blades and the hilts themselves often making elaborate patterns. 
+There is a heavily armed man standing here, beside his weapons.  
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 25031
+S
+#25033
+`8The Fort Path``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25034
+D2
+~
+~
+0 0 25023
+S
+#25034
+`8The Northern Commons``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25035
+D1
+~
+~
+0 0 25039
+D2
+~
+~
+0 0 25033
+D3
+~
+~
+0 0 25036
+D4
+~
+~
+0 0 25064
+S
+#25035
+`8The Northern Gate``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 30891
+D2
+~
+~
+0 0 25034
+S
+#25036
+`8Behind the Northern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25034
+D3
+~
+~
+0 0 25037
+S
+#25037
+`8Behind the Northern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25036
+D3
+~
+~
+0 0 25038
+S
+#25038
+`8The Northwest Corner of the Fort``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25037
+D2
+~
+~
+0 0 25056
+D4
+~
+~
+0 0 25059
+S
+#25039
+`8Behind the Northern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25040
+D3
+~
+~
+0 0 25034
+S
+#25040
+`8Behind the Northern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25041
+D3
+~
+~
+0 0 25039
+S
+#25041
+`8The Northeast Corner of the Fort``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 25042
+D3
+~
+~
+0 0 25040
+D4
+~
+~
+0 0 25062
+S
+#25042
+`8Behind the Eastern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25041
+D2
+~
+~
+0 0 25043
+S
+#25043
+`8Behind the Eastern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25042
+D2
+~
+~
+0 0 25003
+S
+#25044
+`8Behind the Eastern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25003
+D2
+~
+~
+0 0 25045
+S
+#25045
+`8Behind the Eastern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25044
+D2
+~
+~
+0 0 25050
+S
+#25046
+`8The Fort Path``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25024
+D2
+~
+~
+0 0 25047
+S
+#25047
+`8The Southern Square``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25046
+D1
+~
+~
+0 0 25048
+D2
+~
+~
+0 0 25058
+D3
+~
+~
+0 0 25051
+D4
+~
+~
+0 0 25065
+S
+#25048
+`8Behind the Southern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25049
+D3
+~
+~
+0 0 25047
+S
+#25049
+`8Behind the Southern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25050
+D3
+~
+~
+0 0 25048
+S
+#25050
+`8The Southeast Corner of the Fort``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25045
+D3
+~
+~
+0 0 25049
+D4
+~
+~
+0 0 25061
+S
+#25051
+`8Behind the Southern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25047
+D3
+~
+~
+0 0 25052
+S
+#25052
+`8Behind the Southern Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25051
+D3
+~
+~
+0 0 25053
+S
+#25053
+`8The Southwest Corner of the Fort``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched 
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25054
+D1
+~
+~
+0 0 25052
+D4
+~
+~
+0 0 25060
+S
+#25054
+`8Behind the Western Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25055
+D2
+~
+~
+0 0 25053
+S
+#25055
+`8Behind the Western Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25007
+D2
+~
+~
+0 0 25054
+S
+#25056
+`8Behind the Western Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25038
+D2
+~
+~
+0 0 25057
+S
+#25057
+`8Behind the Western Wall``~
+You are cramped into a tiny space between the walls of the fort, usually
+used to quickly move ground forces from one post to another or to
+strategically place ground forces in the rare case that the walls are
+breeched.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25056
+D2
+~
+~
+0 0 25007
+S
+#25058
+`8The Southern Gate``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25047
+D2
+~
+~
+0 0 30900
+S
+#25059
+`8Atop the Northwestern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25082
+D2
+~
+~
+0 0 25080
+D5
+~
+~
+0 0 25038
+S
+#25060
+`8Atop the Southwestern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25084
+D1
+~
+~
+0 0 25085
+D5
+~
+~
+0 0 25053
+S
+#25061
+`8Atop the Southeastern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25090
+D3
+~
+~
+0 0 25088
+D5
+~
+~
+0 0 25050
+S
+#25062
+`8Atop the Northeastern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 25092
+D3
+~
+~
+0 0 25094
+D5
+~
+~
+0 0 25041
+S
+#25063
+`8Above the Central Square``~
+You are directly above the central square of the supply fort, on a small
+five or six foot wide platform accessed by a spiral staircase which always
+seemed to be backed up.  To your north, south, east and west are tiny
+passages which are really little more than beams connecting the various
+windows of the store shops.  There is a considerible amount of noise coming
+from the northeast.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25072
+D1
+~
+~
+0 0 25069
+D2
+~
+~
+0 0 25074
+D3
+~
+~
+0 0 25070
+D5
+~
+~
+0 0 25000
+S
+#25064
+`8Atop the Northern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25093
+D2
+~
+~
+0 0 25073
+D3
+~
+~
+0 0 25081
+D5
+~
+~
+0 0 25034
+S
+#25065
+`8Atop the Southern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25075
+D1
+~
+~
+0 0 25087
+D3
+~
+~
+0 0 25086
+D5
+~
+~
+0 0 25047
+S
+#25066
+`8Atop the Western Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25079
+D1
+~
+~
+0 0 25071
+D2
+~
+~
+0 0 25083
+D5
+~
+~
+0 0 25007
+S
+#25067
+`8Atop the Eastern Post``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25091
+D2
+~
+~
+0 0 25089
+D3
+~
+~
+0 0 25068
+D5
+~
+~
+0 0 25003
+S
+#25068
+`8East in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25078
+D1
+~
+~
+0 0 25067
+D3
+~
+~
+0 0 25069
+S
+#25069
+`8East in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25068
+D3
+~
+~
+0 0 25063
+S
+#25070
+`8West in the Loft``~
+Desc You are carefully walking on what is not much more than a single
+tree trunk running across the tops of the shops down below.  Balancing
+delicately on the two foot wide log, you have to be careful not to fall from
+the crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25063
+D3
+~
+~
+0 0 25071
+S
+#25071
+`8West in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25070
+D2
+~
+~
+0 0 25015
+D3
+~
+~
+0 0 25066
+S
+#25072
+`8North in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25073
+D2
+~
+~
+0 0 25063
+S
+#25073
+`8North in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25064
+D1
+~
+~
+0 0 25076
+D2
+~
+~
+0 0 25072
+S
+#25074
+`8South in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25063
+D2
+~
+~
+0 0 25075
+S
+#25075
+`8South in the Loft``~
+You are carefully walking on what is not much more than a single tree
+trunk running across the tops of the shops down below.  Balancing delicately
+on the two foot wide log, you have to be careful not to fall from the
+crossbeams, which are primarily used to move archers from one wall to
+another.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25074
+D2
+~
+~
+0 0 25065
+S
+#25076
+`8Nearing the Bazaar``~
+Stepping between two of the large logs that form the wall, you are able
+to squeeze into a backroom which is, surprisingly, full of random
+assortments from around the lands.  It seems that whoever owns this place
+has no problem with souvenirs or spending money.  For instance, you see a
+rather funny shirt off to the side next to a figurine.  To the east you can
+hear the sounds of bargaining.  
+~
+~
+0 0 0 0
+E
+figurine~
+Before you is a figure set made of straw.  There are two people in this
+particular set and an inscription below it.  The first is of a might man,
+with large, bugling muscles and a drawn sword.  This figure was labeled "Pal
+the Mighty Savior of Our People".
+ 
+The second figurine is four or five times the size of the first and is 
+holding a small cake in each hand, as well as stuffed with two or three more. 
+Below this figurine is written "Kel the Round, eater of all things, 
+challenge to the earth mother herself."
+ 
+A small sign is hung below this one which reads, "Smartass Vilagers".
+~
+E
+shirt~
+It seems to be a regular enough brownish tunic shirt, except written on
+the front white letters are the words, "My Brother went to the mountains of
+eternal peril, battled the beast of the ages, crossed the channels of time,
+destroyed the last orb of darkness, assassinated the king of shadows, gained
+eternal fame...  And all I got was this lousy tunic."  
+ 
+A bit long, maybe.
+~
+D1
+~
+~
+0 0 25077
+D3
+~
+~
+0 0 25073
+S
+#25077
+`8The Kel-Shin-Ro Bazaar``~
+You have entered the world famous Bazaar, where it is said the fattest
+man in the world will pay the fattest prices!  All of the walls are covered
+with useless artifacts such as cups and eating utensils, or toys and joke
+scrolls.  In the back of the room is a large, 600 pound man wearing what
+looks extremely like a dress.  
+~
+~
+0 0 0 0
+D2
+~
+~
+0 0 25078
+D3
+~
+~
+0 0 25076
+S
+#25078
+`8Entrance to the Bazaar``~
+You are at the main entrance to the bazaar, which is usually rather
+crowded with sellers more often than buyers.  It was a wonder if the Kel
+actually ever sold anything, but his brother kept a steady amount of money
+coming into the area, so he never went without- clearly.  There is a tub of
+dirty dishes on it, over 7 foot wide and filled to the brim.  On this bin is
+written the words "MUST BE CHANGED AT NOON AND MIDNIGHT, NO DELAYS THIS
+TIME!  - Kel".  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25077
+D2
+~
+~
+0 0 25068
+S
+#25079
+`8The Western Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25080
+D2
+~
+~
+0 0 25066
+S
+#25080
+`8The Western Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25059
+D2
+~
+~
+0 0 25079
+S
+#25081
+`8The Northern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25064
+D3
+~
+~
+0 0 25082
+S
+#25082
+`8The Northern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25081
+D3
+~
+~
+0 0 25059
+S
+#25083
+`8The Western Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25066
+D2
+~
+~
+0 0 25084
+S
+#25084
+`8The Western Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25083
+D2
+~
+~
+0 0 25060
+S
+#25085
+`8The Southern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25086
+D3
+~
+~
+0 0 25060
+S
+#25086
+`8The Southern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25065
+D3
+~
+~
+0 0 25085
+S
+#25087
+`8The Southern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25088
+D3
+~
+~
+0 0 25065
+S
+#25088
+`8The Southern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25061
+D3
+~
+~
+0 0 25087
+S
+#25089
+`8The Eastern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25067
+D2
+~
+~
+0 0 25090
+S
+#25090
+`8The Eastern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25089
+D2
+~
+~
+0 0 25061
+S
+#25091
+`8The Eastern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25092
+D2
+~
+~
+0 0 25067
+S
+#25092
+`8The Eastern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 25062
+D2
+~
+~
+0 0 25091
+S
+#25093
+`8The Northern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25094
+D3
+~
+~
+0 0 25064
+S
+#25094
+`8The Northern Posts``~
+There is barely room to crouch along the walls of the fort, where archers
+are constantly stationed, on the lookout for approaching threats.  The
+archers seem to take shifts watching as the others rest behind the wooden
+wall, which is formed of large wooden logs sharpened on one end and pointed
+to the sky.  It would certaily not bode well if you fell from this height.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25062
+D3
+~
+~
+0 0 25093
+S
+#25095
+~
+~
+~
+0 0 0 0
+D5
+~
+~
+0 0 25018
+S
+#25096
+`8The Second Floor of the Supply Post``~
+You're above the arms office and in a much larger room.  Armor is all
+around you, displayed with dates and the names of the men who donated them. 
+Strangely, regardless of the dates on the armor...  It all looks exactly the
+same.  
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 25097
+D5
+~
+~
+0 0 25031
+S
+#25097
+`8The Armor Shop``~
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 25096
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 25001 1 25009 1
+M 0 25000 1 25010 1
+M 0 25002 1 25010 1
+O 0 25013 0 25012
+M 0 25007 1 25014 1
+G 0 25017 0
+G 0 25018 0
+O 0 25016 0 25014
+M 0 25004 1 25031 1
+G 0 25001 0
+G 0 25002 0
+G 0 25003 0
+G 0 25005 0
+G 0 25006 0
+G 0 25007 0
+G 0 25008 0
+G 0 25009 0
+G 0 25010 0
+G 0 25011 0
+M 0 25005 1 25032 1
+G 0 25012 0
+G 0 25019 0
+M 0 25003 1 25077 1
+G 0 25000 0
+S
+
+
+
+#SHOPS
+25003 0 9 5 11 33 120 80 10 12
+25004 0 0 0 0 0 110 90 0 23
+25005 0 0 0 0 0 400 5 0 23
+25007 0 0 0 0 0 100 100 0 23
+25008 0 0 0 0 0 50 200 0 23
+0
+
+
+
+#MOBPROGS
+#25000
+emote lowers itself down into a sitting position.
+sit
+~
+#25001
+emote rolls over onto its back and pretends to be dead.
+sleep
+~
+#25002
+sit
+emote puts its paw forward towards $n.
+~
+#25003
+if  isnpc $n
+return;
+else
+say Ahh, so you are interrested in the beast, are you?
+emote smiles happily at $n.
+say With its fierce teeth and long, strong tail it is the strongest beast I have!
+say Its as they say, the beast is man's best friend!
+say Gracefully does it sit on command! 
+say Amazingly can it fool its enemies by faking death!
+say It can even shake your hand as if it were a man!
+endif
+~
+#25004
+say Welcome, welcome!
+pmote smiles at $n.
+say Welcome to Artov's Amazing Animals!
+say The most ferocious animals in all the lands!
+~
+#25005
+emote runs at a piece of trash and begins playing with it, delicately.
+~
+#25006
+emote sees a mouse and runs off towards it!
+north
+south
+east
+west
+~
+#25007
+emote purrs lightly.
+ 
+~
+#25008
+if rand 60
+if people > 4
+say Ahh, soooo busy...so, so...busy...what am I to do?
+emote circles around looking at all the people.
+pmote looks at $n and says, "Buy something or get the 'ell out of my shop!"
+break
+else
+endif
+if rand 20
+emote pants heavily as he waddles over to meet you!
+say Ahhh! Customer! What would you like to buy, eh?
+emote looks at you.
+say Well...You going to buy anything or sit there looking at me?!
+emote mutters something foul as he waddles back to his seat.
+break
+else
+endif
+if rand 40
+say Welcome to Kel-Shin-Ro's Bazaar!
+say You had better not make trouble or my brother Pal will kick you out!
+pmote raises his large nose at $n.
+say You don't believe me? He was an assassin, you know!
+break
+else
+endif
+if rand 50
+emote drifts off to sleep...zzz...zzz...
+emote hears the sound of the door and jumps up out of his seat!
+say ...PELTS! We buy pelts! From all the local hunting spots!
+pmote looks at $n and says, "Oh, its you...who are you? Whoever, go watch for my brother...if he catches me sleeping again he's going to tell his guards to stop bringing me food!
+piss $n
+say You obviously haven't seen the size of that ladder...and the food is downstairs!
+emote looks genuinely scared.
+break
+else
+endif
+~
+#25010
+if rand 50
+if has $n weapon
+else
+say Ho! You ain't got no weapon!
+pmote looks at $n, shocked.
+say TO THE FRONT OF THE LINE!!!!
+break
+endif
+else
+if rand 50
+if grpsize $n > 6 
+say Wow! You sure do travel in large groups...
+emote looks back at the door behind him.
+emote screams back, "HURRY UP! We gots ourselves a big ole group of customers!"
+break
+else
+endif
+else
+if rand 50
+is isblood $n
+say Har! Someone is back from fightin it looks likah!
+say Break your weapon? Well, we sells good weapons here, YAP!
+else
+endif
+else
+if rand 10
+say Ah, Welcome to the supply post's arms center!
+say We pride 'areselves on quality, price friendly weapons!
+smirk $n
+say Just cuz the weapon's cheap don't mean it ain't amazin!
+break
+else
+if rand 20
+beckon $n
+say Lets get on wid it! Lots o' peoples tah serve!
+break
+else
+if rand 30
+pmote squints at $n.
+say You look like a weakly little runt...should I take some o' tha metal of me weapons so yas can wield em?
+break
+else
+if rand 40
+if people > 3
+say Ho! Lets hurry up! Lots of people wantin weapons! 
+emote looks up fer a bit.
+say I sure hope them peace-loving-gits don't get their way...I'd really be out of a job...
+break
+else
+endif
+else
+endif
+endif
+endif
+endif
+endif
+endif
+endif
+~
+#25011
+if isnpc $n
+break
+else
+say Ah, well, that there is something master Pal brought back when he freed a group of quickling from the evil ogre king! Har! Brought back...I am so funny...
+pmote looks oddly at $n.
+say Ah, you don't know...the mage masher is made from the bones of the king 'imself!
+endif
+~
+#25012
+say If you have any questions about me armor, me will fill you in!
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

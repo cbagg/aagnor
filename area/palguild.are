@@ -1,0 +1,532 @@
+#AREADATA
+Name Paladin Guild~
+Pref Paladin Guild~
+Builders Brinson~
+VNUMs 32700 32729
+Max_Bastions 0
+Credits (guild) Brinson  Paladin Guild~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#32700
+Shrimtah Guard Paladin~
+Shrimtah, Loyal Guard of the Paladin Guild~
+Shrimtah stands here, waving his polearm around.
+~
+~
+human~
+A A 0 0 0 0
+35 15 100d5+200 0d0+0 10d10+5 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+P EXALL 32700 east~
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#32700
+`8The Entrance to the Paladin Guild``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32701
+S
+#32701
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32702
+D3
+~
+~
+0 0 32700
+S
+#32702
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32703
+D2
+~
+~
+0 0 32704
+D3
+~
+~
+0 0 32701
+S
+#32703
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32707
+D2
+~
+~
+0 0 32702
+S
+#32704
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32702
+D1
+~
+~
+0 0 32705
+S
+#32705
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32706
+D1
+~
+~
+0 0 32718
+D3
+~
+~
+0 0 32704
+S
+#32706
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32707
+D2
+~
+~
+0 0 32705
+S
+#32707
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32708
+D2
+~
+~
+0 0 32706
+D3
+~
+~
+0 0 32703
+S
+#32708
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32709
+D2
+~
+~
+0 0 32707
+S
+#32709
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32710
+D1
+~
+~
+0 0 32711
+D3
+~
+~
+0 0 32708
+S
+#32710
+`7The Hall of the Virtuous``~
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32709
+S
+#32711
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32720
+D2
+~
+~
+0 0 32712
+D3
+~
+~
+0 0 32709
+S
+#32712
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32711
+D2
+~
+~
+0 0 32713
+S
+#32713
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32712
+D1
+~
+~
+0 0 32714
+D2
+~
+~
+0 0 32715
+S
+#32714
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32721
+D3
+~
+~
+0 0 32713
+S
+#32715
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32713
+D2
+~
+~
+0 0 32716
+S
+#32716
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32715
+D1
+~
+~
+0 0 32717
+D3
+~
+~
+0 0 32718
+S
+#32717
+`7The Hall of the Righteous``~
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32716
+S
+#32718
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 32716
+D2
+~
+~
+0 0 32719
+D3
+~
+~
+0 0 32705
+S
+#32719
+`7The Hall of the Devout``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32718
+S
+#32720
+`7The Hall of the Gallant``~
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32711
+S
+#32721
+`8The Hall of Asceticism``~
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 32722
+D1
+~
+~
+0 0 32724
+D2
+~
+~
+0 0 32723
+D3
+~
+~
+0 0 32714
+S
+#32722
+`7The Hall of the Helper``~
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32721
+S
+#32723
+`7The Hall of the Merciful``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32721
+S
+#32724
+`7The Path to Ascension``~
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32721
+D5
+~
+~
+0 0 32725
+S
+#32725
+`7The Path of the Avenger``~
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32726
+D4
+~
+~
+0 0 32724
+S
+#32726
+`7The Path of Sacrifice``~
+~
+~
+0 0 0 1
+D1
+~
+~
+0 0 32725
+D5
+~
+~
+0 0 32727
+S
+#32727
+`7The Path of Death``~
+~
+~
+0 0 0 1
+D3
+~
+~
+0 0 32728
+D4
+~
+~
+0 0 32726
+S
+#32728
+`7The Path of Truth``~
+~
+~
+0 0 0 1
+D0
+~
+~
+0 0 32729
+D1
+~
+~
+0 0 32727
+S
+#32729
+`7The Road We All Must Take``~
+~
+~
+0 0 0 1
+D2
+~
+~
+0 0 32728
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 32700 1 32700 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#32700
+if isimmort $n
+emote begins to drift off as his eyes lose their focus.
+emote mutters in a zombie-like voice, "True Lord of Power, may you enter my humble abode..."
+else
+if class $n paladin
+say The Blessings of Truth are upon you. You may pass.
+else
+mob stop $n
+say Attempt further entry and you will witness the true power of divinity.
+emote leaps forward with his.
+say The unworthy will never step foot in these halls. Be gone, Heathen.
+endif
+endif
+~
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

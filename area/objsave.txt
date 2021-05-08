@@ -1,0 +1,109 @@
+#O
+Vnum 10
+SaveVer 3001
+Room 31700
+Idle 4
+Home 0
+Nest 0
+ShD  the corpse of a wounded paladin~
+Desc The corpse of a wounded paladin is lying here.~
+Wear -1
+Lev  50
+Rec  32540
+Own  31701
+Time 2
+Cost 0
+End
+
+#O
+Vnum 12
+SaveVer 3001
+Room 31700
+Idle 4
+Home 0
+Nest 0
+ShD  the head of a wounded paladin~
+Desc The severed head of a wounded paladin is lying here.~
+Wear -1
+Time 3
+Cost 0
+Affc 'reserved'   0  50  -1   5  19          0   0   0    ~
+End
+
+#O
+Vnum 141
+SaveVer 3001
+Room 32493
+Idle 318
+Home 32472
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 32388
+SaveVer 3001
+Room 32339
+Idle 1217
+Home 32339
+Nest 0
+Wear -1
+Cost 100
+Val  0 0 -1 0 0
+Limited 32388
+End
+
+#O
+Vnum 31804
+SaveVer 3001
+Room 31883
+Idle 1217
+Home 31883
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 31805
+SaveVer 3001
+Home 31883
+Nest 1
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 25019
+SaveVer 3001
+Room 25032
+Idle 1212
+Home 25032
+Nest 0
+Wear -1
+Cost 500000
+Limited 25019
+End
+
+#O
+Vnum 24006
+SaveVer 3001
+Room 24009
+Idle 1217
+Home 24009
+Nest 0
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 24007
+SaveVer 3001
+Home 24009
+Nest 1
+Wear -1
+Cost 0
+End
+
+#END

@@ -1,0 +1,3256 @@
+#AREADATA
+Name Ravndhin~
+Pref ~
+Builders Akara~
+VNUMs 11600 11799
+Max_Bastions 0
+Credits ( All ) Akara    Ravndhin~
+Security 9
+Startroom 0
+Flags 2
+Crimes 6 0 0 0 0 1 3 
+End
+
+
+
+#CABALS
+#0
+
+
+
+#MOBILES
+#11600
+Nuttsy the Nutty Squirrel~
+Nuttsy the Nutty Squirrel~
+A giant squirrel is here trying to sell you stuff.
+~
+~
+human~
+ABe A 0 0 0 0
+60 60 100d100+10000 0d0+0 10d5+25 none
+-40 -40 -40 -30
+0 0 0 0
+stand stand male none~
+10000
+AHMV ABCDEFGHIJK giant 0
+#11601
+Candy the Bunny~
+Candy the bunny~
+A large sexy rabbit standing on two feet is here serving drinks 
+~
+~
+rabbit~
+ABe A 0 0 0 0
+60 60 100d100+10000 0d0+0 10d5+25 none
+-40 -40 -40 -30
+FH 0 0 0
+stand stand female none~
+10000
+AGV ACDEFHJK medium 0
+#11602
+Chuym~
+Chuym the gnome~
+Chuym the gnome stands behind the counter mixing up herbs
+~
+~
+unique~
+ABe A 0 0 0 0
+60 60 100d100+10000 0d0+0 10d5+25 none
+-40 -40 -40 -30
+0 0 0 0
+stand stand male none~
+10000
+0 0 small 0
+#11603
+Berala the baker.~
+Berala the baker~
+Berala the baker stands here.
+~
+~
+unique~
+ABe A 0 0 0 0
+60 60 100d100+10000 0d0+0 10d5+25 none
+-40 -40 -40 -30
+0 0 0 0
+stand stand female none~
+10000
+0 0 medium 0
+#11604
+willy~
+Willy~
+Willy the butcher
+~
+~
+gnome~
+ABe A J 0 0 0
+60 100 10d10+1000 0d0+0 10d5+50 none
+-14 -14 -14 -14
+0 0 0 BP
+stand stand male none~
+0
+AHMV ABCDEFGHIJK medium 0
+#11605
+A rebellious druid~
+A rebellious druid~
+A rebellious druid is here.
+~
+~
+human~
+ABJKLbe A 0 0 0 0
+60 75 100d100+1000 0d0+0 5d10+50 grep
+-40 -40 -40 -40
+0 AB 0 0
+stand stand either none~
+0
+AHMV ABCDEFGHIJK medium 0
+#11606
+Banker~
+The banker~
+A tall creature is here looking greedily at your purse.
+~
+~
+unique~
+ABLe A 0 0 0 0
+60 0 100d100+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand either none~
+0
+0 0 medium 0
+#11607
+Healer druid~
+The temple healer~
+A short druid is here healing those who need it.
+~
+~
+human~
+ABLae A 0 0 0 0
+60 0 100d100+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#11608
+town clerk~
+Towns clerk~
+The town's clerk is here doing paper work.
+~
+~
+human~
+ABLe A 0 0 0 0
+60 0 100d100+1000 0d0+0 0d0+0 none
+0 0 0 0
+0 AB 0 0
+stand stand none none~
+0
+AHMV ABCDEFGHIJK medium 0
+#0
+
+
+
+#OBJECTS
+#11600
+A spring~
+A spring~
+A natural springs bubbles from the ground.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#11601
+A bag~
+A bag~
+A small bag~
+cloth~
+container 0 A
+100 A 0 100 50
+1 2 200 P
+#11602
+A canoe~
+A canoe~
+A long canoe~
+unknown~
+boat 0 A
+0 0 0 0 0
+1 5 300 P
+#11603
+A lantern~
+A brass lantern~
+Extinguished~
+metal~
+light A A
+0 0 100 0 0
+1 3 200 P
+#11604
+A jug~
+A clay jug~
+A clay jug lays here~
+clay~
+drink 0 A
+150 150 'water' 0 0
+1 3 200 P
+#11605
+A bottle of beer~
+A bottle of beer~
+A bottle of beer is here~
+glass~
+drink 0 A
+30 30 'water' 0 0
+1 1 12 P
+#11606
+A bottle of ale~
+A bottle of ale~
+A bottle of ale is here~
+glass~
+drink 0 A
+30 30 'ale' 0 0
+1 1 50 P
+#11607
+A bottle of dark ale~
+A bottle of dark ale~
+A bottle of dark ale is here~
+glass~
+drink 0 A
+30 30 'dark ale' 0 0
+1 1 55 P
+#11608
+A stein of mead~
+A stein of mead~
+A stein of mead is here~
+glass~
+drink 0 A
+50 50 'mead' 0 0
+2 1 100 P
+#11609
+Potion of recall~
+A potion of recall~
+A potion of recall lies here.~
+potion~
+potion 0 AO
+50 'word of recall' '' '' ''
+10 1 1500 P
+#11610
+Potion of flight~
+A potion of flight~
+A potion of flight lies here.~
+potion~
+potion 0 AO
+25 'fly' '' '' ''
+25 1 2000 P
+#11611
+Potion of Invisibility~
+A potion of invisibility~
+A potion of invisibility lies here.~
+potion~
+potion 0 AO
+15 'invisibility' '' '' ''
+15 1 2000 P
+#11612
+Potion of detect-Invisibility ~
+A potion of detect-invisibility~
+A potion of detect-invisibility lies here.~
+potion~
+potion 0 AO
+15 'detect invis' '' '' ''
+15 0 2000 P
+#11613
+Loaf of bread~
+A load of bread~
+A loaf of bread is here~
+bread~
+food 0 0
+24 2 0 0 24
+0 0 10 P
+#11614
+Muffin~
+A muffin~
+A muffin is here.~
+bread~
+food 0 0
+24 2 0 0 24
+0 0 15 P
+#11615
+Bithday cake~
+A birthday cake~
+A birthday cake is here.~
+cake~
+food 0 0
+24 2 0 0 24
+0 0 50 P
+#11616
+Avain wing~
+Avain wing~
+A grilled avian wing is here.~
+flesh~
+food 0 0
+20 24 0 0 24
+0 0 5 P
+#11617
+slab of beef~
+A slab of beef~
+A slab of beef is here.~
+flesh~
+food 0 A
+34 34 0 0 50
+0 2 10 P
+#11618
+Bone gnower steak~
+A Bone Gnower steak~
+A Bone Gnower steak lies here.~
+flesh~
+food 0 A
+50 50 0 0 50
+0 2 15 P
+#11619
+Something unrecognizable~
+somthing unrecongnizable~
+Something unrecongnizable lies here.~
+flesh~
+food 0 A
+100 100 0 0 50
+1 10 50 P
+P LOOK 11619 100~
+#11665
+pit~
+the pit~
+The pit of offering is here.~
+unknown~
+container OT 0
+10000 0 0 10000 1
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#11600
+`2the northern entrance of Ravndhin``~
+Before you is the northern gate, large werewolves stand guard, 
+keeping watch over the city. There are many trees that are 
+lining up in a straight line, forming what looks like a wall. 
+The trees are so tightly close together that is makes it very 
+difficult for anyone to look more less enter the city 
+undetected. 
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11601
+S
+#11601
+`2North Square``~
+You stand amid the Northern square of Ravndhin. To the north and 
+south of you is Madeh Road.  To the north of you are the 
+ northern gates that lead out of the city.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11600
+D2
+~
+~
+0 0 11602
+S
+#11602
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11601
+D2
+~
+~
+0 0 11605
+D3
+~
+~
+ABM 0 11603
+S
+#11603
+`8A secret room``~
+The room is completely empty, except for the blood thirsty 
+giant. The walls are made of stone that already began to 
+erode. The floor is covered with the giants drool making it 
+ slippery to walk.
+~
+~
+0 828375040 0 0
+D1
+~
+~
+ABM 0 11602
+D3
+~
+~
+0 0 11604
+S
+#11604
+`8A secret room``~
+You've managed to pass the blood thirsty giant, now you have 
+to deal with an annoyed gnome. The room seems to be a bit 
+cramp and does not smell as bad as the last room. There is a 
+small chest in the corner waiting for someone to open it. 
+~
+~
+0 811597824 0 0
+D1
+~
+~
+0 0 11603
+S
+#11605
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11602
+D1
+~
+~
+0 0 11606
+D2
+~
+~
+0 0 11620
+D3
+~
+~
+0 0 11742
+S
+#11606
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+ in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11607
+D3
+~
+~
+0 0 11605
+S
+#11607
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+ in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11608
+D2
+~
+~
+0 0 11611
+D3
+~
+~
+0 0 11606
+S
+#11608
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11609
+D3
+~
+~
+0 0 11607
+S
+#11609
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11610
+D3
+~
+~
+0 0 11608
+S
+#11610
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+ in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11609
+D2
+~
+~
+0 0 11612
+S
+#11611
+`2Within a hut``~
+You walk inside a wooden hut. Nothing special about this 
+place. There is a small fireplace in the far corner and a 
+dinner table in the center of the house. Upon the walls 
+you see small paintings of a family standing together.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11607
+S
+#11612
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+ 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11610
+D2
+~
+~
+0 0 11614
+D3
+~
+~
+0 0 11613
+S
+#11613
+`2The Potion Shop``~
+Nothing very special about this shop. There is a small counter 
+in the center, the shopkeeper standing behind it. The shelves 
+is littered with herbs and bottles of unknown liquids. Small 
+ vials and scrolls hide behind the glass of the counter.
+~
+~
+0 8 0 3
+D1
+~
+~
+0 0 11612
+S
+#11614
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11612
+D2
+~
+~
+0 0 11615
+S
+#11615
+`2East Square``~
+You stand amid the eastern square of Ravndhin. Running from the 
+eastern point to western is Dylust Road. Towards the east you 
+will find Lake Falihe and a waterfall. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11614
+D3
+~
+~
+0 0 11616
+D5
+~
+~
+ABM 0 11639
+S
+#11616
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11618
+D1
+~
+~
+0 0 11615
+D3
+~
+~
+0 0 11617
+S
+#11617
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11616
+D3
+~
+~
+0 0 11619
+S
+#11618
+`2The Illuminated Dragon``~
+The sound of music can be heard even from the outside. As you step 
+inside you notice that chairs are lines up neatly along the bar. On the 
+other said of the tavern, small round tables create perfect rows. 
+Customers are talking amongst themselves and drinking their beverage of 
+choice.
+~
+~
+0 8 0 3
+D2
+~
+~
+0 0 11616
+S
+#11619
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11617
+D3
+~
+~
+0 0 11624
+S
+#11620
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11605
+D2
+~
+~
+0 0 11621
+S
+#11621
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11620
+D1
+~
+~
+0 0 11622
+D2
+~
+~
+0 0 11623
+S
+#11622
+`2Ravndhin's financial services``~
+You walk inside a wooden hut.  In the far corner there is a safe, a large
+bone gnawer stands guards in front of it.  In the center there is a counter
+with a teller that is happy to take your money.  
+~
+~
+0 8 0 3
+D3
+~
+~
+0 0 11621
+S
+#11623
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11621
+D2
+~
+~
+0 0 11624
+S
+#11624
+`2The Center of Ravndhin``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11623
+D1
+~
+~
+0 0 11619
+D2
+~
+~
+0 0 11625
+D3
+~
+~
+0 0 11634
+S
+#11625
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11624
+D2
+~
+~
+0 0 11626
+S
+#11626
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11625
+D1
+~
+~
+0 0 11689
+D2
+~
+~
+0 0 11627
+D3
+~
+~
+0 0 11690
+S
+#11627
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11626
+D2
+~
+~
+0 0 11628
+S
+#11628
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11627
+D2
+~
+~
+0 0 11629
+S
+#11629
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11628
+D2
+~
+~
+0 0 11630
+S
+#11630
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11629
+D2
+~
+~
+0 0 11631
+S
+#11631
+`2Madeh Road``~
+The main path that stretches from north square to south square. 
+The small dirt path divides the this natural cities east and 
+west sides. Trees line up along the side, along with small 
+bushes with berries and flowers. Citizens of the city of 
+ Ravndhin, seem to be on their marry way.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11630
+D2
+~
+~
+0 0 11632
+S
+#11632
+`2South Square``~
+You stand amid the souther square of Ravndhin. Running from the 
+southern to the northern points is Madeh Road. To the south you 
+have the southern gates that lead out of the city towards the 
+Blood Wood Pines.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11631
+D2
+~
+~
+0 0 11633
+S
+#11633
+`2The southern entrance of Ravndhin``~
+Before you is the southern gate, large bears stand guard, 
+keeping watch over the city. There are many trees that are 
+lining up in a straight line, forming what looks like a wall. 
+The trees are so tightly close together that is makes it very 
+difficult for anyone to look more less enter the city 
+ undetected.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11632
+D2
+~
+~
+0 0 26051
+S
+#11634
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11624
+D3
+~
+~
+0 0 11635
+S
+#11635
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11634
+D3
+~
+~
+0 0 11636
+S
+#11636
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes.   
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11635
+D3
+~
+~
+0 0 11637
+S
+#11637
+`2Dylust Road``~
+The road divides Ravndhin's north and south sides. It looks 
+more like a narrow forest path then a city's road. Few homes 
+and shops are seen sitting along the edges of the road.  The 
+ground is littered with twigs, branches, leaves and vines. 
+Rabbits and squirrels are seen scurrying amongst the bushes   
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11733
+D1
+~
+~
+0 0 11636
+D3
+~
+~
+0 0 11638
+S
+#11638
+`2West Square``~
+You stand amid the western square of Ravndhin. Running from the 
+western point to the eastern is Dylust Road. Towards the west 
+you have the great oak tree, where you can find the guards 
+lookout and supply shop.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11637
+S
+#11639
+`8An underground tunnel``~
+It seams to be a bit cool and damp within the tunnel. Large 
+spiders and insects scurry around, trying to find shelter. 
+Large roots can be seen in the ceiling and are the only 
+ support the tunnel has from collapsing in on itself.
+~
+~
+0 41943049 0 0
+D3
+~
+~
+0 0 11640
+D4
+~
+~
+ABM 0 11615
+S
+#11640
+`8An underground tunnel``~
+It seams to be a bit cool and damp within the tunnel. Large 
+spiders and insects scurry around, trying to find shelter. 
+Large roots can be seen in the ceiling and are the only 
+ support the tunnel has from collapsing in on itself.
+~
+~
+0 41943049 0 0
+D1
+~
+~
+0 0 11639
+D4
+~
+~
+ABM 0 11641
+S
+#11641
+`2A path to Lake Falihe``~
+A large waterfall comes into view as you further yourself 
+in the lightly trotted path. The ground is becoming a bit 
+more wetter, making the dirt softer with a light layer of 
+sand. The path is slowly turning into an open area, less 
+and less trees are appearing as the shores of the lake 
+ comes closer.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11642
+D2
+~
+~
+0 0 11675
+D5
+~
+~
+ABM 0 11640
+S
+#11642
+`2A path to Lake Falihe``~
+A large waterfall comes into view as you further yourself 
+in the lightly trotted path. The ground is becoming a bit 
+more wetter, making the dirt softer with a light layer of 
+sand. The path is slowly turning into an open area, less 
+and less trees are appearing as the shores of the lake 
+ comes closer.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11643
+D3
+~
+~
+0 0 11641
+S
+#11643
+`^Lake Falihe``~
+You enter the shallow waters of Lake Falihe, the cool 
+breeze creates little ripples on the lakes surface. The 
+waters are cool and calm as you further yourself into the 
+waters.  Towards the east, all you could see is the 
+magnificent waters of the lake that stretches towards a 
+beautiful waterfall.
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 11644
+D3
+~
+~
+0 0 11642
+S
+#11644
+`^Lake Falihe``~
+You enter the shallow waters of Lake Falihe, the cool 
+breeze creates little ripples on the lakes surface. The 
+waters are cool and calm as you further yourself into the 
+waters.  Towards the east, all you could see is the 
+magnificent waters of the lake that stretches towards a 
+beautiful waterfall.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11643
+D1
+~
+~
+0 0 11648
+D2
+~
+~
+0 0 11645
+S
+#11645
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11644
+D1
+~
+~
+0 0 11647
+D2
+~
+~
+0 0 11646
+S
+#11646
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11645
+S
+#11647
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11648
+D3
+~
+~
+0 0 11645
+S
+#11648
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 11649
+D2
+~
+~
+0 0 11647
+D3
+~
+~
+0 0 11644
+S
+#11649
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11651
+D1
+~
+~
+0 0 11650
+D3
+~
+~
+0 0 11648
+S
+#11650
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D3
+~
+~
+0 0 11649
+S
+#11651
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11655
+D1
+~
+~
+0 0 11659
+D2
+~
+~
+0 0 11649
+D3
+~
+~
+0 0 11652
+S
+#11652
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11653
+D1
+~
+~
+0 0 11651
+S
+#11653
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11658
+D1
+~
+~
+0 0 11655
+D2
+~
+~
+0 0 11652
+D3
+~
+~
+0 0 11654
+S
+#11654
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 11653
+S
+#11655
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11657
+D1
+~
+~
+0 0 11656
+D2
+~
+~
+0 0 11651
+D3
+~
+~
+0 0 11653
+S
+#11656
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D3
+~
+~
+0 0 11655
+S
+#11657
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 11655
+D3
+~
+~
+0 0 11658
+S
+#11658
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 11657
+D2
+~
+~
+0 0 11653
+S
+#11659
+`^Lake Falihe``~
+You are surrounded by the blue-green waters of Lake Falihe. The 
+further you enter, the cooler the water becomes. Little white 
+ducks are scurrying around, splashing water as they dive deeper 
+for their next meals. The thundering sounds of the waterfalls 
+are becoming clearer as you go further into the lake.
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 11660
+D3
+~
+~
+0 0 11651
+S
+#11660
+`^Base of a waterfall``~
+You've reached the bottoms of the waterfall. The force of the 
+pressure of the thundering water is forming a foamy white 
+substances in the water. The water seems to bubble as if it was 
+ boiling, yet the water is near freezing.
+~
+~
+0 0 0 6
+D3
+~
+~
+0 0 11659
+D4
+~
+~
+0 0 11661
+S
+#11661
+`6Up a waterfall``~
+You begin your flight up the waterfall. The water seems 
+to look a more of a  transparent blue then that of the 
+lake. You take a quick glance into the waterfall and you 
+think you see a small cave opening behind the falling 
+ water and just like that it disappears.
+~
+~
+0 0 0 9
+D1
+~
+~
+ABM 0 11662
+D4
+~
+~
+0 0 11663
+D5
+~
+~
+0 0 11660
+S
+#11662
+`8Inside a cave``~
+You are within a secret cave behind a waterfall. The ground 
+is wet and covered in slime and moss, making it slippery to 
+walk. The smell of mold and musk emanates from all around. 
+The walls are solid and yet one of the sides seems to be out 
+ of place.
+~
+~
+0 60817416 0 0
+D3
+~
+~
+ABM 0 11661
+S
+#11663
+`6Up a waterfall``~
+The farther you fly up, the lower the ground becomes. You 
+can feel yourself getting wetter as you go further up the 
+waterfall. The water seems to look clearer then the actual 
+lake.
+~
+~
+0 0 0 9
+D4
+~
+~
+0 0 11664
+D5
+~
+~
+0 0 11661
+S
+#11664
+`6Up a waterfall``~
+The farther you fly up, the lower the ground becomes. You 
+can feel yourself getting wetter as you go further up the 
+waterfall. The water seems to look clearer then the actual 
+lake.
+~
+~
+0 0 0 9
+D4
+~
+~
+0 0 11666
+D5
+~
+~
+0 0 11663
+S
+#11665
+`8The pit of offering``~
+You are before a beautiful wooden altar made of red wood. The 
+walls are the tree it self. A young priest stands dressed in 
+green robes greetings those who enter. In the center there is a 
+pit of offering for those to offer sacrifices to the gods of 
+nature.
+~
+~
+0 8 0 0
+D4
+~
+~
+0 0 11706
+D5
+~
+~
+0 0 231
+S
+#11666
+`6Up a waterfall``~
+The farther you fly up, the lower the ground becomes. You 
+can feel yourself getting wetter as you go further up the 
+waterfall. The water seems to look clearer then the actual 
+lake.
+~
+~
+0 0 0 9
+D4
+~
+~
+0 0 11667
+D5
+~
+~
+0 0 11664
+S
+#11667
+`6Ontop of a waterfall``~
+After reaching the top of the waterfall you notice the large 
+river that stretches for miles. The edge of the water fall 
+is eroded by the strong currents of the water. Looking down 
+ you notice several open spaces that create  Ravndhin.
+~
+~
+0 0 0 9
+D1
+~
+~
+0 0 11668
+D5
+~
+~
+0 0 11666
+S
+#11668
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D1
+~
+~
+0 0 11669
+D3
+~
+~
+0 0 11667
+S
+#11669
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11673
+D1
+~
+~
+0 0 11671
+D2
+~
+~
+0 0 11670
+D3
+~
+~
+0 0 11668
+S
+#11670
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11669
+S
+#11671
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11672
+D3
+~
+~
+0 0 11669
+S
+#11672
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 11671
+D3
+~
+~
+0 0 11673
+S
+#11673
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D0
+~
+~
+0 0 11674
+D1
+~
+~
+0 0 11672
+D2
+~
+~
+0 0 11669
+S
+#11674
+`^Ontop of a waterfall``~
+The river's water seems to be out of control, the water is 
+pushing towards the waterfalls edge. Large boulders and 
+rocks lay embedded, scattered all over the river, creating 
+rapids making it difficult to swim through.
+~
+~
+0 0 0 6
+D2
+~
+~
+0 0 11673
+S
+#11675
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11641
+D2
+~
+~
+0 0 11676
+S
+#11676
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11675
+D3
+~
+~
+0 0 11677
+S
+#11677
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11683
+D1
+~
+~
+0 0 11676
+D2
+~
+~
+0 0 11678
+S
+#11678
+`2A rose garden``~
+Before you is a rose garden that is surrounded by woods. 
+There is a small path that winds through and around the 
+different shades of roses. There are benches that are placed 
+here and there where you may take a seat and take in all the 
+ beauty.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11677
+D2
+~
+~
+0 0 11679
+S
+#11679
+`2A rose garden``~
+Before you is a rose garden that is surrounded by woods. 
+There is a small path that winds through and around the 
+different shades of roses. There are benches that are placed 
+here and there where you may take a seat and take in all the 
+ beauty.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11678
+D1
+~
+~
+0 0 11681
+D2
+~
+~
+0 0 11680
+D3
+~
+~
+0 0 11682
+S
+#11680
+`2A rose garden``~
+There is a small path that winds through and around the 
+different shades of roses. There are benches that are placed 
+here and there where you may take a seat and take in all the 
+ beauty.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11679
+S
+#11681
+`2A rose garden``~
+Before you is a rose garden that is surrounded by woods. 
+There is a small path that winds through and around the 
+different shades of roses. There are benches that are placed 
+here and there where you may take a seat and take in all the 
+ beauty.
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 11679
+S
+#11682
+`2A rose garden``~
+Before you is a rose garden that is surrounded by woods. 
+There is a small path that winds through and around the 
+different shades of roses. There are benches that are placed 
+here and there where you may take a seat and take in all the 
+ beauty.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11679
+S
+#11683
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11677
+D3
+~
+~
+0 0 11684
+S
+#11684
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11683
+D2
+~
+~
+0 0 11685
+S
+#11685
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11684
+D3
+~
+~
+0 0 11686
+S
+#11686
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11687
+D1
+~
+~
+0 0 11685
+S
+#11687
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11688
+D2
+~
+~
+0 0 11686
+S
+#11688
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11687
+D3
+~
+~
+0 0 11689
+S
+#11689
+`2A path to Lake Falihe``~
+Before you is a path towards Lake Falihe. The ground is 
+littered with twigs and living vines that are reaching 
+out for you.  The small path is curvy and zig-zags 
+between the trees, making it easy to get lost within the 
+woods. Large trees are scattered all over towering over 
+ you, slightly blocking the sky.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11688
+D3
+~
+~
+0 0 11626
+S
+#11690
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11626
+D2
+~
+~
+0 0 11691
+S
+#11691
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11690
+D3
+~
+~
+0 0 11692
+S
+#11692
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11691
+D3
+~
+~
+0 0 11693
+S
+#11693
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11692
+D2
+~
+~
+0 0 11694
+S
+#11694
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11693
+D2
+~
+~
+0 0 11696
+D3
+~
+~
+0 0 11695
+S
+#11695
+`2The city clerk``~
+Welcome to the registry office. Here is where you will change 
+your home town. A young woman sits at her desk waiting for 
+you to chose where you wish to live next.
+~
+~
+0 1048576 0 3
+D1
+~
+~
+0 0 11694
+S
+#11696
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11694
+D3
+~
+~
+0 0 11697
+S
+#11697
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11696
+D2
+~
+~
+0 0 11698
+D3
+~
+~
+0 0 11700
+S
+#11698
+`8The Butcher Shop``~
+The smell of fresh meat could be smelled as you enter the shop. 
+Small chickens hang from the ceiling along with other game 
+birds. A elf stands behind a counter, wearing a blood stained 
+ apron. The floor is covered in blood from his last butcher.
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 11697
+D2
+~
+~
+0 0 11699
+S
+#11699
+`8The bakery``~
+The smell of fresh cooked bread can be smelled from as far 
+away as north square. The shop is small, due to the brick 
+oven that takes up most of the space. Smoke emanate from 
+the chimney, rising towards the hole in the ceiling. A 
+young human girl sits in the corner mixing ingredients for 
+ her next batch
+~
+~
+0 8 0 0
+D0
+~
+~
+0 0 11698
+S
+#11700
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11697
+D3
+~
+~
+0 0 11701
+S
+#11701
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11702
+D1
+~
+~
+0 0 11700
+D2
+~
+~
+0 0 11709
+S
+#11702
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11710
+D2
+~
+~
+0 0 11701
+D3
+~
+~
+0 0 11703
+S
+#11703
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11702
+D3
+~
+~
+0 0 11704
+S
+#11704
+`2Pavir Road``~
+Before you is a winding path, leading to nowhere special. 
+Along sides of the road is small huts that are raised off 
+the floor up into the trees. Small rabbits run in different 
+directions zig-zagging through the trees and bushes. Amongst 
+the leaves of the trees you can hear the sing-songs chirps 
+of the wild birds. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11703
+D5
+~
+~
+0 0 11705
+S
+#11705
+`8The temple of (add name here)``~
+You stand before the temple. The temple entrance is actually a 
+hole leading to a grand oak tree. The walls are actually the 
+roots of the tree that keeps the dirt from caving in.
+~
+~
+0 8 0 0
+D2
+~
+~
+0 0 11706
+D4
+~
+~
+0 0 11704
+S
+#11706
+`8Within the temple``~
+You are within the sacred temple. The walls are actually the 
+inside of a grand oak tree. South of you would find the alter 
+of nature and the pit of offering. To the east and west of 
+you are the rooms where you could privately meditate.
+~
+~
+0 8 0 0
+D0
+~
+~
+0 0 11705
+D1
+~
+~
+0 0 11708
+D3
+~
+~
+0 0 11707
+D5
+~
+~
+0 0 11665
+S
+#11707
+`8Meditation Room``~
+The room of mediation must be kept quiet. The room is empty, 
+but a small rug that is placed in the center. This is room is 
+ meant for private meditations and prayers.
+~
+~
+0 0 0 0
+D1
+~
+~
+0 0 11706
+S
+#11708
+`8Meditation Room``~
+The room of mediation must be kept quiet. The room is empty, 
+but a small rug that is placed in the center. This is room is 
+meant for private meditations and prayers. 
+~
+~
+0 8 0 0
+D3
+~
+~
+0 0 11706
+S
+#11709
+`2Within a hut.``~
+You walk inside a wooden hut. Nothing special about this 
+place. There is a small fireplace in the far corner and a 
+dinner table in the center of the house. Upon the walls you 
+see small paintings of a family standing together. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11701
+S
+#11710
+`2A winding road.``~
+This road winds and turns connecting Rynd Road and Pavir 
+Road. There is nothing special about the path. This is the 
+residential district of  Ravndhin, small huts made of bark 
+ and straw litter the area around you.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11712
+D1
+~
+~
+0 0 11711
+D2
+~
+~
+0 0 11702
+S
+#11711
+`2Within a hut.``~
+You walk inside a wooden hut. Nothing special about this 
+place. There is a small fireplace in the far corner and a 
+dinner table in the center of the house. Upon the walls you 
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 11710
+S
+#11712
+`2A winding road.``~
+This road winds and turns connecting Rynd Road and Pavir 
+Road. There is nothing special about the path. This is the 
+residential district of  Ravndhin, small huts made of bark 
+ and straw litter the area around you.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11713
+D2
+~
+~
+0 0 11710
+S
+#11713
+`2A winding road.``~
+This road winds and turns connecting Rynd Road and Pavir 
+Road. There is nothing special about the path. This is the 
+residential district of  Ravndhin, small huts made of bark 
+ and straw litter the area around you.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11714
+D3
+~
+~
+0 0 11712
+S
+#11714
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11715
+D2
+~
+~
+0 0 11713
+D3
+~
+~
+0 0 11716
+S
+#11715
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 11714
+S
+#11716
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11714
+D3
+~
+~
+0 0 11717
+S
+#11717
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11718
+D1
+~
+~
+0 0 11716
+D2
+~
+~
+0 0 11723
+D3
+~
+~
+0 0 11720
+S
+#11718
+`2Within a hut.``~
+You walk inside a wooden hut. Nothing special about this 
+place. There is a small fireplace in the far corner and a 
+dinner table in the center of the house. Upon the walls you 
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11717
+D3
+~
+~
+0 0 11719
+S
+#11719
+`2A small dirt path``~
+The small path before you leads towards the Great oak Tree. 
+Small huts are scattered around the area. You notice a few 
+citizens tending to their gardens and animals. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11724
+D1
+~
+~
+0 0 11718
+D2
+~
+~
+0 0 11720
+S
+#11720
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11719
+D1
+~
+~
+0 0 11717
+D3
+~
+~
+0 0 11721
+S
+#11721
+`2Rynd Road``~
+There's nothing special about the road you are on. Westward, 
+is the western gate out of Ravndhin. The path seems as if 
+the many people have come and gone from the city. Very few 
+trees can be seen along the path, yet looking towards the 
+ North, you can see a glimps of the Grand Oak tree. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11720
+D3
+~
+~
+0 0 11722
+S
+#11722
+`2West Gate``~
+Before you is the western gate, large wolverines stand guard, 
+keeping watch over the city. There are many trees that are 
+lining up in a straight line, forming what looks like a wall. 
+The trees are so tightly close together that is makes it very 
+difficult for anyone to look more less enter the city 
+undetected.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11721
+S
+#11723
+`2Training grounds.``~
+You've reached the training grounds, where you may train and 
+learn your skills and spells. The area around you was created 
+for the purpose of learning. Before you stands a young man 
+ whom is ready and willing to train you.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11717
+S
+#11724
+`2``~
+The small path before you leads towards the Great oak Tree. 
+Small huts are scattered around the area. You notice a few 
+citizens tending to their gardens and animals. 
+~
+~
+0 0 0 3
+D2
+~
+~
+0 0 11719
+D3
+~
+~
+0 0 11725
+S
+#11725
+`2Up an oak tree``~
+Wooden planks are attached to the giant oak, creating a path that 
+spirals around to the top. Large thick vines cover the trunk of 
+the tree hugging tightly. Leaves from the branches above you fall 
+freely down to the ground. The view of Ravndhin can be seen 
+ better the further you go up the wooden path. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11724
+D4
+~
+~
+0 0 11726
+S
+#11726
+`2Up an oak tree``~
+Wooden planks are attached to the giant oak, creating a path that 
+spirals around to the top. Large thick vines cover the trunk of 
+the tree hugging tightly. Leaves from the branches above you fall 
+freely down to the ground. The view of Ravndhin can be seen 
+better the further you go up the wooden path. 
+~
+~
+0 0 0 3
+D4
+~
+~
+0 0 11727
+D5
+~
+~
+0 0 11725
+S
+#11727
+`2Up an oak tree``~
+Wooden planks are attached to the giant oak, creating a path that 
+spirals around to the top. Large thick vines cover the trunk of 
+the tree hugging tightly. Leaves from the branches above you fall 
+freely down to the ground. The view of Ravndhin can be seen 
+ better the further you go up the wooden path.
+~
+~
+0 0 0 3
+D4
+~
+~
+0 0 11728
+D5
+~
+~
+0 0 11726
+S
+#11728
+`2Up an oak tree``~
+Wooden planks are attached to the giant oak, creating a path that 
+spirals around to the top. Large thick vines cover the trunk of 
+the tree hugging tightly. Leaves from the branches above you fall 
+freely down to the ground. The view of Ravndhin can be seen 
+ better the further you go up the wooden path.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11729
+D5
+~
+~
+0 0 11727
+S
+#11729
+`2On top of an oak tree``~
+You have reached the top of the great oak tree. The branches of the 
+tree spread out, making enough room and space for a path that 
+splits in different directions. Small rodents are playing and 
+chasing each other upon the large branches.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11732
+D1
+~
+~
+0 0 11730
+D2
+~
+~
+0 0 11728
+D3
+~
+~
+0 0 11731
+S
+#11730
+`2The look out``~
+You are on a large branch, big enough to have a seat and look out 
+into the city. The green leaves that never seem to die or changed 
+color ruffle in the breeze. Small birds are creating a ruckus from 
+ the branches above, yet it is peaceful here. 
+~
+~
+0 0 0 3
+D3
+~
+~
+0 0 11729
+S
+#11731
+`2The look out``~
+You are on a large branch, big enough to have a seat and look out 
+into the city. The green leaves that never seem to die or changed 
+color ruffle in the breeze. Small birds are creating a ruckus from 
+ the branches above, yet it is peaceful here. 
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11729
+S
+#11732
+`8Nuttsy's Adventurer's Supplies``~
+This tiny shop has only a single wooden shelf with few items. The 
+walls of the shop are actually some of the branches that have 
+been magically joint together to form it. Small squirrels and 
+chipmunks scurry around. Creating the most annoying sound, making 
+ you wonder how the shop keeper could stay sane.
+~
+~
+0 8 0 0
+D2
+~
+~
+0 0 11729
+S
+#11733
+`2Among the thorn bushes ``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11734
+D2
+~
+~
+0 0 11637
+S
+#11734
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11735
+D2
+~
+~
+0 0 11733
+S
+#11735
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11736
+D2
+~
+~
+0 0 11734
+D5
+~
+~
+0 0 11743
+S
+#11736
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11737
+D2
+~
+~
+0 0 11735
+S
+#11737
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11738
+D3
+~
+~
+0 0 11736
+S
+#11738
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11742
+D2
+~
+~
+0 0 11739
+D3
+~
+~
+0 0 11737
+S
+#11739
+`2Just a random path in the bushes``~
+As what it seams, you are walking on a random path that heads to a 
+dead end. Nothing very special about the path before you. The 
+ground is covered in dirt and lively vines. There are several hut 
+like houses litter each side of the road. The doors close as you 
+walk by.
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11738
+D2
+~
+~
+0 0 11740
+S
+#11740
+`2Just a random path in the bushes``~
+As what it seams, you are walking on a random path that heads to a 
+dead end. Nothing very special about the path before you. The 
+ground is covered in dirt and lively vines. There are several hut 
+like houses litter each side of the road. The doors close as you 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11739
+D2
+~
+~
+0 0 11741
+S
+#11741
+`2Just a random path in the bushes``~
+As what it seams, you are walking on a random path that heads to a 
+dead end. Nothing very special about the path before you. The 
+ground is covered in dirt and lively vines. There are several hut 
+like houses litter each side of the road. The doors close as you 
+~
+~
+0 0 0 3
+D0
+~
+~
+0 0 11740
+S
+#11742
+`2Among the thorn bushes``~
+Wild thorn bushes are placed close to the edge of the path, giving 
+the illutions that the vines are ready to reach out and grab anyone 
+or anything that comes through. Bright magenta berries are growing 
+in the center, protected by the razor sharp thorns.
+~
+~
+0 0 0 3
+D1
+~
+~
+0 0 11605
+D3
+~
+~
+0 0 11738
+S
+#11743
+`8Entrance of the Jail.``~
+Welcome to the Ravndhin jail house. Before you is a large 
+desk that stands five feet tall. A large bear sits behind 
+the desk, looking down at you waiting for you to speak. You 
+could hear screams from the cells that are behind the desk.
+~
+~
+0 0 0 0
+D3
+~
+~
+0 0 11744
+D4
+~
+~
+0 0 11735
+S
+#11744
+`8Inside the jail``~
+Many cells are before you each numbered with their respected 
+number. The walls are wet and covered with vines. Roots are 
+pursing themselves up from the ground. Glancing over the 
+cells, you could see prisoners reaching out towards you.
+~
+~
+0 0 0 0
+D0
+~
+~
+0 0 11747
+D1
+~
+~
+0 0 11743
+D2
+~
+~
+0 0 11745
+D3
+~
+~
+0 0 11746
+S
+#11745
+`8Cell 3``~
+Three of the four walls are made of stone, as the forth is iron 
+bars with a small metal door that is locked. The dirt covered 
+ground feels as though it was steel, making it impossible for 
+anything to grow or dig through it. Face it you are stuck in 
+here for a long time, there is no way out. This would be a good 
+time to think of what you did and how to further prevent it from 
+happening again
+~
+~
+0 870318080 128 0
+D0
+~
+~
+0 0 11744
+S
+#11746
+`8Cell 2``~
+Three of the four walls are made of stone, as the forth is iron 
+bars with a small metal door that is locked. The dirt covered 
+ground feels as though it was steel, making it impossible for 
+anything to grow or dig through it. Face it you are stuck in 
+here for a long time, there is no way out. This would be a good 
+time to think of what you did and how to further prevent it from 
+happening again
+~
+~
+0 870318080 128 0
+D1
+~
+~
+0 0 11744
+S
+#11747
+`8Cell 1``~
+Three of the four walls are made of stone, as the forth is iron 
+bars with a small metal door that is locked. The dirt covered 
+ground feels as though it was steel, making it impossible for 
+anything to grow or dig through it. Face it you are stuck in 
+here for a long time, there is no way out. This would be a good 
+time to think of what you did and how to further prevent it from 
+happening again.
+~
+~
+0 870318080 128 0
+D2
+~
+~
+0 0 11744
+S
+#0
+
+
+
+#ARMIES
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#TRAPS
+#0
+
+#RESETS
+M 0 11602 1 11613 1
+G 0 11609 0
+G 0 11611 0
+G 0 11612 0
+G 0 11610 0
+M 0 11601 1 11618 1
+G 0 11605 0
+G 0 11606 0
+G 0 11607 0
+G 0 11608 0
+M 0 11606 1 11622 1
+M 0 11605 1 11624 1
+O 0 11600 0 11624
+O 0 11600 0 11632
+M 0 11607 1 11665 1
+O 0 11665 0 11665
+M 0 11608 1 11695 1
+M 0 11604 1 11698 1
+G 0 11616 0
+G 0 11617 0
+G 0 11619 0
+G 0 11618 0
+M 0 11603 1 11699 1
+G 0 11613 0
+G 0 11614 0
+G 0 11615 0
+O 0 11665 0 11705
+O 0 11600 0 11717
+M 0 11600 1 11732 1
+G 0 11602 0
+G 0 11601 0
+G 0 11603 0
+G 0 11604 0
+S
+
+
+
+#SHOPS
+11600 0 0 0 0 0 100 50 6 20
+11601 0 0 0 0 0 100 50 6 20
+11602 0 0 0 0 0 100 50 6 20
+11603 0 0 0 0 0 100 50 6 20
+11604 0 0 0 0 0 100 50 6 20
+0
+
+
+
+#MOBPROGS
+#0
+
+S
+
+
+
+
+#OBJPROGS
+#11619
+obj echoat $n Not entirely sure what this was, but what ever killed it must have worked 
+obj echoat $n really hard to get it. Each limb is extraordinarily muscular and has a 
+obj echoat $n vicious set of claws on the end. Huge fang like teeth hang out from it's 
+obj echoat $n mouth. Suddenly it's eyes lock on you and mauls you just before running away.
+abj damge $n 20 20
+obj echo somthing unrecongnizable `1mauls`` you.
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$
